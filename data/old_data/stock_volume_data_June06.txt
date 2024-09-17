@@ -1,0 +1,301 @@
+value: ['3MINDIA.NS', 'ABB.NS', 'POWERINDIA.NS', 'ACC.NS', 'AIAENG.NS', 'APLAPOLLO.NS', 'AUBANK.NS', 'AARTIDRUGS.NS', 'AARTIIND.NS', 'AAVAS.NS', 'ABBOTINDIA.NS', 'ADANIENT.NS', 'ADANIGREEN.NS', 'ADANIPORTS.NS', 'ATGL.NS', 'ADANITRANS.NS', 'ABCAPITAL.NS', 'ABFRL.NS', 'ADVENZYMES.NS', 'AEGISCHEM.NS', 'AFFLE.NS', 'AJANTPHARM.NS', 'AKZOINDIA.NS', 'ALEMBICLTD.NS', 'APLLTD.NS', 'ALKEM.NS', 'ALKYLAMINE.NS', 'ALOKINDS.NS', 'AMARAJABAT.NS', 'AMBER.NS', 'AMBUJACEM.NS', 'ANGELBRKG.NS', 'APOLLOHOSP.NS', 'APOLLOTYRE.NS', 'ASAHIINDIA.NS', 'ASHOKLEY.NS', 'ASHOKA.NS', 'ASIANPAINT.NS', 'ASTERDM.NS', 'ASTRAZEN.NS', 'ASTRAL.NS', 'ATUL.NS', 'AUROPHARMA.NS', 'AVANTIFEED.NS', 'DMART.NS', 'AXISBANK.NS', 'BASF.NS', 'BEML.NS', 'BSE.NS', 'BAJAJ-AUTO.NS']
+Stock name:  3MINDIA.NS
+max volume days [(Timestamp('2021-05-28 00:00:00'), 18634), (Timestamp('2021-03-01 00:00:00'), 17103)]
+price data::: [(Timestamp('2021-05-28 00:00:00'), 25313.349609375)]
+price data::: [(Timestamp('2021-03-01 00:00:00'), 24148.650390625)]
+The last traded price is: 26110.44921875
+
+Stock name:  ABB.NS
+max volume days [(Timestamp('2021-05-31 00:00:00'), 1174066), (Timestamp('2021-06-01 00:00:00'), 717658)]
+price data::: [(Timestamp('2021-05-31 00:00:00'), 1668.8499755859375)]
+price data::: [(Timestamp('2021-06-01 00:00:00'), 1693.25)]
+The last traded price is: 1650.5
+
+Stock name:  POWERINDIA.NS
+max volume days [(Timestamp('2021-04-28 00:00:00'), 411122), (Timestamp('2021-02-18 00:00:00'), 316236)]
+price data::: [(Timestamp('2021-04-28 00:00:00'), 1691.694580078125)]
+price data::: [(Timestamp('2021-02-18 00:00:00'), 1431.4031982421875)]
+The last traded price is: 1895.75
+
+Stock name:  ACC.NS
+max volume days [(Timestamp('2021-04-20 00:00:00'), 5873433), (Timestamp('2021-03-22 00:00:00'), 4627665)]
+price data::: [(Timestamp('2021-04-20 00:00:00'), 1825.800048828125)]
+price data::: [(Timestamp('2021-03-22 00:00:00'), 1846.0146484375)]
+The last traded price is: 2009.9000244140625
+
+Stock name:  AIAENG.NS
+max volume days [(Timestamp('2021-03-03 00:00:00'), 1007114), (Timestamp('2021-03-04 00:00:00'), 317142)]
+price data::: [(Timestamp('2021-03-03 00:00:00'), 1834.6500244140625)]
+price data::: [(Timestamp('2021-03-04 00:00:00'), 1898.9000244140625)]
+The last traded price is: 1929.1500244140625
+
+Stock name:  APLAPOLLO.NS
+max volume days [(Timestamp('2021-02-17 00:00:00'), 1501038), (Timestamp('2021-03-03 00:00:00'), 837156)]
+price data::: [(Timestamp('2021-02-17 00:00:00'), 976.1500244140625)]
+price data::: [(Timestamp('2021-03-03 00:00:00'), 1243.1500244140625)]
+The last traded price is: 1322.6500244140625
+
+Stock name:  AUBANK.NS
+max volume days [(Timestamp('2021-03-30 00:00:00'), 7650626), (Timestamp('2021-05-03 00:00:00'), 6959261)]
+price data::: [(Timestamp('2021-03-30 00:00:00'), 1298.9000244140625)]
+price data::: [(Timestamp('2021-05-03 00:00:00'), 924.0499877929688)]
+The last traded price is: 1001.9500122070312
+
+Stock name:  AARTIDRUGS.NS
+max volume days [(Timestamp('2021-05-06 00:00:00'), 8227736), (Timestamp('2021-03-19 00:00:00'), 7824602)]
+price data::: [(Timestamp('2021-05-06 00:00:00'), 793.6500244140625)]
+price data::: [(Timestamp('2021-03-19 00:00:00'), 749.8499755859375)]
+The last traded price is: 759.7000122070312
+
+Stock name:  AARTIIND.NS
+max volume days [(Timestamp('2021-05-19 00:00:00'), 3136796), (Timestamp('2021-03-24 00:00:00'), 3097098)]
+price data::: [(Timestamp('2021-05-19 00:00:00'), 1665.800048828125)]
+price data::: [(Timestamp('2021-03-24 00:00:00'), 1318.0999755859375)]
+The last traded price is: 1690.75
+
+Stock name:  AAVAS.NS
+max volume days [(Timestamp('2021-04-12 00:00:00'), 505937), (Timestamp('2021-03-19 00:00:00'), 441974)]
+price data::: [(Timestamp('2021-04-12 00:00:00'), 2171.550048828125)]
+price data::: [(Timestamp('2021-03-19 00:00:00'), 2253.75)]
+The last traded price is: 2422.35009765625
+
+Stock name:  ABBOTINDIA.NS
+max volume days [(Timestamp('2021-06-03 00:00:00'), 41595), (Timestamp('2021-05-18 00:00:00'), 31255)]
+price data::: [(Timestamp('2021-06-03 00:00:00'), 15964.7001953125)]
+price data::: [(Timestamp('2021-05-18 00:00:00'), 16053.849609375)]
+The last traded price is: 15940.400390625
+
+Stock name:  ADANIENT.NS
+max volume days [(Timestamp('2021-05-27 00:00:00'), 36690935), (Timestamp('2021-03-23 00:00:00'), 31098225)]
+price data::: [(Timestamp('2021-05-27 00:00:00'), 1325.800048828125)]
+price data::: [(Timestamp('2021-03-23 00:00:00'), 1058.4000244140625)]
+The last traded price is: 1700.949951171875
+
+Stock name:  ADANIGREEN.NS
+max volume days [(Timestamp('2021-02-26 00:00:00'), 6662742), (Timestamp('2021-02-17 00:00:00'), 6145401)]
+price data::: [(Timestamp('2021-02-26 00:00:00'), 1159.8499755859375)]
+price data::: [(Timestamp('2021-02-17 00:00:00'), 1104.25)]
+The last traded price is: 1277.25
+
+Stock name:  ADANIPORTS.NS
+max volume days [(Timestamp('2021-04-07 00:00:00'), 97717880), (Timestamp('2021-04-06 00:00:00'), 64555516)]
+price data::: [(Timestamp('2021-04-07 00:00:00'), 814.75)]
+price data::: [(Timestamp('2021-04-06 00:00:00'), 835.5499877929688)]
+The last traded price is: 833.8499755859375
+
+Stock name:  ATGL.NS
+max volume days [(Timestamp('2021-05-27 00:00:00'), 31734209), (Timestamp('2021-02-16 00:00:00'), 9004169)]
+price data::: [(Timestamp('2021-05-27 00:00:00'), 1354.199951171875)]
+price data::: [(Timestamp('2021-02-16 00:00:00'), 497.0)]
+The last traded price is: 1637.5
+
+Stock name:  ADANITRANS.NS
+max volume days [(Timestamp('2021-05-27 00:00:00'), 30440408), (Timestamp('2021-02-17 00:00:00'), 5757036)]
+price data::: [(Timestamp('2021-05-27 00:00:00'), 1439.800048828125)]
+price data::: [(Timestamp('2021-02-17 00:00:00'), 756.25)]
+The last traded price is: 1602.050048828125
+
+Stock name:  ABCAPITAL.NS
+max volume days [(Timestamp('2021-02-22 00:00:00'), 26430475), (Timestamp('2021-02-16 00:00:00'), 19806981)]
+price data::: [(Timestamp('2021-02-22 00:00:00'), 106.1500015258789)]
+price data::: [(Timestamp('2021-02-16 00:00:00'), 97.75)]
+The last traded price is: 122.80000305175781
+
+Stock name:  ABFRL.NS
+max volume days [(Timestamp('2021-03-02 00:00:00'), 9727547), (Timestamp('2021-06-04 00:00:00'), 8144434)]
+price data::: [(Timestamp('2021-03-02 00:00:00'), 206.14999389648438)]
+price data::: [(Timestamp('2021-06-04 00:00:00'), 204.0)]
+The last traded price is: 204.0
+
+Stock name:  ADVENZYMES.NS
+max volume days [(Timestamp('2021-05-03 00:00:00'), 4305281), (Timestamp('2021-04-28 00:00:00'), 1825605)]
+price data::: [(Timestamp('2021-05-03 00:00:00'), 446.54998779296875)]
+price data::: [(Timestamp('2021-04-28 00:00:00'), 405.45001220703125)]
+The last traded price is: 414.95001220703125
+
+Stock name:  AEGISCHEM.NS
+max volume days [(Timestamp('2021-05-18 00:00:00'), 2433738), (Timestamp('2021-05-19 00:00:00'), 2118700)]
+price data::: [(Timestamp('2021-05-18 00:00:00'), 347.79998779296875)]
+price data::: [(Timestamp('2021-05-19 00:00:00'), 332.75)]
+The last traded price is: 366.8500061035156
+
+Stock name:  AFFLE.NS
+max volume days [(Timestamp('2021-02-15 00:00:00'), 589570), (Timestamp('2021-03-19 00:00:00'), 321380)]
+price data::: [(Timestamp('2021-02-15 00:00:00'), 5151.4501953125)]
+price data::: [(Timestamp('2021-03-19 00:00:00'), 5347.5)]
+The last traded price is: 5355.7998046875
+
+Stock name:  AJANTPHARM.NS
+max volume days [(Timestamp('2021-05-05 00:00:00'), 415462), (Timestamp('2021-05-06 00:00:00'), 412978)]
+price data::: [(Timestamp('2021-05-05 00:00:00'), 1947.800048828125)]
+price data::: [(Timestamp('2021-05-06 00:00:00'), 2001.0999755859375)]
+The last traded price is: 1955.300048828125
+
+Stock name:  AKZOINDIA.NS
+max volume days [(Timestamp('2021-03-19 00:00:00'), 272598), (Timestamp('2021-06-01 00:00:00'), 83682)]
+price data::: [(Timestamp('2021-03-19 00:00:00'), 2199.60009765625)]
+price data::: [(Timestamp('2021-06-01 00:00:00'), 2253.449951171875)]
+The last traded price is: 2264.35009765625
+
+Stock name:  ALEMBICLTD.NS
+max volume days [(Timestamp('2021-05-04 00:00:00'), 15616819), (Timestamp('2021-03-23 00:00:00'), 9578347)]
+price data::: [(Timestamp('2021-05-04 00:00:00'), 129.9499969482422)]
+price data::: [(Timestamp('2021-03-23 00:00:00'), 113.4000015258789)]
+The last traded price is: 125.30000305175781
+
+Stock name:  APLLTD.NS
+max volume days [(Timestamp('2021-05-04 00:00:00'), 1938333), (Timestamp('2021-05-05 00:00:00'), 1614773)]
+price data::: [(Timestamp('2021-05-04 00:00:00'), 1006.0999755859375)]
+price data::: [(Timestamp('2021-05-05 00:00:00'), 955.7999877929688)]
+The last traded price is: 949.5
+
+Stock name:  ALKEM.NS
+max volume days [(Timestamp('2021-05-25 00:00:00'), 1123804), (Timestamp('2021-05-05 00:00:00'), 942578)]
+price data::: [(Timestamp('2021-05-25 00:00:00'), 2905.0)]
+price data::: [(Timestamp('2021-05-05 00:00:00'), 2894.449951171875)]
+The last traded price is: 3164.949951171875
+
+Stock name:  ALKYLAMINE.NS
+max volume days [(Timestamp('2021-04-27 00:00:00'), 2073152), (Timestamp('2021-04-28 00:00:00'), 873130)]
+price data::: [(Timestamp('2021-04-27 00:00:00'), 3254.360107421875)]
+price data::: [(Timestamp('2021-04-28 00:00:00'), 3033.93994140625)]
+The last traded price is: 3592.800048828125
+
+Stock name:  ALOKINDS.NS
+max volume days [(Timestamp('2021-03-03 00:00:00'), 59903345), (Timestamp('2021-04-27 00:00:00'), 47143785)]
+price data::: [(Timestamp('2021-03-03 00:00:00'), 22.100000381469727)]
+price data::: [(Timestamp('2021-04-27 00:00:00'), 20.100000381469727)]
+The last traded price is: 20.700000762939453
+
+Stock name:  AMARAJABAT.NS
+max volume days [(Timestamp('2021-05-25 00:00:00'), 39123250), (Timestamp('2021-02-15 00:00:00'), 4314026)]
+price data::: [(Timestamp('2021-05-25 00:00:00'), 733.5999755859375)]
+price data::: [(Timestamp('2021-02-15 00:00:00'), 923.1622314453125)]
+The last traded price is: 758.5999755859375
+
+Stock name:  AMBER.NS
+max volume days [(Timestamp('2021-02-12 00:00:00'), 384578), (Timestamp('2021-05-25 00:00:00'), 326628)]
+price data::: [(Timestamp('2021-02-12 00:00:00'), 3186.050048828125)]
+price data::: [(Timestamp('2021-05-25 00:00:00'), 2766.25)]
+The last traded price is: 2770.85009765625
+
+Stock name:  AMBUJACEM.NS
+max volume days [(Timestamp('2021-02-26 00:00:00'), 21250569), (Timestamp('2021-04-30 00:00:00'), 19822885)]
+price data::: [(Timestamp('2021-02-26 00:00:00'), 272.52685546875)]
+price data::: [(Timestamp('2021-04-30 00:00:00'), 309.04998779296875)]
+The last traded price is: 332.04998779296875
+
+Stock name:  ANGELBRKG.NS
+max volume days [(Timestamp('2021-05-04 00:00:00'), 5032797), (Timestamp('2021-05-06 00:00:00'), 4552784)]
+price data::: [(Timestamp('2021-05-04 00:00:00'), 428.04998779296875)]
+price data::: [(Timestamp('2021-05-06 00:00:00'), 512.2000122070312)]
+The last traded price is: 812.3499755859375
+
+Stock name:  APOLLOHOSP.NS
+max volume days [(Timestamp('2021-02-15 00:00:00'), 4446974), (Timestamp('2021-02-16 00:00:00'), 4381584)]
+price data::: [(Timestamp('2021-02-15 00:00:00'), 3090.64990234375)]
+price data::: [(Timestamp('2021-02-16 00:00:00'), 3202.75)]
+The last traded price is: 3380.14990234375
+
+Stock name:  APOLLOTYRE.NS
+max volume days [(Timestamp('2021-05-14 00:00:00'), 24409802), (Timestamp('2021-04-30 00:00:00'), 19747072)]
+price data::: [(Timestamp('2021-05-14 00:00:00'), 208.0500030517578)]
+price data::: [(Timestamp('2021-04-30 00:00:00'), 216.35000610351562)]
+The last traded price is: 230.60000610351562
+
+Stock name:  ASAHIINDIA.NS
+max volume days [(Timestamp('2021-06-03 00:00:00'), 1545338), (Timestamp('2021-03-31 00:00:00'), 1320199)]
+price data::: [(Timestamp('2021-06-03 00:00:00'), 342.6000061035156)]
+price data::: [(Timestamp('2021-03-31 00:00:00'), 309.75)]
+The last traded price is: 331.6499938964844
+
+Stock name:  ASHOKLEY.NS
+max volume days [(Timestamp('2021-02-12 00:00:00'), 79628255), (Timestamp('2021-04-08 00:00:00'), 54015926)]
+price data::: [(Timestamp('2021-02-12 00:00:00'), 128.25)]
+price data::: [(Timestamp('2021-04-08 00:00:00'), 122.75)]
+The last traded price is: 128.39999389648438
+
+Stock name:  ASHOKA.NS
+max volume days [(Timestamp('2021-04-16 00:00:00'), 8092640), (Timestamp('2021-05-24 00:00:00'), 6029827)]
+price data::: [(Timestamp('2021-04-16 00:00:00'), 91.25)]
+price data::: [(Timestamp('2021-05-24 00:00:00'), 91.0)]
+The last traded price is: 93.0
+
+Stock name:  ASIANPAINT.NS
+max volume days [(Timestamp('2021-05-14 00:00:00'), 10543708), (Timestamp('2021-02-18 00:00:00'), 4253843)]
+price data::: [(Timestamp('2021-05-14 00:00:00'), 2774.5)]
+price data::: [(Timestamp('2021-02-18 00:00:00'), 2470.75)]
+The last traded price is: 2924.89990234375
+
+Stock name:  ASTERDM.NS
+max volume days [(Timestamp('2021-05-05 00:00:00'), 3806053), (Timestamp('2021-04-16 00:00:00'), 3087083)]
+price data::: [(Timestamp('2021-05-05 00:00:00'), 152.4499969482422)]
+price data::: [(Timestamp('2021-04-16 00:00:00'), 145.5)]
+The last traded price is: 150.3000030517578
+
+Stock name:  ASTRAZEN.NS
+max volume days [(Timestamp('2021-04-22 00:00:00'), 1912268), (Timestamp('2021-04-23 00:00:00'), 1112864)]
+price data::: [(Timestamp('2021-04-22 00:00:00'), 4292.2998046875)]
+price data::: [(Timestamp('2021-04-23 00:00:00'), 4234.14990234375)]
+The last traded price is: 3793.949951171875
+
+Stock name:  ASTRAL.NS
+max volume days [(Timestamp('2021-03-19 00:00:00'), 1673194), (Timestamp('2021-05-19 00:00:00'), 1471269)]
+price data::: [(Timestamp('2021-03-19 00:00:00'), 1671.25)]
+price data::: [(Timestamp('2021-05-19 00:00:00'), 1815.8499755859375)]
+The last traded price is: 1897.800048828125
+
+Stock name:  ATUL.NS
+max volume days [(Timestamp('2021-04-19 00:00:00'), 147488), (Timestamp('2021-02-12 00:00:00'), 122453)]
+price data::: [(Timestamp('2021-04-19 00:00:00'), 7629.75)]
+price data::: [(Timestamp('2021-02-12 00:00:00'), 6844.2998046875)]
+The last traded price is: 8603.2001953125
+
+Stock name:  AUROPHARMA.NS
+max volume days [(Timestamp('2021-04-22 00:00:00'), 7282560), (Timestamp('2021-04-20 00:00:00'), 6961954)]
+price data::: [(Timestamp('2021-04-22 00:00:00'), 993.2000122070312)]
+price data::: [(Timestamp('2021-04-20 00:00:00'), 987.2999877929688)]
+The last traded price is: 959.0499877929688
+
+Stock name:  AVANTIFEED.NS
+max volume days [(Timestamp('2021-05-12 00:00:00'), 3425045), (Timestamp('2021-05-14 00:00:00'), 2869927)]
+price data::: [(Timestamp('2021-05-12 00:00:00'), 515.0)]
+price data::: [(Timestamp('2021-05-14 00:00:00'), 530.9500122070312)]
+The last traded price is: 596.5499877929688
+
+Stock name:  DMART.NS
+max volume days [(Timestamp('2021-03-05 00:00:00'), 1535808), (Timestamp('2021-05-18 00:00:00'), 1022329)]
+price data::: [(Timestamp('2021-03-05 00:00:00'), 3286.10009765625)]
+price data::: [(Timestamp('2021-05-18 00:00:00'), 3056.300048828125)]
+The last traded price is: 3197.0
+
+Stock name:  AXISBANK.NS
+max volume days [(Timestamp('2021-04-28 00:00:00'), 54060587), (Timestamp('2021-04-27 00:00:00'), 46559967)]
+price data::: [(Timestamp('2021-04-28 00:00:00'), 708.1500244140625)]
+price data::: [(Timestamp('2021-04-27 00:00:00'), 699.5499877929688)]
+The last traded price is: 742.0499877929688
+
+Stock name:  BASF.NS
+max volume days [(Timestamp('2021-05-07 00:00:00'), 530996), (Timestamp('2021-02-12 00:00:00'), 314027)]
+price data::: [(Timestamp('2021-05-07 00:00:00'), 2451.699951171875)]
+price data::: [(Timestamp('2021-02-12 00:00:00'), 1977.9000244140625)]
+The last traded price is: 2499.64990234375
+
+Stock name:  BEML.NS
+max volume days [(Timestamp('2021-03-09 00:00:00'), 5699342), (Timestamp('2021-03-08 00:00:00'), 4862724)]
+price data::: [(Timestamp('2021-03-09 00:00:00'), 1344.1500244140625)]
+price data::: [(Timestamp('2021-03-08 00:00:00'), 1416.0)]
+The last traded price is: 1346.1500244140625
+
+Stock name:  BSE.NS
+max volume days [(Timestamp('2021-05-26 00:00:00'), 8568978), (Timestamp('2021-05-27 00:00:00'), 4162524)]
+price data::: [(Timestamp('2021-05-26 00:00:00'), 911.3499755859375)]
+price data::: [(Timestamp('2021-05-27 00:00:00'), 910.5999755859375)]
+The last traded price is: 928.9500122070312
+
+Stock name:  BAJAJ-AUTO.NS
+max volume days [(Timestamp('2021-05-18 00:00:00'), 1371585), (Timestamp('2021-04-30 00:00:00'), 1340273)]
+price data::: [(Timestamp('2021-05-18 00:00:00'), 4067.199951171875)]
+price data::: [(Timestamp('2021-04-30 00:00:00'), 3833.75)]
+The last traded price is: 4250.0498046875
+

@@ -1,0 +1,2864 @@
+value: ['INDIANB.NS', 'SOUTHBANK.NS', 'JAndKBANK.NS', 'IZMO.NS', 'NBVENTURES.NS', 'PFS.NS', 'PTC.NS', 'MANINDS.NS', 'BANKBARODA.NS', 'BANKINDIA.NS', 'CENTRALBK.NS', 'MAHABANK.NS', 'SBIN.NS', 'UNIONBANK.NS', 'HINDPETRO.NS', 'ONGC.NS', 'SHIVAMILLS.NS', 'ARIES.NS', 'GOKULAGRO.NS', 'BCG.NS', 'JINDALSTEL.NS', 'SUPERHOUSE.NS', 'DCMNVL.NS', 'AROGRANITE.NS', 'ZEEMEDIA.NS', 'DICIND.NS', 'VENUSREM.NS', 'JKTYRE.NS', 'POLYPLEX.NS', 'PIONEEREMB.NS', 'RAIN.NS', 'NTPC.NS', 'SWELECTES.NS', 'GPTINFRA.NS', 'SHREYAS.NS', 'GOODLUCK.NS', 'TEXMOPIPES.NS', 'EVERESTIND.NS', 'BPCL.NS', 'GANGESSECU.NS', 'JINDALSAW.NS', 'JSL.NS', 'JSLHISAR.NS', 'SARDAEN.NS', 'LAMBODHARA.NS', 'TATASTEEL.NS', 'TATASTLBSL.NS', 'TATASTLLP.NS', 'IMFA.NS', 'NAHARPOLY.NS', 'JSL.NS', 'JSLHISAR.NS', 'SUNFLAG.NS', 'COSMOFILMS.NS', 'KALPATPOWR.NS', 'MANGALAM.NS', 'RSWM.NS', 'CORDSCABLE.NS', 'MANGLMCEM.NS', 'VISAKAIND.NS', 'AMDIND.NS', 'JINDALPOLY.NS', 'NITINSPIN.NS', 'UNIVPHOTO.NS', 'CHEMBOND.NS', 'KIRLOSIND.NS', 'AGARIND.NS', 'SOUTHBANK.NS', 'RANASUG.NS', 'SIGIND.NS', 'GSFC.NS', 'GSPL.NS', 'TALBROAUTO.NS', 'CESC.NS', 'BANSWRAS.NS', 'GPIL.NS', 'MEGASOFT.NS', 'TRIGYN.NS', 'MARALOVER.NS', 'STEELCITY.NS', 'TATASTEEL.NS', 'TATASTLBSL.NS', 'TATASTLLP.NS', 'PKTEA.NS', 'CLNINDIA.NS', 'TFCILTD.NS', 'VINDHYATEL.NS', 'KCP.NS', 'GTPL.NS', 'COMPINFO.NS', 'GOKUL.NS', 'HITECHGEAR.NS', 'WEBELSOLAR.NS', 'DECCANCE.NS', 'EMKAY.NS', 'SALONA.NS', 'SOTL.NS', 'AARVI.NS', 'CENTENKA.NS', 'XPROINDIA.NS', 'TIRUMALCHM.NS', 'KSL.NS', 'MANAKSIA.NS', 'MANALIPETC.NS', 'SAKUMA.NS', 'PANAMAPET.NS', 'LGBBROSLTD.NS', 'SARLAPOLY.NS', 'MINDTECK.NS', 'AMBIKCO.NS', 'RAMCOIND.NS', 'GALLISPAT.NS', 'PDMJEPAPER.NS', 'DTIL.NS', 'TIIL.NS', 'RVNL.NS', 'EMAMIPAP.NS', 'GULFPETRO.NS', 'INEOSSTYRO.NS', 'NCLIND.NS', 'BSL.NS', 'RAMASTEEL.NS', 'ASHOKA.NS', 'UNIVASTU.NS', 'PRECWIRE.NS', 'PITTIENG.NS', 'ISFT.NS', 'JAYAGROGN.NS', 'UMESLTD.NS', 'USHAMART.NS', 'VSSL.NS', 'BLISSGVS.NS', 'SAndSPOWER.NS', 'SMSPHARMA.NS', 'REDINGTON.NS', 'DBSTOCKBRO.NS', 'HBSL.NS', 'ORIENTCEM.NS', 'PODDARMENT.NS', 'SAGCEM.NS', 'HITECHCORP.NS', 'KOTHARIPET.NS', 'APARINDS.NS', 'MUNJALAU.NS', 'PONNIERODE.NS', 'POWERGRID.NS', 'MONTECARLO.NS', 'RAJESHEXPO.NS', 'IFGLEXPOR.NS', 'ADSL.NS', 'HSIL.NS', 'RCF.NS', 'GROBTEA.NS', 'AUSOMENT.NS', 'NDTV.NS', 'JMA.NS', 'AYMSYNTEX.NS', 'MOTILALOFS.NS', 'DATAMATICS.NS', 'DWARKESH.NS', 'BALAXI.NS', 'ICICIPRULI.NS', 'GNA.NS', 'HISARMETAL.NS', 'SURYAROSNI.NS', 'DCMSHRIRAM.NS', 'NSIL.NS', 'SHYAMCENT.NS', 'MAANALU.NS', 'BIRLACORPN.NS', 'JKPAPER.NS', 'TTKPRESTIG.NS', 'INVENTURE.NS', 'NMDC.NS', 'SKMEGGPROD.NS', 'LINCOLN.NS', 'VETO.NS']
+----------------------------------------------------------------------------------
+
+
+Stock name:  INDIANB.NS
+max1 price: (Timestamp('2021-02-04 00:00:00'), 120.8499984741211)
+max2 price: (Timestamp('2021-02-05 00:00:00'), 137.0)
+
+The last traded price is: 142.39999389648438
+
+
+The yesterday closing price is: 142.14999389648438
+
+max1 and max2 price are 120.8499984741211 and 137.0
+The crucial price for the stock is 137.0
+The percent change is  0.17587056681975907
+The stock INDIANB.NS is 3.9416013842951645 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  SOUTHBANK.NS
+max1 price: (Timestamp('2021-06-22 00:00:00'), 13.949999809265137)
+max2 price: (Timestamp('2021-06-21 00:00:00'), 12.75)
+
+The last traded price is: 12.800000190734863
+
+
+The yesterday closing price is: 12.899999618530273
+
+max1 and max2 price are 13.949999809265137 and 12.75
+The crucial price for the stock is 13.949999809265137
+The percent change is  -0.7751893856784727
+The stock SOUTHBANK.NS is -8.243724976730688 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  JAndKBANK.NS
+- JANDKBANK.NS: No data found, symbol may be delisted
+Issue occured:
+ local variable 'max1' referenced before assignment
+----------------------------------------------------------------------------------
+
+
+Stock name:  IZMO.NS
+max1 price: (Timestamp('2021-06-15 00:00:00'), 90.30000305175781)
+max2 price: (Timestamp('2021-06-16 00:00:00'), 94.44999694824219)
+
+The last traded price is: 85.19999694824219
+
+
+The yesterday closing price is: 85.30000305175781
+
+max1 and max2 price are 90.30000305175781 and 94.44999694824219
+The crucial price for the stock is 90.30000305175781
+The percent change is  -0.11724044541351765
+The stock IZMO.NS is -5.64784709984165 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  NBVENTURES.NS
+max1 price: (Timestamp('2020-12-29 00:00:00'), 68.44999694824219)
+max2 price: (Timestamp('2021-02-26 00:00:00'), 76.19999694824219)
+
+The last traded price is: 116.25
+
+
+The yesterday closing price is: 106.55000305175781
+
+max1 and max2 price are 68.44999694824219 and 76.19999694824219
+The crucial price for the stock is 76.19999694824219
+The percent change is  9.103704054827956
+The stock NBVENTURES.NS is 52.55906122799615 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  PFS.NS
+max1 price: (Timestamp('2020-12-08 00:00:00'), 24.25)
+max2 price: (Timestamp('2021-06-02 00:00:00'), 21.75)
+
+The last traded price is: 19.700000762939453
+
+
+The yesterday closing price is: 19.950000762939453
+
+max1 and max2 price are 24.25 and 21.75
+The crucial price for the stock is 21.75
+The percent change is  -1.2531327841571709
+The stock PFS.NS is -9.425283848554239 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  PTC.NS
+max1 price: (Timestamp('2021-06-15 00:00:00'), 110.80000305175781)
+max2 price: (Timestamp('2021-02-11 00:00:00'), 70.9000015258789)
+
+The last traded price is: 102.44999694824219
+
+
+The yesterday closing price is: 102.9000015258789
+
+max1 and max2 price are 110.80000305175781 and 70.9000015258789
+The crucial price for the stock is 110.80000305175781
+The percent change is  -0.4373222263981643
+The stock PTC.NS is -7.53610638405407 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  MANINDS.NS
+max1 price: (Timestamp('2020-09-16 00:00:00'), 73.77452712091024)
+max2 price: (Timestamp('2020-08-14 00:00:00'), 61.64055804817044)
+
+The last traded price is: 114.44999694824219
+
+
+The yesterday closing price is: 108.30000305175781
+
+max1 and max2 price are 73.77452712091024 and 61.64055804817044
+The crucial price for the stock is 73.77452712091024
+The percent change is  5.678664564344677
+The stock MANINDS.NS is 55.134843169741075 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  BANKBARODA.NS
+max1 price: (Timestamp('2021-02-18 00:00:00'), 96.69999694824219)
+max2 price: (Timestamp('2021-02-19 00:00:00'), 99.8499984741211)
+
+The last traded price is: 86.3499984741211
+
+
+The yesterday closing price is: 85.19999694824219
+
+max1 and max2 price are 96.69999694824219 and 99.8499984741211
+The crucial price for the stock is 96.69999694824219
+The percent change is  1.3497670975006208
+The stock BANKBARODA.NS is -10.703204550937926 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  BANKINDIA.NS
+max1 price: (Timestamp('2021-02-17 00:00:00'), 84.69999694824219)
+max2 price: (Timestamp('2021-02-19 00:00:00'), 101.4000015258789)
+
+The last traded price is: 76.94999694824219
+
+
+The yesterday closing price is: 77.05000305175781
+
+max1 and max2 price are 84.69999694824219 and 101.4000015258789
+The crucial price for the stock is 84.69999694824219
+The percent change is  -0.12979376970101686
+The stock BANKINDIA.NS is -9.149941297796987 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  CENTRALBK.NS
+max1 price: (Timestamp('2021-02-17 00:00:00'), 20.0)
+max2 price: (Timestamp('2021-02-16 00:00:00'), 16.700000762939453)
+
+The last traded price is: 27.25
+
+
+The yesterday closing price is: 27.899999618530273
+
+max1 and max2 price are 20.0 and 16.700000762939453
+The crucial price for the stock is 20.0
+The percent change is  -2.3297477685217056
+The stock CENTRALBK.NS is 36.25 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  MAHABANK.NS
+max1 price: (Timestamp('2021-02-19 00:00:00'), 27.600000381469727)
+max2 price: (Timestamp('2021-06-04 00:00:00'), 29.75)
+
+The last traded price is: 25.350000381469727
+
+
+The yesterday closing price is: 25.100000381469727
+
+max1 and max2 price are 27.600000381469727 and 29.75
+The crucial price for the stock is 27.600000381469727
+The percent change is  0.996015921117533
+The stock MAHABANK.NS is -8.152173800369294 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  SBIN.NS
+max1 price: (Timestamp('2021-02-05 00:00:00'), 404.6143984354118)
+max2 price: (Timestamp('2021-05-21 00:00:00'), 400.7005237806651)
+
+The last traded price is: 432.6499938964844
+
+
+The yesterday closing price is: 424.3999938964844
+
+max1 and max2 price are 404.6143984354118 and 400.7005237806651
+The crucial price for the stock is 404.6143984354118
+The percent change is  1.9439208573627507
+The stock SBIN.NS is 6.9289663367103085 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  UNIONBANK.NS
+max1 price: (Timestamp('2021-02-18 00:00:00'), 45.25)
+max2 price: (Timestamp('2021-05-25 00:00:00'), 37.099998474121094)
+
+The last traded price is: 38.900001525878906
+
+
+The yesterday closing price is: 39.04999923706055
+
+max1 and max2 price are 45.25 and 37.099998474121094
+The crucial price for the stock is 45.25
+The percent change is  -0.3841170655882747
+The stock UNIONBANK.NS is -14.03314579916264 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  HINDPETRO.NS
+max1 price: (Timestamp('2020-11-05 00:00:00'), 206.1999969482422)
+max2 price: (Timestamp('2021-05-21 00:00:00'), 288.29998779296875)
+
+The last traded price is: 304.45001220703125
+
+
+The yesterday closing price is: 297.95001220703125
+
+max1 and max2 price are 206.1999969482422 and 288.29998779296875
+The crucial price for the stock is 288.29998779296875
+The percent change is  2.1815740002331196
+The stock HINDPETRO.NS is 5.601812382198227 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  ONGC.NS
+max1 price: (Timestamp('2020-12-11 00:00:00'), 102.63904240331023)
+max2 price: (Timestamp('2021-02-18 00:00:00'), 115.5)
+
+The last traded price is: 120.94999694824219
+
+
+The yesterday closing price is: 118.44999694824219
+
+max1 and max2 price are 102.63904240331023 and 115.5
+The crucial price for the stock is 115.5
+The percent change is  2.1105952422205614
+The stock ONGC.NS is 4.718612076400162 % far from critical price
+The stock ONGC.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  SHIVAMILLS.NS
+max1 price: (Timestamp('2021-01-06 00:00:00'), 38.70000076293945)
+max2 price: (Timestamp('2021-01-11 00:00:00'), 42.400001525878906)
+
+The last traded price is: 94.0
+
+
+The yesterday closing price is: 89.5999984741211
+
+max1 and max2 price are 38.70000076293945 and 42.400001525878906
+The crucial price for the stock is 42.400001525878906
+The percent change is  4.910716072333133
+The stock SHIVAMILLS.NS is 121.69810522914004 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  ARIES.NS
+max1 price: (Timestamp('2021-06-04 00:00:00'), 133.39999389648438)
+max2 price: (Timestamp('2021-06-28 00:00:00'), 156.0)
+
+The last traded price is: 131.6999969482422
+
+
+The yesterday closing price is: 129.85000610351562
+
+max1 and max2 price are 133.39999389648438 and 156.0
+The crucial price for the stock is 133.39999389648438
+The percent change is  1.4247137141077693
+The stock ARIES.NS is -1.2743605892226275 % far from critical price
+The stock ARIES.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  GOKULAGRO.NS
+max1 price: (Timestamp('2021-05-31 00:00:00'), 36.349998474121094)
+max2 price: (Timestamp('2021-06-01 00:00:00'), 43.0)
+
+The last traded price is: 41.349998474121094
+
+
+The yesterday closing price is: 40.54999923706055
+
+max1 and max2 price are 36.349998474121094 and 43.0
+The crucial price for the stock is 43.0
+The percent change is  1.9728711519417
+The stock GOKULAGRO.NS is -3.8372128508811776 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  BCG.NS
+max1 price: (Timestamp('2021-01-07 00:00:00'), 8.649999618530273)
+max2 price: (Timestamp('2021-06-28 00:00:00'), 20.299999237060547)
+
+The last traded price is: 25.799999237060547
+
+
+The yesterday closing price is: 24.600000381469727
+
+max1 and max2 price are 8.649999618530273 and 20.299999237060547
+The crucial price for the stock is 20.299999237060547
+The percent change is  4.87804405277463
+The stock BCG.NS is 27.093597077378035 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  JINDALSTEL.NS
+max1 price: (Timestamp('2021-05-14 00:00:00'), 462.0)
+max2 price: (Timestamp('2021-05-20 00:00:00'), 418.25)
+
+The last traded price is: 394.1499938964844
+
+
+The yesterday closing price is: 388.1499938964844
+
+max1 and max2 price are 462.0 and 418.25
+The crucial price for the stock is 418.25
+The percent change is  1.5457941760525027
+The stock JINDALSTEL.NS is -5.762105464080245 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  SUPERHOUSE.NS
+max1 price: (Timestamp('2020-12-31 00:00:00'), 135.8000030517578)
+max2 price: (Timestamp('2021-06-17 00:00:00'), 178.85000610351562)
+
+The last traded price is: 157.8000030517578
+
+
+The yesterday closing price is: 153.75
+
+max1 and max2 price are 135.8000030517578 and 178.85000610351562
+The crucial price for the stock is 178.85000610351562
+The percent change is  2.6341483263465446
+The stock SUPERHOUSE.NS is -11.76964066726081 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  DCMNVL.NS
+max1 price: (Timestamp('2021-05-20 00:00:00'), 120.44999694824219)
+max2 price: (Timestamp('2021-05-21 00:00:00'), 124.5)
+
+The last traded price is: 141.10000610351562
+
+
+The yesterday closing price is: 134.39999389648438
+
+max1 and max2 price are 120.44999694824219 and 124.5
+The crucial price for the stock is 124.5
+The percent change is  4.985128356621531
+The stock DCMNVL.NS is 13.333338235755521 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  AROGRANITE.NS
+max1 price: (Timestamp('2021-06-30 00:00:00'), 70.30000305175781)
+max2 price: (Timestamp('2021-01-08 00:00:00'), 59.400001525878906)
+
+The last traded price is: 67.55000305175781
+
+
+The yesterday closing price is: 67.1500015258789
+
+max1 and max2 price are 70.30000305175781 and 59.400001525878906
+The crucial price for the stock is 70.30000305175781
+The percent change is  0.5956835693067704
+The stock AROGRANITE.NS is -3.911806373572039 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  ZEEMEDIA.NS
+max1 price: (Timestamp('2020-12-15 00:00:00'), 7.25)
+max2 price: (Timestamp('2020-12-14 00:00:00'), 6.650000095367432)
+
+The last traded price is: 13.75
+
+
+The yesterday closing price is: 13.100000381469727
+
+max1 and max2 price are 7.25 and 6.650000095367432
+The crucial price for the stock is 7.25
+The percent change is  4.961829004598457
+The stock ZEEMEDIA.NS is 89.65517241379311 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  DICIND.NS
+max1 price: (Timestamp('2021-06-04 00:00:00'), 529.7999877929688)
+max2 price: (Timestamp('2020-08-11 00:00:00'), 408.36926141931735)
+
+The last traded price is: 494.29998779296875
+
+
+The yesterday closing price is: 481.79998779296875
+
+max1 and max2 price are 529.7999877929688 and 408.36926141931735
+The crucial price for the stock is 529.7999877929688
+The percent change is  2.594437591677835
+The stock DICIND.NS is -6.7006419059927245 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  VENUSREM.NS
+max1 price: (Timestamp('2020-12-30 00:00:00'), 150.5500030517578)
+max2 price: (Timestamp('2021-01-05 00:00:00'), 190.6999969482422)
+
+The last traded price is: 425.25
+
+
+The yesterday closing price is: 405.0
+
+max1 and max2 price are 150.5500030517578 and 190.6999969482422
+The crucial price for the stock is 190.6999969482422
+The percent change is  5.0
+The stock VENUSREM.NS is 122.99423534622129 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  JKTYRE.NS
+max1 price: (Timestamp('2021-01-22 00:00:00'), 138.8000030517578)
+max2 price: (Timestamp('2021-01-21 00:00:00'), 124.80000305175781)
+
+The last traded price is: 144.60000610351562
+
+
+The yesterday closing price is: 145.8000030517578
+
+max1 and max2 price are 138.8000030517578 and 124.80000305175781
+The crucial price for the stock is 138.8000030517578
+The percent change is  -0.8230431571501396
+The stock JKTYRE.NS is 4.178676458382368 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  POLYPLEX.NS
+max1 price: (Timestamp('2021-02-10 00:00:00'), 794.107142501857)
+max2 price: (Timestamp('2021-02-11 00:00:00'), 841.2906159577775)
+
+The last traded price is: 1423.25
+
+
+The yesterday closing price is: 1384.449951171875
+
+max1 and max2 price are 794.107142501857 and 841.2906159577775
+The crucial price for the stock is 841.2906159577775
+The percent change is  2.802560597823164
+The stock POLYPLEX.NS is 69.17459591293358 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  PIONEEREMB.NS
+max1 price: (Timestamp('2021-07-05 00:00:00'), 59.29999923706055)
+max2 price: (Timestamp('2021-06-07 00:00:00'), 59.0)
+
+The last traded price is: 58.150001525878906
+
+
+The yesterday closing price is: 53.29999923706055
+
+max1 and max2 price are 59.29999923706055 and 59.0
+The crucial price for the stock is 59.0
+The percent change is  9.099441572685908
+The stock PIONEEREMB.NS is -1.4406753798662606 % far from critical price
+The stock PIONEEREMB.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  RAIN.NS
+max1 price: (Timestamp('2021-06-15 00:00:00'), 202.85000610351562)
+max2 price: (Timestamp('2021-01-01 00:00:00'), 148.75)
+
+The last traded price is: 200.5500030517578
+
+
+The yesterday closing price is: 191.5
+
+max1 and max2 price are 202.85000610351562 and 148.75
+The crucial price for the stock is 202.85000610351562
+The percent change is  4.725850157575881
+The stock RAIN.NS is -1.133844211266184 % far from critical price
+The stock RAIN.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  NTPC.NS
+max1 price: (Timestamp('2020-11-27 00:00:00'), 94.13412869909968)
+max2 price: (Timestamp('2020-11-03 00:00:00'), 89.2358525988497)
+
+The last traded price is: 118.5999984741211
+
+
+The yesterday closing price is: 117.5
+
+max1 and max2 price are 94.13412869909968 and 89.2358525988497
+The crucial price for the stock is 94.13412869909968
+The percent change is  0.9361689141456118
+The stock NTPC.NS is 25.990435257787027 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  SWELECTES.NS
+max1 price: (Timestamp('2021-05-04 00:00:00'), 262.8999938964844)
+max2 price: (Timestamp('2020-08-24 00:00:00'), 163.2408905029297)
+
+The last traded price is: 229.5500030517578
+
+
+The yesterday closing price is: 223.14999389648438
+
+max1 and max2 price are 262.8999938964844 and 163.2408905029297
+The crucial price for the stock is 262.8999938964844
+The percent change is  2.8680301726749304
+The stock SWELECTES.NS is -12.685428535178273 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  GPTINFRA.NS
+max1 price: (Timestamp('2021-06-23 00:00:00'), 93.4000015258789)
+max2 price: (Timestamp('2020-12-28 00:00:00'), 42.75240325927735)
+
+The last traded price is: 83.30000305175781
+
+
+The yesterday closing price is: 85.05000305175781
+
+max1 and max2 price are 93.4000015258789 and 42.75240325927735
+The crucial price for the stock is 93.4000015258789
+The percent change is  -2.0576130948931586
+The stock GPTINFRA.NS is -10.813702686420863 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  SHREYAS.NS
+max1 price: (Timestamp('2021-05-28 00:00:00'), 166.9499969482422)
+max2 price: (Timestamp('2021-05-06 00:00:00'), 114.9000015258789)
+
+The last traded price is: 187.5500030517578
+
+
+The yesterday closing price is: 191.14999389648438
+
+max1 and max2 price are 166.9499969482422 and 114.9000015258789
+The crucial price for the stock is 166.9499969482422
+The percent change is  -1.8833329634716633
+The stock SHREYAS.NS is 12.339027541223636 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  GOODLUCK.NS
+max1 price: (Timestamp('2021-01-13 00:00:00'), 83.55000305175781)
+max2 price: (Timestamp('2021-05-10 00:00:00'), 113.5)
+
+The last traded price is: 107.69999694824219
+
+
+The yesterday closing price is: 106.5999984741211
+
+max1 and max2 price are 83.55000305175781 and 113.5
+The crucial price for the stock is 113.5
+The percent change is  1.031893517698442
+The stock GOODLUCK.NS is -5.110134847363711 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  TEXMOPIPES.NS
+max1 price: (Timestamp('2021-05-20 00:00:00'), 43.29999923706055)
+max2 price: (Timestamp('2021-05-21 00:00:00'), 48.0)
+
+The last traded price is: 55.349998474121094
+
+
+The yesterday closing price is: 52.75
+
+max1 and max2 price are 43.29999923706055 and 48.0
+The crucial price for the stock is 48.0
+The percent change is  4.928907059945201
+The stock TEXMOPIPES.NS is 15.312496821085611 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  EVERESTIND.NS
+max1 price: (Timestamp('2020-08-10 00:00:00'), 252.50216572370988)
+max2 price: (Timestamp('2021-05-05 00:00:00'), 369.0)
+
+The last traded price is: 388.8500061035156
+
+
+The yesterday closing price is: 374.1000061035156
+
+max1 and max2 price are 252.50216572370988 and 369.0
+The crucial price for the stock is 369.0
+The percent change is  3.942795979511048
+The stock EVERESTIND.NS is 5.3794054481072155 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  BPCL.NS
+max1 price: (Timestamp('2021-03-09 00:00:00'), 448.72031710357993)
+max2 price: (Timestamp('2020-07-17 00:00:00'), 425.26882082843474)
+
+The last traded price is: 459.70001220703125
+
+
+The yesterday closing price is: 462.75
+
+max1 and max2 price are 448.72031710357993 and 425.26882082843474
+The crucial price for the stock is 448.72031710357993
+The percent change is  -0.6591005495340357
+The stock BPCL.NS is 2.4468905652241353 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  GANGESSECU.NS
+max1 price: (Timestamp('2021-06-25 00:00:00'), 87.69999694824219)
+max2 price: (Timestamp('2021-06-28 00:00:00'), 95.9000015258789)
+
+The last traded price is: 84.0
+
+
+The yesterday closing price is: 82.25
+
+max1 and max2 price are 87.69999694824219 and 95.9000015258789
+The crucial price for the stock is 87.69999694824219
+The percent change is  2.127659574468085
+The stock GANGESSECU.NS is -4.218924831235525 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  JINDALSAW.NS
+max1 price: (Timestamp('2021-05-31 00:00:00'), 110.69999694824219)
+max2 price: (Timestamp('2021-05-03 00:00:00'), 94.4000015258789)
+
+The last traded price is: 119.55000305175781
+
+
+The yesterday closing price is: 122.3499984741211
+
+max1 and max2 price are 110.69999694824219 and 94.4000015258789
+The crucial price for the stock is 110.69999694824219
+The percent change is  -2.2885128379920032
+The stock JINDALSAW.NS is 7.994585679757018 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  JSL.NS
+max1 price: (Timestamp('2021-04-22 00:00:00'), 77.5999984741211)
+max2 price: (Timestamp('2021-06-10 00:00:00'), 102.0)
+
+The last traded price is: 106.30000305175781
+
+
+The yesterday closing price is: 109.25
+
+max1 and max2 price are 77.5999984741211 and 102.0
+The crucial price for the stock is 102.0
+The percent change is  -2.70022603958095
+The stock JSL.NS is 4.215689266429228 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  JSLHISAR.NS
+max1 price: (Timestamp('2021-05-07 00:00:00'), 188.6999969482422)
+max2 price: (Timestamp('2021-06-10 00:00:00'), 193.6999969482422)
+
+The last traded price is: 205.25
+
+
+The yesterday closing price is: 209.10000610351562
+
+max1 and max2 price are 188.6999969482422 and 193.6999969482422
+The crucial price for the stock is 193.6999969482422
+The percent change is  -1.8412271597972443
+The stock JSLHISAR.NS is 5.962830786643762 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  SARDAEN.NS
+max1 price: (Timestamp('2021-06-14 00:00:00'), 727.0)
+max2 price: (Timestamp('2020-08-05 00:00:00'), 204.31660315437634)
+
+The last traded price is: 653.9000244140625
+
+
+The yesterday closing price is: 637.8499755859375
+
+max1 and max2 price are 727.0 and 204.31660315437634
+The crucial price for the stock is 727.0
+The percent change is  2.51627333110442
+The stock SARDAEN.NS is -10.05501727454436 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  LAMBODHARA.NS
+max1 price: (Timestamp('2021-06-18 00:00:00'), 89.75)
+max2 price: (Timestamp('2021-03-08 00:00:00'), 67.4000015258789)
+
+The last traded price is: 95.25
+
+
+The yesterday closing price is: 95.75
+
+max1 and max2 price are 89.75 and 67.4000015258789
+The crucial price for the stock is 89.75
+The percent change is  -0.5221932114882507
+The stock LAMBODHARA.NS is 6.128133704735376 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  TATASTEEL.NS
+max1 price: (Timestamp('2020-11-17 00:00:00'), 519.3282692956705)
+max2 price: (Timestamp('2021-02-10 00:00:00'), 708.6417351280248)
+
+The last traded price is: 1156.8499755859375
+
+
+The yesterday closing price is: 1136.0
+
+max1 and max2 price are 519.3282692956705 and 708.6417351280248
+The crucial price for the stock is 708.6417351280248
+The percent change is  1.8353851748184418
+The stock TATASTEEL.NS is 63.248919480721575 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  TATASTLBSL.NS
+max1 price: (Timestamp('2021-05-04 00:00:00'), 103.5999984741211)
+max2 price: (Timestamp('2021-05-03 00:00:00'), 86.69999694824219)
+
+The last traded price is: 90.05000305175781
+
+
+The yesterday closing price is: 89.0999984741211
+
+max1 and max2 price are 103.5999984741211 and 86.69999694824219
+The crucial price for the stock is 103.5999984741211
+The percent change is  1.066222888783377
+The stock TATASTLBSL.NS is -13.07914635321932 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  TATASTLLP.NS
+max1 price: (Timestamp('2021-01-15 00:00:00'), 862.9000244140625)
+max2 price: (Timestamp('2021-01-18 00:00:00'), 875.0)
+
+The last traded price is: 965.2000122070312
+
+
+The yesterday closing price is: 939.75
+
+max1 and max2 price are 862.9000244140625 and 875.0
+The crucial price for the stock is 875.0
+The percent change is  2.7081683646747807
+The stock TATASTLLP.NS is 10.308572823660715 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  IMFA.NS
+max1 price: (Timestamp('2021-06-22 00:00:00'), 573.4500122070312)
+max2 price: (Timestamp('2021-06-14 00:00:00'), 540.0)
+
+The last traded price is: 614.9500122070312
+
+
+The yesterday closing price is: 621.5499877929688
+
+max1 and max2 price are 573.4500122070312 and 540.0
+The crucial price for the stock is 573.4500122070312
+The percent change is  -1.0618575682662352
+The stock IMFA.NS is 7.236899314079595 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  NAHARPOLY.NS
+max1 price: (Timestamp('2021-03-16 00:00:00'), 142.0)
+max2 price: (Timestamp('2021-05-17 00:00:00'), 157.6999969482422)
+
+The last traded price is: 172.5500030517578
+
+
+The yesterday closing price is: 171.10000610351562
+
+max1 and max2 price are 142.0 and 157.6999969482422
+The crucial price for the stock is 157.6999969482422
+The percent change is  0.8474558132773755
+The stock NAHARPOLY.NS is 9.416617876276472 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  JSL.NS
+max1 price: (Timestamp('2021-04-22 00:00:00'), 77.5999984741211)
+max2 price: (Timestamp('2021-06-10 00:00:00'), 102.0)
+
+The last traded price is: 106.30000305175781
+
+
+The yesterday closing price is: 109.25
+
+max1 and max2 price are 77.5999984741211 and 102.0
+The crucial price for the stock is 102.0
+The percent change is  -2.70022603958095
+The stock JSL.NS is 4.215689266429228 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  JSLHISAR.NS
+max1 price: (Timestamp('2021-05-07 00:00:00'), 188.6999969482422)
+max2 price: (Timestamp('2021-06-10 00:00:00'), 193.6999969482422)
+
+The last traded price is: 205.25
+
+
+The yesterday closing price is: 209.10000610351562
+
+max1 and max2 price are 188.6999969482422 and 193.6999969482422
+The crucial price for the stock is 193.6999969482422
+The percent change is  -1.8412271597972443
+The stock JSLHISAR.NS is 5.962830786643762 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  SUNFLAG.NS
+max1 price: (Timestamp('2021-05-07 00:00:00'), 91.5)
+max2 price: (Timestamp('2021-04-27 00:00:00'), 82.4000015258789)
+
+The last traded price is: 81.25
+
+
+The yesterday closing price is: 81.69999694824219
+
+max1 and max2 price are 91.5 and 82.4000015258789
+The crucial price for the stock is 82.4000015258789
+The percent change is  -0.5507918788874194
+The stock SUNFLAG.NS is -1.395632893911697 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  COSMOFILMS.NS
+max1 price: (Timestamp('2021-01-28 00:00:00'), 499.4773480233057)
+max2 price: (Timestamp('2020-07-14 00:00:00'), 375.5612133148747)
+
+The last traded price is: 988.0
+
+
+The yesterday closing price is: 1010.3499755859375
+
+max1 and max2 price are 499.4773480233057 and 375.5612133148747
+The crucial price for the stock is 499.4773480233057
+The percent change is  -2.212102353244079
+The stock COSMOFILMS.NS is 97.80676819680313 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  KALPATPOWR.NS
+max1 price: (Timestamp('2021-05-12 00:00:00'), 400.0)
+max2 price: (Timestamp('2020-12-11 00:00:00'), 324.7864087869714)
+
+The last traded price is: 420.6000061035156
+
+
+The yesterday closing price is: 424.95001220703125
+
+max1 and max2 price are 400.0 and 324.7864087869714
+The crucial price for the stock is 400.0
+The percent change is  -1.023651248042875
+The stock KALPATPOWR.NS is 5.150001525878906 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  MANGALAM.NS
+max1 price: (Timestamp('2021-04-26 00:00:00'), 151.0)
+max2 price: (Timestamp('2021-07-05 00:00:00'), 166.89999389648438)
+
+The last traded price is: 162.14999389648438
+
+
+The yesterday closing price is: 149.14999389648438
+
+max1 and max2 price are 151.0 and 166.89999389648438
+The crucial price for the stock is 166.89999389648438
+The percent change is  8.716058016752239
+The stock MANGALAM.NS is -2.8460156822690306 % far from critical price
+The stock MANGALAM.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  RSWM.NS
+max1 price: (Timestamp('2021-05-31 00:00:00'), 261.3999938964844)
+max2 price: (Timestamp('2021-06-01 00:00:00'), 264.8999938964844)
+
+The last traded price is: 276.6499938964844
+
+
+The yesterday closing price is: 275.75
+
+max1 and max2 price are 261.3999938964844 and 264.8999938964844
+The crucial price for the stock is 264.8999938964844
+The percent change is  0.3263803795047598
+The stock RSWM.NS is 4.435636191290958 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  CORDSCABLE.NS
+max1 price: (Timestamp('2021-06-25 00:00:00'), 83.55000305175781)
+max2 price: (Timestamp('2021-06-24 00:00:00'), 78.0)
+
+The last traded price is: 69.1500015258789
+
+
+The yesterday closing price is: 64.8499984741211
+
+max1 and max2 price are 83.55000305175781 and 78.0
+The crucial price for the stock is 78.0
+The percent change is  6.630691060808217
+The stock CORDSCABLE.NS is -11.346151889898838 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  MANGLMCEM.NS
+max1 price: (Timestamp('2021-07-02 00:00:00'), 380.70001220703125)
+max2 price: (Timestamp('2021-02-08 00:00:00'), 282.0)
+
+The last traded price is: 375.70001220703125
+
+
+The yesterday closing price is: 362.1499938964844
+
+max1 and max2 price are 380.70001220703125 and 282.0
+The crucial price for the stock is 380.70001220703125
+The percent change is  3.7415486784241017
+The stock MANGLMCEM.NS is -1.3133700655835319 % far from critical price
+The stock MANGLMCEM.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  VISAKAIND.NS
+max1 price: (Timestamp('2020-08-05 00:00:00'), 317.52310111774386)
+max2 price: (Timestamp('2021-04-23 00:00:00'), 580.8327758836418)
+
+The last traded price is: 690.2999877929688
+
+
+The yesterday closing price is: 686.7999877929688
+
+max1 and max2 price are 317.52310111774386 and 580.8327758836418
+The crucial price for the stock is 580.8327758836418
+The percent change is  0.5096097935655542
+The stock VISAKAIND.NS is 18.846596895774432 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  AMDIND.NS
+max1 price: (Timestamp('2021-02-26 00:00:00'), 27.700000762939453)
+max2 price: (Timestamp('2021-02-22 00:00:00'), 22.5)
+
+The last traded price is: 30.549999237060547
+
+
+The yesterday closing price is: 29.100000381469727
+
+max1 and max2 price are 27.700000762939453 and 22.5
+The crucial price for the stock is 27.700000762939453
+The percent change is  4.982813871418879
+The stock AMDIND.NS is 10.288802872287933 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  JINDALPOLY.NS
+max1 price: (Timestamp('2021-03-04 00:00:00'), 699.0)
+max2 price: (Timestamp('2021-06-09 00:00:00'), 898.7999877929688)
+
+The last traded price is: 881.4000244140625
+
+
+The yesterday closing price is: 872.4000244140625
+
+max1 and max2 price are 699.0 and 898.7999877929688
+The crucial price for the stock is 898.7999877929688
+The percent change is  1.031636834953638
+The stock JINDALPOLY.NS is -1.9359105045864986 % far from critical price
+The stock JINDALPOLY.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  NITINSPIN.NS
+max1 price: (Timestamp('2021-05-10 00:00:00'), 114.0)
+max2 price: (Timestamp('2021-05-06 00:00:00'), 104.75)
+
+The last traded price is: 146.8000030517578
+
+
+The yesterday closing price is: 144.3000030517578
+
+max1 and max2 price are 114.0 and 104.75
+The crucial price for the stock is 114.0
+The percent change is  1.7325016958615689
+The stock NITINSPIN.NS is 28.77193250154194 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  UNIVPHOTO.NS
+max1 price: (Timestamp('2021-06-22 00:00:00'), 351.45001220703125)
+max2 price: (Timestamp('2020-12-09 00:00:00'), 184.0)
+
+The last traded price is: 287.1499938964844
+
+
+The yesterday closing price is: 288.1499938964844
+
+max1 and max2 price are 351.45001220703125 and 184.0
+The crucial price for the stock is 351.45001220703125
+The percent change is  -0.347041478806778
+The stock UNIVPHOTO.NS is -18.295636954671433 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  CHEMBOND.NS
+max1 price: (Timestamp('2021-04-28 00:00:00'), 233.10000610351562)
+max2 price: (Timestamp('2021-01-19 00:00:00'), 224.0)
+
+The last traded price is: 224.89999389648438
+
+
+The yesterday closing price is: 222.64999389648438
+
+max1 and max2 price are 233.10000610351562 and 224.0
+The crucial price for the stock is 233.10000610351562
+The percent change is  1.0105547099390813
+The stock CHEMBOND.NS is -3.517808662514478 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  KIRLOSIND.NS
+max1 price: (Timestamp('2021-02-16 00:00:00'), 1490.449951171875)
+max2 price: (Timestamp('2021-02-17 00:00:00'), 1599.0)
+
+The last traded price is: 1729.800048828125
+
+
+The yesterday closing price is: 1706.300048828125
+
+max1 and max2 price are 1490.449951171875 and 1599.0
+The crucial price for the stock is 1599.0
+The percent change is  1.3772489789319082
+The stock KIRLOSIND.NS is 8.180115624022827 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  AGARIND.NS
+max1 price: (Timestamp('2021-01-12 00:00:00'), 155.3000030517578)
+max2 price: (Timestamp('2021-01-11 00:00:00'), 133.10000610351562)
+
+The last traded price is: 335.70001220703125
+
+
+The yesterday closing price is: 342.6000061035156
+
+max1 and max2 price are 155.3000030517578 and 133.10000610351562
+The crucial price for the stock is 155.3000030517578
+The percent change is  -2.0140086904725742
+The stock AGARIND.NS is 116.16227019335628 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  SOUTHBANK.NS
+max1 price: (Timestamp('2021-06-22 00:00:00'), 13.949999809265137)
+max2 price: (Timestamp('2021-06-21 00:00:00'), 12.75)
+
+The last traded price is: 12.800000190734863
+
+
+The yesterday closing price is: 12.899999618530273
+
+max1 and max2 price are 13.949999809265137 and 12.75
+The crucial price for the stock is 13.949999809265137
+The percent change is  -0.7751893856784727
+The stock SOUTHBANK.NS is -8.243724976730688 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  RANASUG.NS
+max1 price: (Timestamp('2021-04-30 00:00:00'), 14.149999618530273)
+max2 price: (Timestamp('2021-05-11 00:00:00'), 17.799999237060547)
+
+The last traded price is: 34.79999923706055
+
+
+The yesterday closing price is: 33.150001525878906
+
+max1 and max2 price are 14.149999618530273 and 17.799999237060547
+The crucial price for the stock is 17.799999237060547
+The percent change is  4.977368432075492
+The stock RANASUG.NS is 95.5056220710678 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  SIGIND.NS
+max1 price: (Timestamp('2021-06-01 00:00:00'), 58.70000076293945)
+max2 price: (Timestamp('2021-01-07 00:00:00'), 38.45000076293945)
+
+The last traded price is: 52.04999923706055
+
+
+The yesterday closing price is: 53.79999923706055
+
+max1 and max2 price are 58.70000076293945 and 38.45000076293945
+The crucial price for the stock is 58.70000076293945
+The percent change is  -3.252788150217108
+The stock SIGIND.NS is -11.328792912175597 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  GSFC.NS
+max1 price: (Timestamp('2021-03-01 00:00:00'), 102.9000015258789)
+max2 price: (Timestamp('2021-02-25 00:00:00'), 91.4000015258789)
+
+The last traded price is: 116.8499984741211
+
+
+The yesterday closing price is: 116.4000015258789
+
+max1 and max2 price are 102.9000015258789 and 91.4000015258789
+The crucial price for the stock is 102.9000015258789
+The percent change is  0.38659531129141855
+The stock GSFC.NS is 13.556848145171138 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  GSPL.NS
+max1 price: (Timestamp('2021-06-04 00:00:00'), 310.0)
+max2 price: (Timestamp('2021-03-03 00:00:00'), 311.45001220703125)
+
+The last traded price is: 322.3999938964844
+
+
+The yesterday closing price is: 331.1499938964844
+
+max1 and max2 price are 310.0 and 311.45001220703125
+The crucial price for the stock is 311.45001220703125
+The percent change is  -2.6423071602819355
+The stock GSPL.NS is 3.5158071151958423 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  TALBROAUTO.NS
+max1 price: (Timestamp('2021-06-09 00:00:00'), 311.29998779296875)
+max2 price: (Timestamp('2020-08-24 00:00:00'), 141.72235154370352)
+
+The last traded price is: 317.79998779296875
+
+
+The yesterday closing price is: 291.5
+
+max1 and max2 price are 311.29998779296875 and 141.72235154370352
+The crucial price for the stock is 311.29998779296875
+The percent change is  9.022294268599914
+The stock TALBROAUTO.NS is 2.0880180709556755 % far from critical price
+The stock TALBROAUTO.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  CESC.NS
+max1 price: (Timestamp('2021-01-13 00:00:00'), 650.5889572595909)
+max2 price: (Timestamp('2021-06-17 00:00:00'), 820.0)
+
+The last traded price is: 750.75
+
+
+The yesterday closing price is: 761.4500122070312
+
+max1 and max2 price are 650.5889572595909 and 820.0
+The crucial price for the stock is 820.0
+The percent change is  -1.4052153175515367
+The stock CESC.NS is -8.445121951219512 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  BANSWRAS.NS
+max1 price: (Timestamp('2021-06-03 00:00:00'), 180.0)
+max2 price: (Timestamp('2021-06-02 00:00:00'), 155.0)
+
+The last traded price is: 164.4499969482422
+
+
+The yesterday closing price is: 158.14999389648438
+
+max1 and max2 price are 180.0 and 155.0
+The crucial price for the stock is 180.0
+The percent change is  3.983561994875208
+The stock BANSWRAS.NS is -8.638890584309895 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  GPIL.NS
+max1 price: (Timestamp('2021-06-14 00:00:00'), 1508.25)
+max2 price: (Timestamp('2021-05-26 00:00:00'), 1048.0)
+
+The last traded price is: 1313.1500244140625
+
+
+The yesterday closing price is: 1304.4000244140625
+
+max1 and max2 price are 1508.25 and 1048.0
+The crucial price for the stock is 1508.25
+The percent change is  0.6708064885180072
+The stock GPIL.NS is -12.935519680818 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  MEGASOFT.NS
+max1 price: (Timestamp('2021-04-28 00:00:00'), 14.25)
+max2 price: (Timestamp('2021-04-29 00:00:00'), 15.0)
+
+The last traded price is: 14.350000381469727
+
+
+The yesterday closing price is: 13.699999809265137
+
+max1 and max2 price are 14.25 and 15.0
+The crucial price for the stock is 15.0
+The percent change is  4.744529790175637
+The stock MEGASOFT.NS is -4.333330790201823 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  TRIGYN.NS
+max1 price: (Timestamp('2021-05-24 00:00:00'), 100.69999694824219)
+max2 price: (Timestamp('2021-06-11 00:00:00'), 146.0500030517578)
+
+The last traded price is: 128.75
+
+
+The yesterday closing price is: 126.69999694824219
+
+max1 and max2 price are 100.69999694824219 and 146.0500030517578
+The crucial price for the stock is 146.0500030517578
+The percent change is  1.6179977120246123
+The stock TRIGYN.NS is -11.84526031514492 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  MARALOVER.NS
+max1 price: (Timestamp('2021-07-01 00:00:00'), 51.400001525878906)
+max2 price: (Timestamp('2020-12-04 00:00:00'), 21.799999237060547)
+
+The last traded price is: 49.79999923706055
+
+
+The yesterday closing price is: 48.54999923706055
+
+max1 and max2 price are 51.400001525878906 and 21.799999237060547
+The crucial price for the stock is 51.400001525878906
+The percent change is  2.5746653339714474
+The stock MARALOVER.NS is -3.112844827471044 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  STEELCITY.NS
+max1 price: (Timestamp('2021-06-15 00:00:00'), 58.400001525878906)
+max2 price: (Timestamp('2021-06-14 00:00:00'), 54.04999923706055)
+
+The last traded price is: 55.04999923706055
+
+
+The yesterday closing price is: 51.45000076293945
+
+max1 and max2 price are 58.400001525878906 and 54.04999923706055
+The crucial price for the stock is 58.400001525878906
+The percent change is  6.9970814785959154
+The stock STEELCITY.NS is -5.7363051391939885 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  TATASTEEL.NS
+max1 price: (Timestamp('2020-11-17 00:00:00'), 519.3282692956705)
+max2 price: (Timestamp('2021-02-10 00:00:00'), 708.6417351280248)
+
+The last traded price is: 1156.8499755859375
+
+
+The yesterday closing price is: 1136.0
+
+max1 and max2 price are 519.3282692956705 and 708.6417351280248
+The crucial price for the stock is 708.6417351280248
+The percent change is  1.8353851748184418
+The stock TATASTEEL.NS is 63.248919480721575 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  TATASTLBSL.NS
+max1 price: (Timestamp('2021-05-04 00:00:00'), 103.5999984741211)
+max2 price: (Timestamp('2021-05-03 00:00:00'), 86.69999694824219)
+
+The last traded price is: 90.05000305175781
+
+
+The yesterday closing price is: 89.0999984741211
+
+max1 and max2 price are 103.5999984741211 and 86.69999694824219
+The crucial price for the stock is 103.5999984741211
+The percent change is  1.066222888783377
+The stock TATASTLBSL.NS is -13.07914635321932 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  TATASTLLP.NS
+max1 price: (Timestamp('2021-01-15 00:00:00'), 862.9000244140625)
+max2 price: (Timestamp('2021-01-18 00:00:00'), 875.0)
+
+The last traded price is: 965.2000122070312
+
+
+The yesterday closing price is: 939.75
+
+max1 and max2 price are 862.9000244140625 and 875.0
+The crucial price for the stock is 875.0
+The percent change is  2.7081683646747807
+The stock TATASTLLP.NS is 10.308572823660715 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  PKTEA.NS
+max1 price: (Timestamp('2020-09-18 00:00:00'), 216.6999969482422)
+max2 price: (Timestamp('2021-03-03 00:00:00'), 225.0500030517578)
+
+The last traded price is: 349.25
+
+
+The yesterday closing price is: 359.04998779296875
+
+max1 and max2 price are 216.6999969482422 and 225.0500030517578
+The crucial price for the stock is 225.0500030517578
+The percent change is  -2.7294215641693618
+The stock PKTEA.NS is 55.18773395425293 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  CLNINDIA.NS
+max1 price: (Timestamp('2020-07-13 00:00:00'), 339.2123718261719)
+max2 price: (Timestamp('2020-07-14 00:00:00'), 354.64040182752814)
+
+The last traded price is: 604.7999877929688
+
+
+The yesterday closing price is: 604.8499755859375
+
+max1 and max2 price are 339.2123718261719 and 354.64040182752814
+The crucial price for the stock is 354.64040182752814
+The percent change is  -0.008264494500528867
+The stock CLNINDIA.NS is 70.53894160854816 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  TFCILTD.NS
+max1 price: (Timestamp('2021-03-10 00:00:00'), 75.5999984741211)
+max2 price: (Timestamp('2021-01-07 00:00:00'), 58.70000076293945)
+
+The last traded price is: 74.69999694824219
+
+
+The yesterday closing price is: 74.8499984741211
+
+max1 and max2 price are 75.5999984741211 and 58.70000076293945
+The crucial price for the stock is 75.5999984741211
+The percent change is  -0.20040284427095653
+The stock TFCILTD.NS is -1.1904782328626489 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  VINDHYATEL.NS
+max1 price: (Timestamp('2021-06-30 00:00:00'), 1422.0)
+max2 price: (Timestamp('2021-05-19 00:00:00'), 1109.0)
+
+The last traded price is: 1395.9000244140625
+
+
+The yesterday closing price is: 1266.300048828125
+
+max1 and max2 price are 1422.0 and 1109.0
+The crucial price for the stock is 1422.0
+The percent change is  10.234539255200497
+The stock VINDHYATEL.NS is -1.8354413210926512 % far from critical price
+The stock VINDHYATEL.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  KCP.NS
+max1 price: (Timestamp('2020-07-07 00:00:00'), 60.512682430540416)
+max2 price: (Timestamp('2021-06-25 00:00:00'), 144.0)
+
+The last traded price is: 151.25
+
+
+The yesterday closing price is: 147.10000610351562
+
+max1 and max2 price are 60.512682430540416 and 144.0
+The crucial price for the stock is 144.0
+The percent change is  2.8212057948957434
+The stock KCP.NS is 5.034722222222222 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  GTPL.NS
+max1 price: (Timestamp('2020-10-12 00:00:00'), 140.1999969482422)
+max2 price: (Timestamp('2020-10-07 00:00:00'), 125.0)
+
+The last traded price is: 182.5500030517578
+
+
+The yesterday closing price is: 183.60000610351562
+
+max1 and max2 price are 140.1999969482422 and 125.0
+The crucial price for the stock is 140.1999969482422
+The percent change is  -0.5718970680021708
+The stock GTPL.NS is 30.206852371865622 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  COMPINFO.NS
+max1 price: (Timestamp('2021-06-22 00:00:00'), 31.75)
+max2 price: (Timestamp('2021-05-26 00:00:00'), 25.799999237060547)
+
+The last traded price is: 32.849998474121094
+
+
+The yesterday closing price is: 32.5
+
+max1 and max2 price are 31.75 and 25.799999237060547
+The crucial price for the stock is 31.75
+The percent change is  1.0769183819110577
+The stock COMPINFO.NS is 3.464562123216043 % far from critical price
+The stock COMPINFO.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  GOKUL.NS
+max1 price: (Timestamp('2021-06-03 00:00:00'), 38.75)
+max2 price: (Timestamp('2021-05-18 00:00:00'), 28.700000762939453)
+
+The last traded price is: 31.649999618530273
+
+
+The yesterday closing price is: 30.25
+
+max1 and max2 price are 38.75 and 28.700000762939453
+The crucial price for the stock is 38.75
+The percent change is  4.628097912496772
+The stock GOKUL.NS is -18.322581629599295 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  HITECHGEAR.NS
+max1 price: (Timestamp('2021-05-31 00:00:00'), 260.0)
+max2 price: (Timestamp('2021-07-01 00:00:00'), 313.79998779296875)
+
+The last traded price is: 294.79998779296875
+
+
+The yesterday closing price is: 292.29998779296875
+
+max1 and max2 price are 260.0 and 313.79998779296875
+The crucial price for the stock is 313.79998779296875
+The percent change is  0.8552857011306851
+The stock HITECHGEAR.NS is -6.05481221769051 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  WEBELSOLAR.NS
+max1 price: (Timestamp('2021-07-05 00:00:00'), 74.69999694824219)
+max2 price: (Timestamp('2021-05-26 00:00:00'), 58.04999923706055)
+
+The last traded price is: 74.69999694824219
+
+
+The yesterday closing price is: 71.1500015258789
+
+max1 and max2 price are 74.69999694824219 and 58.04999923706055
+The crucial price for the stock is 74.69999694824219
+The percent change is  4.989452348883036
+The stock WEBELSOLAR.NS is 0.0 % far from critical price
+The stock WEBELSOLAR.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  DECCANCE.NS
+max1 price: (Timestamp('2021-06-11 00:00:00'), 599.0)
+max2 price: (Timestamp('2020-10-22 00:00:00'), 327.8500061035156)
+
+The last traded price is: 612.0
+
+
+The yesterday closing price is: 586.7000122070312
+
+max1 and max2 price are 599.0 and 327.8500061035156
+The crucial price for the stock is 599.0
+The percent change is  4.312252815164599
+The stock DECCANCE.NS is 2.1702838063439067 % far from critical price
+The stock DECCANCE.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  EMKAY.NS
+max1 price: (Timestamp('2021-06-30 00:00:00'), 94.55000305175781)
+max2 price: (Timestamp('2021-03-08 00:00:00'), 90.4000015258789)
+
+The last traded price is: 93.80000305175781
+
+
+The yesterday closing price is: 89.69999694824219
+
+max1 and max2 price are 94.55000305175781 and 90.4000015258789
+The crucial price for the stock is 94.55000305175781
+The percent change is  4.5707984871854235
+The stock EMKAY.NS is -0.7932310690560643 % far from critical price
+The stock EMKAY.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  SALONA.NS
+max1 price: (Timestamp('2021-06-08 00:00:00'), 181.0)
+max2 price: (Timestamp('2021-06-07 00:00:00'), 151.9499969482422)
+
+The last traded price is: 148.89999389648438
+
+
+The yesterday closing price is: 143.5
+
+max1 and max2 price are 181.0 and 151.9499969482422
+The crucial price for the stock is 151.9499969482422
+The percent change is  3.7630619487695993
+The stock SALONA.NS is -2.007241272138174 % far from critical price
+The stock SALONA.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  SOTL.NS
+max1 price: (Timestamp('2021-06-01 00:00:00'), 1294.9000244140625)
+max2 price: (Timestamp('2021-06-28 00:00:00'), 1462.0)
+
+The last traded price is: 1474.3499755859375
+
+
+The yesterday closing price is: 1392.8499755859375
+
+max1 and max2 price are 1294.9000244140625 and 1462.0
+The crucial price for the stock is 1462.0
+The percent change is  5.8513121605731415
+The stock SOTL.NS is 0.8447315722255473 % far from critical price
+The stock SOTL.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  AARVI.NS
+max1 price: (Timestamp('2021-05-26 00:00:00'), 71.0999984741211)
+max2 price: (Timestamp('2021-05-27 00:00:00'), 78.0)
+
+The last traded price is: 75.4000015258789
+
+
+The yesterday closing price is: 67.5
+
+max1 and max2 price are 71.0999984741211 and 78.0
+The crucial price for the stock is 78.0
+The percent change is  11.703705964265046
+The stock AARVI.NS is -3.3333313770783253 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  CENTENKA.NS
+max1 price: (Timestamp('2021-06-02 00:00:00'), 396.29998779296875)
+max2 price: (Timestamp('2021-06-03 00:00:00'), 420.95001220703125)
+
+The last traded price is: 413.45001220703125
+
+
+The yesterday closing price is: 396.8999938964844
+
+max1 and max2 price are 396.29998779296875 and 420.95001220703125
+The crucial price for the stock is 420.95001220703125
+The percent change is  4.169820752091845
+The stock CENTENKA.NS is -1.7816842338779542 % far from critical price
+The stock CENTENKA.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  XPROINDIA.NS
+max1 price: (Timestamp('2021-04-26 00:00:00'), 129.60000610351562)
+max2 price: (Timestamp('2021-02-12 00:00:00'), 53.29999923706055)
+
+The last traded price is: 172.75
+
+
+The yesterday closing price is: 169.8000030517578
+
+max1 and max2 price are 129.60000610351562 and 53.29999923706055
+The crucial price for the stock is 129.60000610351562
+The percent change is  1.7373362162678998
+The stock XPROINDIA.NS is 33.29474680889992 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  TIRUMALCHM.NS
+max1 price: (Timestamp('2021-05-17 00:00:00'), 119.5)
+max2 price: (Timestamp('2021-05-26 00:00:00'), 139.39999389648438)
+
+The last traded price is: 155.89999389648438
+
+
+The yesterday closing price is: 156.8000030517578
+
+max1 and max2 price are 119.5 and 139.39999389648438
+The crucial price for the stock is 139.39999389648438
+The percent change is  -0.5739854194877504
+The stock TIRUMALCHM.NS is 11.836442412079707 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  KSL.NS
+max1 price: (Timestamp('2020-07-08 00:00:00'), 257.3999938964844)
+max2 price: (Timestamp('2021-05-18 00:00:00'), 401.0)
+
+The last traded price is: 391.1000061035156
+
+
+The yesterday closing price is: 397.0
+
+max1 and max2 price are 257.3999938964844 and 401.0
+The crucial price for the stock is 401.0
+The percent change is  -1.4861445583084067
+The stock KSL.NS is -2.4688264081008415 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  MANAKSIA.NS
+max1 price: (Timestamp('2020-12-11 00:00:00'), 64.0)
+max2 price: (Timestamp('2021-05-10 00:00:00'), 68.0)
+
+The last traded price is: 64.30000305175781
+
+
+The yesterday closing price is: 64.25
+
+max1 and max2 price are 64.0 and 68.0
+The crucial price for the stock is 68.0
+The percent change is  0.07782576149075876
+The stock MANAKSIA.NS is -5.441171982709099 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  MANALIPETC.NS
+max1 price: (Timestamp('2021-02-11 00:00:00'), 53.70000076293945)
+max2 price: (Timestamp('2021-02-10 00:00:00'), 45.29999923706055)
+
+The last traded price is: 85.3499984741211
+
+
+The yesterday closing price is: 81.30000305175781
+
+max1 and max2 price are 53.70000076293945 and 45.29999923706055
+The crucial price for the stock is 53.70000076293945
+The percent change is  4.981543997956487
+The stock MANALIPETC.NS is 58.93854238643621 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  SAKUMA.NS
+max1 price: (Timestamp('2021-06-14 00:00:00'), 9.75)
+max2 price: (Timestamp('2021-06-16 00:00:00'), 11.75)
+
+The last traded price is: 13.600000381469727
+
+
+The yesterday closing price is: 12.399999618530273
+
+max1 and max2 price are 9.75 and 11.75
+The crucial price for the stock is 11.75
+The percent change is  9.67742580528954
+The stock SAKUMA.NS is 15.744684097614694 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  PANAMAPET.NS
+max1 price: (Timestamp('2021-05-31 00:00:00'), 234.0)
+max2 price: (Timestamp('2021-02-04 00:00:00'), 137.8000030517578)
+
+The last traded price is: 244.39999389648438
+
+
+The yesterday closing price is: 240.89999389648438
+
+max1 and max2 price are 234.0 and 137.8000030517578
+The crucial price for the stock is 234.0
+The percent change is  1.4528850513395875
+The stock PANAMAPET.NS is 4.444441836104434 % far from critical price
+The stock PANAMAPET.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  LGBBROSLTD.NS
+max1 price: (Timestamp('2021-06-11 00:00:00'), 412.3500061035156)
+max2 price: (Timestamp('2021-06-17 00:00:00'), 468.0)
+
+The last traded price is: 457.79998779296875
+
+
+The yesterday closing price is: 462.8500061035156
+
+max1 and max2 price are 412.3500061035156 and 468.0
+The crucial price for the stock is 468.0
+The percent change is  -1.0910701618133816
+The stock LGBBROSLTD.NS is -2.17948978782719 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  SARLAPOLY.NS
+max1 price: (Timestamp('2021-07-02 00:00:00'), 42.900001525878906)
+max2 price: (Timestamp('2021-06-22 00:00:00'), 41.20000076293945)
+
+The last traded price is: 42.25
+
+
+The yesterday closing price is: 42.20000076293945
+
+max1 and max2 price are 42.900001525878906 and 41.20000076293945
+The crucial price for the stock is 42.900001525878906
+The percent change is  0.11848160226683409
+The stock SARLAPOLY.NS is -1.5151550180873554 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  MINDTECK.NS
+max1 price: (Timestamp('2021-06-04 00:00:00'), 79.3499984741211)
+max2 price: (Timestamp('2021-06-02 00:00:00'), 68.75)
+
+The last traded price is: 71.30000305175781
+
+
+The yesterday closing price is: 71.6500015258789
+
+max1 and max2 price are 79.3499984741211 and 68.75
+The crucial price for the stock is 79.3499984741211
+The percent change is  -0.4884835543160171
+The stock MINDTECK.NS is -10.144921962397612 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  AMBIKCO.NS
+max1 price: (Timestamp('2021-06-03 00:00:00'), 1324.0)
+max2 price: (Timestamp('2021-06-10 00:00:00'), 1320.550048828125)
+
+The last traded price is: 1196.699951171875
+
+
+The yesterday closing price is: 1179.25
+
+max1 and max2 price are 1324.0 and 1320.550048828125
+The crucial price for the stock is 1320.550048828125
+The percent change is  1.4797499403752385
+The stock AMBIKCO.NS is -9.378675027588416 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  RAMCOIND.NS
+max1 price: (Timestamp('2020-07-14 00:00:00'), 194.04025742430127)
+max2 price: (Timestamp('2021-03-09 00:00:00'), 273.23018487235726)
+
+The last traded price is: 278.0
+
+
+The yesterday closing price is: 280.79998779296875
+
+max1 and max2 price are 194.04025742430127 and 273.23018487235726
+The crucial price for the stock is 273.23018487235726
+The percent change is  -0.9971466932659396
+The stock RAMCOIND.NS is 1.7457130989648966 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  GALLISPAT.NS
+max1 price: (Timestamp('2021-04-05 00:00:00'), 46.400001525878906)
+max2 price: (Timestamp('2021-06-28 00:00:00'), 61.900001525878906)
+
+The last traded price is: 55.70000076293945
+
+
+The yesterday closing price is: 54.849998474121094
+
+max1 and max2 price are 46.400001525878906 and 61.900001525878906
+The crucial price for the stock is 61.900001525878906
+The percent change is  1.5496851640194684
+The stock GALLISPAT.NS is -10.016156074483103 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  PDMJEPAPER.NS
+max1 price: (Timestamp('2020-10-26 00:00:00'), 16.700000762939453)
+max2 price: (Timestamp('2020-11-20 00:00:00'), 23.149999618530273)
+
+The last traded price is: 39.20000076293945
+
+
+The yesterday closing price is: 38.900001525878906
+
+max1 and max2 price are 16.700000762939453 and 23.149999618530273
+The crucial price for the stock is 23.149999618530273
+The percent change is  0.7712062346860504
+The stock PDMJEPAPER.NS is 69.33045964960645 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  DTIL.NS
+max1 price: (Timestamp('2021-06-17 00:00:00'), 553.2364501953125)
+max2 price: (Timestamp('2020-08-05 00:00:00'), 205.6503631666412)
+
+The last traded price is: 482.20001220703125
+
+
+The yesterday closing price is: 463.0
+
+max1 and max2 price are 553.2364501953125 and 205.6503631666412
+The crucial price for the stock is 553.2364501953125
+The percent change is  4.146870887047786
+The stock DTIL.NS is -12.840158663298995 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  TIIL.NS
+max1 price: (Timestamp('2020-12-07 00:00:00'), 330.29998779296875)
+max2 price: (Timestamp('2021-06-30 00:00:00'), 545.9500122070312)
+
+The last traded price is: 568.3499755859375
+
+
+The yesterday closing price is: 551.25
+
+max1 and max2 price are 330.29998779296875 and 545.9500122070312
+The crucial price for the stock is 545.9500122070312
+The percent change is  3.1020363874716557
+The stock TIIL.NS is 4.102933030141942 % far from critical price
+The stock TIIL.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  RVNL.NS
+max1 price: (Timestamp('2021-01-08 00:00:00'), 32.626658263291525)
+max2 price: (Timestamp('2021-01-05 00:00:00'), 27.333245896422092)
+
+The last traded price is: 32.25
+
+
+The yesterday closing price is: 32.20000076293945
+
+max1 and max2 price are 32.626658263291525 and 27.333245896422092
+The crucial price for the stock is 32.626658263291525
+The percent change is  0.15527713004930555
+The stock RVNL.NS is -1.1544494083701649 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  EMAMIPAP.NS
+max1 price: (Timestamp('2021-07-05 00:00:00'), 164.89999389648438)
+Issue occured:
+ local variable 'max2' referenced before assignment
+----------------------------------------------------------------------------------
+
+
+Stock name:  GULFPETRO.NS
+max1 price: (Timestamp('2021-06-07 00:00:00'), 77.55000305175781)
+max2 price: (Timestamp('2021-05-26 00:00:00'), 59.79999923706055)
+
+The last traded price is: 68.55000305175781
+
+
+The yesterday closing price is: 66.0
+
+max1 and max2 price are 77.55000305175781 and 59.79999923706055
+The crucial price for the stock is 77.55000305175781
+The percent change is  3.863640987511837
+The stock GULFPETRO.NS is -11.605415404037174 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  INEOSSTYRO.NS
+max1 price: (Timestamp('2021-05-20 00:00:00'), 1475.0)
+max2 price: (Timestamp('2020-07-07 00:00:00'), 878.0)
+
+The last traded price is: 1468.6500244140625
+
+
+The yesterday closing price is: 1452.5
+
+max1 and max2 price are 1475.0 and 878.0
+The crucial price for the stock is 1475.0
+The percent change is  1.1118777565619622
+The stock INEOSSTYRO.NS is -0.43050681938559326 % far from critical price
+The stock INEOSSTYRO.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  NCLIND.NS
+max1 price: (Timestamp('2020-09-11 00:00:00'), 118.67441444394916)
+max2 price: (Timestamp('2020-08-06 00:00:00'), 90.34442816443166)
+
+The last traded price is: 217.4499969482422
+
+
+The yesterday closing price is: 211.14999389648438
+
+max1 and max2 price are 118.67441444394916 and 90.34442816443166
+The crucial price for the stock is 118.67441444394916
+The percent change is  2.9836624361194013
+The stock NCLIND.NS is 83.23241615904116 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  BSL.NS
+max1 price: (Timestamp('2021-05-07 00:00:00'), 55.099998474121094)
+max2 price: (Timestamp('2020-10-21 00:00:00'), 42.20000076293945)
+
+The last traded price is: 57.20000076293945
+
+
+The yesterday closing price is: 57.349998474121094
+
+max1 and max2 price are 55.099998474121094 and 42.20000076293945
+The crucial price for the stock is 55.099998474121094
+The percent change is  -0.26154789044907534
+The stock BSL.NS is 3.811256528082611 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  RAMASTEEL.NS
+max1 price: (Timestamp('2021-06-28 00:00:00'), 129.35000610351562)
+max2 price: (Timestamp('2021-01-14 00:00:00'), 81.9000015258789)
+
+The last traded price is: 151.64999389648438
+
+
+The yesterday closing price is: 144.4499969482422
+
+max1 and max2 price are 129.35000610351562 and 81.9000015258789
+The crucial price for the stock is 129.35000610351562
+The percent change is  4.984421668642898
+The stock RAMASTEEL.NS is 17.240036135075727 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  ASHOKA.NS
+max1 price: (Timestamp('2020-08-14 00:00:00'), 72.75)
+max2 price: (Timestamp('2020-08-17 00:00:00'), 78.5)
+
+The last traded price is: 115.25
+
+
+The yesterday closing price is: 112.19999694824219
+
+max1 and max2 price are 72.75 and 78.5
+The crucial price for the stock is 78.5
+The percent change is  2.7183628651654757
+The stock ASHOKA.NS is 46.81528662420382 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  UNIVASTU.NS
+max1 price: (Timestamp('2021-01-20 00:00:00'), 39.95000076293945)
+max2 price: (Timestamp('2021-01-21 00:00:00'), 46.79999923706055)
+
+The last traded price is: 61.25
+
+
+The yesterday closing price is: 56.25
+
+max1 and max2 price are 39.95000076293945 and 46.79999923706055
+The crucial price for the stock is 46.79999923706055
+The percent change is  8.88888888888889
+The stock UNIVASTU.NS is 30.876070509626448 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  PRECWIRE.NS
+max1 price: (Timestamp('2020-10-01 00:00:00'), 150.1400969471391)
+max2 price: (Timestamp('2021-03-05 00:00:00'), 202.0)
+
+The last traded price is: 231.14999389648438
+
+
+The yesterday closing price is: 233.0500030517578
+
+max1 and max2 price are 150.1400969471391 and 202.0
+The crucial price for the stock is 202.0
+The percent change is  -0.8152796096945197
+The stock PRECWIRE.NS is 14.430690047764541 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  PITTIENG.NS
+max1 price: (Timestamp('2021-05-26 00:00:00'), 90.6500015258789)
+max2 price: (Timestamp('2021-06-02 00:00:00'), 110.5)
+
+The last traded price is: 144.0500030517578
+
+
+The yesterday closing price is: 137.75
+
+max1 and max2 price are 90.6500015258789 and 110.5
+The crucial price for the stock is 110.5
+The percent change is  4.573504937755217
+The stock PITTIENG.NS is 30.36199371199802 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  ISFT.NS
+max1 price: (Timestamp('2021-06-09 00:00:00'), 106.25)
+max2 price: (Timestamp('2021-06-10 00:00:00'), 112.55000305175781)
+
+The last traded price is: 110.0
+
+
+The yesterday closing price is: 110.75
+
+max1 and max2 price are 106.25 and 112.55000305175781
+The crucial price for the stock is 112.55000305175781
+The percent change is  -0.6772009029345373
+The stock ISFT.NS is -2.2656623568327716 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  JAYAGROGN.NS
+max1 price: (Timestamp('2021-05-03 00:00:00'), 195.0)
+max2 price: (Timestamp('2021-06-04 00:00:00'), 225.0)
+
+The last traded price is: 214.64999389648438
+
+
+The yesterday closing price is: 217.25
+
+max1 and max2 price are 195.0 and 225.0
+The crucial price for the stock is 225.0
+The percent change is  -1.1967807150819907
+The stock JAYAGROGN.NS is -4.600002712673612 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  UMESLTD.NS
+max1 price: (Timestamp('2021-03-26 00:00:00'), 3.75)
+max2 price: (Timestamp('2021-06-02 00:00:00'), 4.400000095367432)
+
+The last traded price is: 4.5
+
+
+The yesterday closing price is: 4.349999904632568
+
+max1 and max2 price are 3.75 and 4.400000095367432
+The crucial price for the stock is 4.400000095367432
+The percent change is  3.448278130022205
+The stock UMESLTD.NS is 2.2727250560256556 % far from critical price
+The stock UMESLTD.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  USHAMART.NS
+max1 price: (Timestamp('2021-05-03 00:00:00'), 57.20000076293945)
+max2 price: (Timestamp('2021-04-30 00:00:00'), 49.25)
+
+The last traded price is: 56.75
+
+
+The yesterday closing price is: 54.5
+
+max1 and max2 price are 57.20000076293945 and 49.25
+The crucial price for the stock is 57.20000076293945
+The percent change is  4.128440366972478
+The stock USHAMART.NS is -0.7867146100302395 % far from critical price
+The stock USHAMART.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  VSSL.NS
+max1 price: (Timestamp('2021-06-15 00:00:00'), 232.0)
+max2 price: (Timestamp('2021-04-29 00:00:00'), 217.89999389648438)
+
+The last traded price is: 257.3999938964844
+
+
+The yesterday closing price is: 245.35000610351562
+
+max1 and max2 price are 232.0 and 217.89999389648438
+The crucial price for the stock is 232.0
+The percent change is  4.91134603350478
+The stock VSSL.NS is 10.948273231243265 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  BLISSGVS.NS
+max1 price: (Timestamp('2021-03-17 00:00:00'), 113.75)
+max2 price: (Timestamp('2021-03-16 00:00:00'), 123.1500015258789)
+
+The last traded price is: 114.3499984741211
+
+
+The yesterday closing price is: 108.55000305175781
+
+max1 and max2 price are 113.75 and 123.1500015258789
+The crucial price for the stock is 123.1500015258789
+The percent change is  5.343155466884493
+The stock BLISSGVS.NS is -7.145759596201522 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  SAndSPOWER.NS
+- SANDSPOWER.NS: No data found, symbol may be delisted
+Issue occured:
+ local variable 'max1' referenced before assignment
+----------------------------------------------------------------------------------
+
+
+Stock name:  SMSPHARMA.NS
+max1 price: (Timestamp('2020-08-03 00:00:00'), 88.80000305175781)
+max2 price: (Timestamp('2020-08-04 00:00:00'), 94.30000305175781)
+
+The last traded price is: 179.35000610351562
+
+
+The yesterday closing price is: 181.4499969482422
+
+max1 and max2 price are 88.80000305175781 and 94.30000305175781
+The crucial price for the stock is 94.30000305175781
+The percent change is  -1.157338594679379
+The stock SMSPHARMA.NS is 90.1908804871162 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  REDINGTON.NS
+max1 price: (Timestamp('2021-05-31 00:00:00'), 263.70001220703125)
+max2 price: (Timestamp('2021-07-02 00:00:00'), 306.79998779296875)
+
+The last traded price is: 304.45001220703125
+
+
+The yesterday closing price is: 293.0
+
+max1 and max2 price are 263.70001220703125 and 306.79998779296875
+The crucial price for the stock is 306.79998779296875
+The percent change is  3.9078539955738054
+The stock REDINGTON.NS is -0.7659633896476175 % far from critical price
+The stock REDINGTON.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  DBSTOCKBRO.NS
+max1 price: (Timestamp('2020-12-02 00:00:00'), 12.100000381469727)
+max2 price: (Timestamp('2021-05-28 00:00:00'), 14.449999809265137)
+
+The last traded price is: 15.0
+
+
+The yesterday closing price is: 14.300000190734863
+
+max1 and max2 price are 12.100000381469727 and 14.449999809265137
+The crucial price for the stock is 14.449999809265137
+The percent change is  4.895103496003271
+The stock DBSTOCKBRO.NS is 3.8062297439077533 % far from critical price
+The stock DBSTOCKBRO.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  HBSL.NS
+max1 price: (Timestamp('2021-06-18 00:00:00'), 24.299999237060547)
+max2 price: (Timestamp('2021-06-16 00:00:00'), 21.049999237060547)
+
+The last traded price is: 23.350000381469727
+
+
+The yesterday closing price is: 23.149999618530273
+
+max1 and max2 price are 24.299999237060547 and 21.049999237060547
+The crucial price for the stock is 24.299999237060547
+The percent change is  0.8639341954000023
+The stock HBSL.NS is -3.9094604338174332 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  ORIENTCEM.NS
+max1 price: (Timestamp('2021-05-18 00:00:00'), 132.39999389648438)
+max2 price: (Timestamp('2021-05-20 00:00:00'), 137.3000030517578)
+
+The last traded price is: 143.8000030517578
+
+
+The yesterday closing price is: 138.0500030517578
+
+max1 and max2 price are 132.39999389648438 and 137.3000030517578
+The crucial price for the stock is 137.3000030517578
+The percent change is  4.165157459536024
+The stock ORIENTCEM.NS is 4.734158671176215 % far from critical price
+The stock ORIENTCEM.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  PODDARMENT.NS
+max1 price: (Timestamp('2021-06-28 00:00:00'), 286.0)
+max2 price: (Timestamp('2021-04-20 00:00:00'), 227.3000030517578)
+
+The last traded price is: 264.79998779296875
+
+
+The yesterday closing price is: 267.04998779296875
+
+max1 and max2 price are 286.0 and 227.3000030517578
+The crucial price for the stock is 286.0
+The percent change is  -0.8425388889155535
+The stock PODDARMENT.NS is -7.4125916807801575 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  SAGCEM.NS
+max1 price: (Timestamp('2020-10-22 00:00:00'), 816.2328461314794)
+max2 price: (Timestamp('2021-06-16 00:00:00'), 1195.0)
+
+The last traded price is: 1101.0999755859375
+
+
+The yesterday closing price is: 1121.4000244140625
+
+max1 and max2 price are 816.2328461314794 and 1195.0
+The crucial price for the stock is 1195.0
+The percent change is  -1.8102415182960143
+The stock SAGCEM.NS is -7.85774262879184 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  HITECHCORP.NS
+max1 price: (Timestamp('2021-06-16 00:00:00'), 263.6499938964844)
+max2 price: (Timestamp('2021-06-15 00:00:00'), 229.5)
+
+The last traded price is: 231.0500030517578
+
+
+The yesterday closing price is: 235.5
+
+max1 and max2 price are 263.6499938964844 and 229.5
+The crucial price for the stock is 263.6499938964844
+The percent change is  -1.889595307109209
+The stock HITECHCORP.NS is -12.364874492478137 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  KOTHARIPET.NS
+max1 price: (Timestamp('2021-05-17 00:00:00'), 46.5)
+max2 price: (Timestamp('2021-05-18 00:00:00'), 51.150001525878906)
+
+The last traded price is: 44.599998474121094
+
+
+The yesterday closing price is: 39.95000076293945
+
+max1 and max2 price are 46.5 and 51.150001525878906
+The crucial price for the stock is 46.5
+The percent change is  11.639543485304058
+The stock KOTHARIPET.NS is -4.086024786836358 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  APARINDS.NS
+max1 price: (Timestamp('2021-01-12 00:00:00'), 418.0)
+max2 price: (Timestamp('2021-02-10 00:00:00'), 394.8999938964844)
+
+The last traded price is: 544.3499755859375
+
+
+The yesterday closing price is: 538.0999755859375
+
+max1 and max2 price are 418.0 and 394.8999938964844
+The crucial price for the stock is 418.0
+The percent change is  1.1614941987675005
+The stock APARINDS.NS is 30.227266886587916 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  MUNJALAU.NS
+max1 price: (Timestamp('2020-08-26 00:00:00'), 68.80000305175781)
+max2 price: (Timestamp('2021-02-12 00:00:00'), 70.4000015258789)
+
+The last traded price is: 67.0999984741211
+
+
+The yesterday closing price is: 67.3499984741211
+
+max1 and max2 price are 68.80000305175781 and 70.4000015258789
+The crucial price for the stock is 68.80000305175781
+The percent change is  -0.37119525711060153
+The stock MUNJALAU.NS is -2.4709367764966754 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  PONNIERODE.NS
+max1 price: (Timestamp('2021-06-25 00:00:00'), 286.79998779296875)
+max2 price: (Timestamp('2021-06-24 00:00:00'), 262.79998779296875)
+
+The last traded price is: 350.1499938964844
+
+
+The yesterday closing price is: 368.8999938964844
+
+max1 and max2 price are 286.79998779296875 and 262.79998779296875
+The crucial price for the stock is 286.79998779296875
+The percent change is  -5.082678316677166
+The stock PONNIERODE.NS is 22.088566527152665 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  POWERGRID.NS
+max1 price: (Timestamp('2021-02-16 00:00:00'), 225.72474052235052)
+max2 price: (Timestamp('2021-02-03 00:00:00'), 206.1861458471266)
+
+The last traded price is: 230.3000030517578
+
+
+The yesterday closing price is: 227.9499969482422
+
+max1 and max2 price are 225.72474052235052 and 206.1861458471266
+The crucial price for the stock is 225.72474052235052
+The percent change is  1.0309305264212012
+The stock POWERGRID.NS is 2.0269211601792803 % far from critical price
+The stock POWERGRID.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  MONTECARLO.NS
+max1 price: (Timestamp('2021-04-08 00:00:00'), 261.79998779296875)
+max2 price: (Timestamp('2021-06-01 00:00:00'), 327.0)
+
+The last traded price is: 324.6499938964844
+
+
+The yesterday closing price is: 323.6499938964844
+
+max1 and max2 price are 261.79998779296875 and 327.0
+The crucial price for the stock is 327.0
+The percent change is  0.3089757512307688
+The stock MONTECARLO.NS is -0.7186563007693043 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  RAJESHEXPO.NS
+max1 price: (Timestamp('2021-02-18 00:00:00'), 527.0)
+max2 price: (Timestamp('2021-03-19 00:00:00'), 516.0)
+
+The last traded price is: 575.4000244140625
+
+
+The yesterday closing price is: 572.3499755859375
+
+max1 and max2 price are 527.0 and 516.0
+The crucial price for the stock is 527.0
+The percent change is  0.5328992676207496
+The stock RAJESHEXPO.NS is 9.18406535371205 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  IFGLEXPOR.NS
+max1 price: (Timestamp('2021-03-16 00:00:00'), 307.04998779296875)
+max2 price: (Timestamp('2021-03-17 00:00:00'), 312.20001220703125)
+
+The last traded price is: 390.1499938964844
+
+
+The yesterday closing price is: 385.70001220703125
+
+max1 and max2 price are 307.04998779296875 and 312.20001220703125
+The crucial price for the stock is 312.20001220703125
+The percent change is  1.1537416511836973
+The stock IFGLEXPOR.NS is 24.967962409226825 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  ADSL.NS
+max1 price: (Timestamp('2021-05-27 00:00:00'), 74.94999694824219)
+max2 price: (Timestamp('2021-02-23 00:00:00'), 42.0)
+
+The last traded price is: 68.69999694824219
+
+
+The yesterday closing price is: 69.55000305175781
+
+max1 and max2 price are 74.94999694824219 and 42.0
+The crucial price for the stock is 74.94999694824219
+The percent change is  -1.2221510657347727
+The stock ADSL.NS is -8.338892934600157 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  HSIL.NS
+max1 price: (Timestamp('2021-05-11 00:00:00'), 207.4499969482422)
+max2 price: (Timestamp('2021-05-12 00:00:00'), 226.60000610351562)
+
+The last traded price is: 257.6000061035156
+
+
+The yesterday closing price is: 252.5
+
+max1 and max2 price are 207.4499969482422 and 226.60000610351562
+The crucial price for the stock is 226.60000610351562
+The percent change is  2.0198043974319306
+The stock HSIL.NS is 13.680493894531736 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  RCF.NS
+max1 price: (Timestamp('2021-02-26 00:00:00'), 80.80000305175781)
+max2 price: (Timestamp('2021-03-01 00:00:00'), 91.05000305175781)
+
+The last traded price is: 83.3499984741211
+
+
+The yesterday closing price is: 84.0999984741211
+
+max1 and max2 price are 80.80000305175781 and 91.05000305175781
+The crucial price for the stock is 91.05000305175781
+The percent change is  -0.8917954977499636
+The stock RCF.NS is -8.456896561837143 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  GROBTEA.NS
+max1 price: (Timestamp('2020-08-20 00:00:00'), 640.9805908203126)
+max2 price: (Timestamp('2021-06-23 00:00:00'), 1202.550048828125)
+
+The last traded price is: 1365.1500244140625
+
+
+The yesterday closing price is: 1360.5999755859375
+
+max1 and max2 price are 640.9805908203126 and 1202.550048828125
+The crucial price for the stock is 1202.550048828125
+The percent change is  0.3344148838578023
+The stock GROBTEA.NS is 13.521264727766619 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  AUSOMENT.NS
+max1 price: (Timestamp('2021-06-16 00:00:00'), 103.3499984741211)
+max2 price: (Timestamp('2021-06-15 00:00:00'), 86.1500015258789)
+
+The last traded price is: 81.94999694824219
+
+
+The yesterday closing price is: 83.1500015258789
+
+max1 and max2 price are 103.3499984741211 and 86.1500015258789
+The crucial price for the stock is 86.1500015258789
+The percent change is  -1.4431804637589085
+The stock AUSOMENT.NS is -4.8752228708609655 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  NDTV.NS
+max1 price: (Timestamp('2021-05-25 00:00:00'), 86.1500015258789)
+max2 price: (Timestamp('2021-02-12 00:00:00'), 53.04999923706055)
+
+The last traded price is: 71.5
+
+
+The yesterday closing price is: 73.30000305175781
+
+max1 and max2 price are 86.1500015258789 and 53.04999923706055
+The crucial price for the stock is 86.1500015258789
+The percent change is  -2.455665725534573
+The stock NDTV.NS is -17.00522491746926 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  JMA.NS
+max1 price: (Timestamp('2021-07-02 00:00:00'), 72.30000305175781)
+max2 price: (Timestamp('2021-07-01 00:00:00'), 63.0)
+
+The last traded price is: 67.6500015258789
+
+
+The yesterday closing price is: 71.5999984741211
+
+max1 and max2 price are 72.30000305175781 and 63.0
+The crucial price for the stock is 72.30000305175781
+The percent change is  -5.516755631873182
+The stock JMA.NS is -6.431537108719184 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  AYMSYNTEX.NS
+max1 price: (Timestamp('2020-11-19 00:00:00'), 45.0)
+max2 price: (Timestamp('2020-11-18 00:00:00'), 38.400001525878906)
+
+The last traded price is: 75.9000015258789
+
+
+The yesterday closing price is: 76.55000305175781
+
+max1 and max2 price are 45.0 and 38.400001525878906
+The crucial price for the stock is 45.0
+The percent change is  -0.8491201828423445
+The stock AYMSYNTEX.NS is 68.66667005750868 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  MOTILALOFS.NS
+max1 price: (Timestamp('2021-05-21 00:00:00'), 838.0)
+max2 price: (Timestamp('2021-07-05 00:00:00'), 877.9000244140625)
+
+The last traded price is: 864.4500122070312
+
+
+The yesterday closing price is: 811.1500244140625
+
+max1 and max2 price are 838.0 and 877.9000244140625
+The crucial price for the stock is 877.9000244140625
+The percent change is  6.57091613003035
+The stock MOTILALOFS.NS is -1.5320665033593321 % far from critical price
+The stock MOTILALOFS.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  DATAMATICS.NS
+max1 price: (Timestamp('2021-06-18 00:00:00'), 184.4499969482422)
+max2 price: (Timestamp('2021-01-05 00:00:00'), 131.1999969482422)
+
+The last traded price is: 196.0
+
+
+The yesterday closing price is: 193.35000610351562
+
+max1 and max2 price are 184.4499969482422 and 131.1999969482422
+The crucial price for the stock is 184.4499969482422
+The percent change is  1.370568302472989
+The stock DATAMATICS.NS is 6.26186134066395 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  DWARKESH.NS
+max1 price: (Timestamp('2021-05-03 00:00:00'), 50.400001525878906)
+max2 price: (Timestamp('2021-06-07 00:00:00'), 67.75)
+
+The last traded price is: 77.0999984741211
+
+
+The yesterday closing price is: 78.6500015258789
+
+max1 and max2 price are 50.400001525878906 and 67.75
+The crucial price for the stock is 67.75
+The percent change is  -1.9707603581518067
+The stock DWARKESH.NS is 13.800735755160288 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  BALAXI.NS
+max1 price: (Timestamp('2020-08-03 00:00:00'), 259.04998779296875)
+max2 price: (Timestamp('2020-08-05 00:00:00'), 285.6000061035156)
+
+The last traded price is: 591.4500122070312
+
+
+The yesterday closing price is: 581.0499877929688
+
+max1 and max2 price are 259.04998779296875 and 285.6000061035156
+The crucial price for the stock is 285.6000061035156
+The percent change is  1.789867418045293
+The stock BALAXI.NS is 107.09033598292726 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  ICICIPRULI.NS
+max1 price: (Timestamp('2021-04-20 00:00:00'), 513.14748983643)
+max2 price: (Timestamp('2021-04-23 00:00:00'), 524.010329445555)
+
+The last traded price is: 621.25
+
+
+The yesterday closing price is: 619.4000244140625
+
+max1 and max2 price are 513.14748983643 and 524.010329445555
+The crucial price for the stock is 524.010329445555
+The percent change is  0.2986721848594585
+The stock ICICIPRULI.NS is 18.55682323234588 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  GNA.NS
+max1 price: (Timestamp('2021-01-11 00:00:00'), 364.70001220703125)
+max2 price: (Timestamp('2021-05-24 00:00:00'), 451.0)
+
+The last traded price is: 464.04998779296875
+
+
+The yesterday closing price is: 461.25
+
+max1 and max2 price are 364.70001220703125 and 451.0
+The crucial price for the stock is 451.0
+The percent change is  0.6070434239498645
+The stock GNA.NS is 2.893567138130543 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  HISARMETAL.NS
+max1 price: (Timestamp('2021-03-03 00:00:00'), 143.64999389648438)
+max2 price: (Timestamp('2021-03-02 00:00:00'), 124.30000305175781)
+
+The last traded price is: 134.39999389648438
+
+
+The yesterday closing price is: 132.6999969482422
+
+max1 and max2 price are 143.64999389648438 and 124.30000305175781
+The crucial price for the stock is 143.64999389648438
+The percent change is  1.2810828842032664
+The stock HISARMETAL.NS is -6.439262368967201 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  SURYAROSNI.NS
+max1 price: (Timestamp('2020-09-28 00:00:00'), 214.17356906409245)
+max2 price: (Timestamp('2021-06-15 00:00:00'), 533.9000244140625)
+
+The last traded price is: 521.9500122070312
+
+
+The yesterday closing price is: 535.0499877929688
+
+max1 and max2 price are 214.17356906409245 and 533.9000244140625
+The crucial price for the stock is 533.9000244140625
+The percent change is  -2.4483648041884227
+The stock SURYAROSNI.NS is -2.23824904674728 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  DCMSHRIRAM.NS
+max1 price: (Timestamp('2021-04-16 00:00:00'), 666.3499755859375)
+max2 price: (Timestamp('2021-04-19 00:00:00'), 724.4000244140625)
+
+The last traded price is: 910.5999755859375
+
+
+The yesterday closing price is: 876.4000244140625
+
+max1 and max2 price are 666.3499755859375 and 724.4000244140625
+The crucial price for the stock is 724.4000244140625
+The percent change is  3.902322024093982
+The stock DCMSHRIRAM.NS is 25.704023315361496 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  NSIL.NS
+max1 price: (Timestamp('2020-07-14 00:00:00'), 699.0)
+max2 price: (Timestamp('2020-08-21 00:00:00'), 856.7999877929688)
+
+The last traded price is: 1731.25
+
+
+The yesterday closing price is: 1715.449951171875
+
+max1 and max2 price are 699.0 and 856.7999877929688
+The crucial price for the stock is 856.7999877929688
+The percent change is  0.921043998825586
+The stock NSIL.NS is 102.05999354172812 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  SHYAMCENT.NS
+max1 price: (Timestamp('2021-06-07 00:00:00'), 10.850000381469727)
+max2 price: (Timestamp('2021-06-08 00:00:00'), 10.5)
+
+The last traded price is: 9.5
+
+
+The yesterday closing price is: 9.699999809265137
+
+max1 and max2 price are 10.850000381469727 and 10.5
+The crucial price for the stock is 10.5
+The percent change is  -2.061853744307326
+The stock SHYAMCENT.NS is -9.523809523809524 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  MAANALU.NS
+max1 price: (Timestamp('2021-02-19 00:00:00'), 175.0)
+max2 price: (Timestamp('2021-06-16 00:00:00'), 357.3500061035156)
+
+The last traded price is: 333.5
+
+
+The yesterday closing price is: 339.6000061035156
+
+max1 and max2 price are 175.0 and 357.3500061035156
+The crucial price for the stock is 357.3500061035156
+The percent change is  -1.7962326248181053
+The stock MAANALU.NS is -6.674130599177003 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  BIRLACORPN.NS
+max1 price: (Timestamp('2021-05-19 00:00:00'), 1373.949951171875)
+max2 price: (Timestamp('2021-05-17 00:00:00'), 1185.0)
+
+The last traded price is: 1220.699951171875
+
+
+The yesterday closing price is: 1226.199951171875
+
+max1 and max2 price are 1373.949951171875 and 1185.0
+The crucial price for the stock is 1373.949951171875
+The percent change is  -0.44854022337414623
+The stock BIRLACORPN.NS is -11.153972520563023 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  JKPAPER.NS
+max1 price: (Timestamp('2021-06-23 00:00:00'), 218.0)
+max2 price: (Timestamp('2021-07-01 00:00:00'), 226.85000610351562)
+
+The last traded price is: 228.10000610351562
+
+
+The yesterday closing price is: 219.60000610351562
+
+max1 and max2 price are 218.0 and 226.85000610351562
+The crucial price for the stock is 226.85000610351562
+The percent change is  3.8706738450604816
+The stock JKPAPER.NS is 0.5510248915001585 % far from critical price
+The stock JKPAPER.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  TTKPRESTIG.NS
+max1 price: (Timestamp('2021-05-25 00:00:00'), 8638.863594963377)
+max2 price: (Timestamp('2021-02-10 00:00:00'), 7075.034574302134)
+
+The last traded price is: 9416.2998046875
+
+
+The yesterday closing price is: 9425.650390625
+
+max1 and max2 price are 8638.863594963377 and 7075.034574302134
+The crucial price for the stock is 8638.863594963377
+The percent change is  -0.09920361513514589
+The stock TTKPRESTIG.NS is 8.999287940804889 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  INVENTURE.NS
+max1 price: (Timestamp('2021-06-24 00:00:00'), 4.699999809265137)
+max2 price: (Timestamp('2021-06-09 00:00:00'), 4.15500020980835)
+
+The last traded price is: 4.050000190734863
+
+
+The yesterday closing price is: 3.799999952316284
+
+max1 and max2 price are 4.699999809265137 and 4.15500020980835
+The crucial price for the stock is 4.15500020980835
+The percent change is  6.5789537251491765
+The stock INVENTURE.NS is -2.527076143717679 % far from critical price
+The stock INVENTURE.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  NMDC.NS
+max1 price: (Timestamp('2020-08-28 00:00:00'), 103.0337131410718)
+max2 price: (Timestamp('2021-05-12 00:00:00'), 213.1999969482422)
+
+The last traded price is: 175.25
+
+
+The yesterday closing price is: 182.9499969482422
+
+max1 and max2 price are 103.0337131410718 and 213.1999969482422
+The crucial price for the stock is 213.1999969482422
+The percent change is  -4.208798620762246
+The stock NMDC.NS is -17.80018644064764 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  SKMEGGPROD.NS
+max1 price: (Timestamp('2021-06-22 00:00:00'), 93.0)
+max2 price: (Timestamp('2021-06-23 00:00:00'), 99.5)
+
+The last traded price is: 91.0999984741211
+
+
+The yesterday closing price is: 89.55000305175781
+
+max1 and max2 price are 93.0 and 99.5
+The crucial price for the stock is 93.0
+The percent change is  1.730871434440287
+The stock SKMEGGPROD.NS is -2.043012393418179 % far from critical price
+The stock SKMEGGPROD.NS looks good for investment
+
+----------------------------------------------------------------------------------
+
+
+Stock name:  LINCOLN.NS
+max1 price: (Timestamp('2021-06-29 00:00:00'), 350.25)
+max2 price: (Timestamp('2020-08-20 00:00:00'), 249.0)
+
+The last traded price is: 347.6499938964844
+
+
+The yesterday closing price is: 347.0
+
+max1 and max2 price are 350.25 and 249.0
+The crucial price for the stock is 350.25
+The percent change is  0.18731812578800433
+The stock LINCOLN.NS is -0.7423286519673448 % far from critical price
+----------------------------------------------------------------------------------
+
+
+Stock name:  VETO.NS
+max1 price: (Timestamp('2021-07-05 00:00:00'), 169.0)
+max2 price: (Timestamp('2021-07-01 00:00:00'), 152.89999389648438)
+
+The last traded price is: 158.6999969482422
+
+
+The yesterday closing price is: 150.14999389648438
+
+max1 and max2 price are 169.0 and 152.89999389648438
+The crucial price for the stock is 169.0
+The percent change is  5.6943079582489435
+The stock VETO.NS is -6.094676361986871 % far from critical price

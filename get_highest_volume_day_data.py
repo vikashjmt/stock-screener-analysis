@@ -54,10 +54,12 @@ def find_crucial_price(max1 ,max2, current):
         if current < max1:
             crucial_price = max1
         else:
-            crucial_price = max2
+            #crucial_price = max2
+            crucial_price = max1
     else:
         if current < max2:
-            crucial_price = max2
+            #crucial_price = max2
+            crucial_price = max1
         else:
             crucial_price = max1
     return crucial_price
@@ -69,9 +71,9 @@ def evaluate_crucial_price(crucial_price,current,last_day_price):
     percent_far = ((current - crucial_price) / crucial_price) * 100.0
     print(f"The stock {stock_name} is {percent_far} % far from critical price")
 
-    if (percent_far < 5 and percent_far >= 0 and percent_change >=1):
+    if (percent_far < 6 and percent_far >= 0 ):
         print(f"The stock {stock_name} looks good for investment\n")
-    elif (percent_far > -3 and percent_far <= 0 and percent_change >=1):
+    elif (percent_far > -3 and percent_far <= 0 and percent_change >=0.4):
         print(f"The stock {stock_name} looks good for investment\n")
 
 
@@ -86,8 +88,8 @@ if __name__ == "__main__":
         stock_name = each
         print("----------------------------------------------------------------------------------")
         print("\n\nStock name: ",stock_name)
-        stock_data = yf.Ticker(stock_name)
         try:
+            stock_data = yf.Ticker(stock_name)
             hist = stock_data.history(period="250d")
             data_in_dict = hist.to_dict()
             max_volume_days = find_max_volume_days(num=2)
