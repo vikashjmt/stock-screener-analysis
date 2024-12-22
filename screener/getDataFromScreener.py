@@ -1,9 +1,14 @@
 import csv
+import argparse
+
+from icecream import ic
 from itertools import islice
+from datetime import datetime
 
 # input_file = "data/StocksTrendingAbove10emaForMonth260524.csv"
 # input_file = "../data/sample_screener_name/2024.06.08.csv"
-input_file = "../data/all-emas-in-all-candles-trending_17_09_2024.csv"
+input_file = "../data/all-emas-in-all-candles-trending_22_12_2024.csv"
+
 
 def get_all_stock_details(input_file):
     with open(input_file) as csv_file:
@@ -29,27 +34,44 @@ def get_all_stock_details(input_file):
                 line_count += 1
         return stock_details, stock_date_details
 
-def get_appearance_count(stocks_data):
+
+def get_appearance_count(stocks_data,sorted_date_details, index):
     stocks_count_details = {}
     for stock in stocks_data:
-        stocks_count_details[stock] = len(stocks_data[stock])
+        stocks_count = len(stocks_data[stock])
+
+        for date_detail in sorted_date_details[-index:]:
+            if stock in date_detail[1]:
+                # print(f'stock found {index-1} days ago : {stock}')
+                stocks_count -= 1
+        stocks_count_details[stock] = stocks_count
     # print('stocks_count_details :', stocks_count_details)
     return stocks_count_details
 
-def get_new_stocks(count_data, date_data):
+
+def get_new_stocks(count_data, date_data, index):
     new_stocks = list()
     for stock in count_data:
-        if (count_data[stock] == 1 and stock in list(date_data.values())[-1]):
+        if (count_data[stock] == 1 and stock in date_data[-index][1]):
             new_stocks.append(stock)
-    return new_stocks
+    return new_stocks, date_data[-index][0]
 
-def sort_based_on_appearance_count(data, top=10):
-    sorted_dict = dict(sorted(data.items(), key=lambda item:len(item[1]), reverse=True))
-    return { k : len(v) for k,v in 
-             dict(islice(sorted_dict.items(),
-                  top)
-                  ).items()
-           }
+
+def sort_based_on_appearance_count(data, sorted_dates , top=10):
+    high_trening_stocks = {}
+    sorted_dict = dict(
+        sorted(data.items(), key=lambda item: len(item[1]), reverse=True))
+    high_appearance_stocks = {k: len(v) for k, v in
+            dict(islice(sorted_dict.items(),
+                        top)
+                 ).items()
+            }
+    for stock,count in high_appearance_stocks.items():
+        if stock in sorted_dates[-1][1]:
+            high_trening_stocks[stock] = count
+    return high_trening_stocks
+
+
 
 def create_urls(stocks):
     if isinstance(stocks, list):
@@ -57,27 +79,48 @@ def create_urls(stocks):
     elif isinstance(stocks, dict):
         return construct_urls(stocks.keys())
 
+
 def construct_urls(stocks):
     urls = list()
     for stock in stocks:
         urls.append(f"https://chartink.com/stocks/{stock.lower()}.html")
     return urls
 
+def input_args():
+    parser = argparse.ArgumentParser('Provide inputs for screener data')
+    parser.add_argument('--input-file',
+                        help='Input screener file')
+    parser.add_argument('--history-days', type=int,
+                        default=50)
+    return parser.parse_args()
 
 if __name__ == "__main__":
-    stocks_data, date_details = get_all_stock_details(input_file)
-    #print('Date details:', date_details)
-    # print('stocks_data :', stocks_data)
-    count_details = get_appearance_count(stocks_data)
+    args = input_args()
+    screener_file = args.input_file
+    history_days = args.history_days
+    stocks_data, date_details = get_all_stock_details(screener_file)
+    sorted_date_details = sorted(date_details.items(),
+                                 key=lambda x:datetime.strptime(x[0],
+                                 '%d-%m-%Y') )
+    # ic(stocks_data)
+    # ic(sorted_date_details)
+    # count_details = get_appearance_count(stocks_data)
     # print('count_details :', count_details)
-    new_stocks = get_new_stocks(count_details, date_details)
-    print('Newly found stocks :', new_stocks)
-    for url in create_urls(new_stocks):
-        print(f'\t{url}')
+    for index in range(1, history_days):
+        count_details = get_appearance_count(stocks_data,
+                                             sorted_date_details,
+                                             index)
+        new_stocks, date = get_new_stocks(count_details, sorted_date_details, index)
+        print(f'Newly found stocks {index} days ago on {date}: {new_stocks}')
+        for url in create_urls(new_stocks):
+            print(f'\t{url}')
 
     # Sort more trending stocks
     # TODO :Get value of top from user, currently 10
-    high_trening_stocks = sort_based_on_appearance_count(stocks_data, top=20)
+    high_trening_stocks = sort_based_on_appearance_count(stocks_data,
+                                                         sorted_date_details,
+                                                         top=100)
     print('\nhigh_trening_stocks :', high_trening_stocks)
     for url in create_urls(high_trening_stocks):
-        print(f'\t{url}')
+        # print(f'\t{url}')
+        pass
