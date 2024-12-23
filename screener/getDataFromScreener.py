@@ -1,4 +1,5 @@
 import csv
+import json
 import argparse
 
 from icecream import ic
@@ -7,7 +8,7 @@ from datetime import datetime
 
 # input_file = "data/StocksTrendingAbove10emaForMonth260524.csv"
 # input_file = "../data/sample_screener_name/2024.06.08.csv"
-input_file = "../data/all-emas-in-all-candles-trending_22_12_2024.csv"
+# input_file = "../data/all-emas-in-all-candles-trending_22_12_2024.csv"
 
 
 def get_all_stock_details(input_file):
@@ -88,6 +89,8 @@ def construct_urls(stocks):
 
 def input_args():
     parser = argparse.ArgumentParser('Provide inputs for screener data')
+    parser.add_argument('--input-csvs-file',
+                        help='Input csvs files')
     parser.add_argument('--input-file',
                         help='Input screener file')
     parser.add_argument('--history-days', type=int,
@@ -96,31 +99,43 @@ def input_args():
 
 if __name__ == "__main__":
     args = input_args()
-    screener_file = args.input_file
+    single_csv_file = args.input_file
     history_days = args.history_days
-    stocks_data, date_details = get_all_stock_details(screener_file)
-    sorted_date_details = sorted(date_details.items(),
-                                 key=lambda x:datetime.strptime(x[0],
-                                 '%d-%m-%Y') )
-    # ic(stocks_data)
-    # ic(sorted_date_details)
-    # count_details = get_appearance_count(stocks_data)
-    # print('count_details :', count_details)
-    for index in range(1, history_days):
-        count_details = get_appearance_count(stocks_data,
-                                             sorted_date_details,
-                                             index)
-        new_stocks, date = get_new_stocks(count_details, sorted_date_details, index)
-        print(f'Newly found stocks {index} days ago on {date}: {new_stocks}')
-        for url in create_urls(new_stocks):
-            print(f'\t{url}')
+    csv_files_input = args.input_csvs_file
+    if ((csv_files_input and single_csv_file) or csv_files_input):
+        with open(csv_files_input) as fd:
+            csv_data = json.load(fd)
+        csv_files = csv_data.get('csvs')
+    elif (not csv_files_input and single_csv_file):
+        csv_files = [single_csv_file]
+    else:
+        print('Provide valid input csv files')
+        sys.exit(1)
+    for screener_file in csv_files:
+        print(f'\n------screener file: {screener_file} ---------\n')
+        stocks_data, date_details = get_all_stock_details(screener_file)
+        sorted_date_details = sorted(date_details.items(),
+                                     key=lambda x:datetime.strptime(x[0],
+                                     '%d-%m-%Y') )
+        # ic(stocks_data)
+        # ic(sorted_date_details)
+        # count_details = get_appearance_count(stocks_data)
+        # print('count_details :', count_details)
+        for index in range(1, history_days):
+            count_details = get_appearance_count(stocks_data,
+                                                 sorted_date_details,
+                                                 index)
+            new_stocks, date = get_new_stocks(count_details, sorted_date_details, index)
+            print(f'Newly found stocks {index} days ago on {date}: {new_stocks}')
+            for url in create_urls(new_stocks):
+                print(f'\t{url}')
 
-    # Sort more trending stocks
-    # TODO :Get value of top from user, currently 10
-    high_trening_stocks = sort_based_on_appearance_count(stocks_data,
-                                                         sorted_date_details,
-                                                         top=100)
-    print('\nhigh_trening_stocks :', high_trening_stocks)
-    for url in create_urls(high_trening_stocks):
-        # print(f'\t{url}')
-        pass
+        # Sort more trending stocks
+        # TODO :Get value of top from user, currently 10
+        high_trening_stocks = sort_based_on_appearance_count(stocks_data,
+                                                             sorted_date_details,
+                                                             top=100)
+        print('\nhigh_trening_stocks :', high_trening_stocks)
+        for url in create_urls(high_trening_stocks):
+            # print(f'\t{url}')
+            pass
