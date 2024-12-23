@@ -34,20 +34,31 @@ def get_data(config_file):
 
 if __name__ == "__main__":
     # Map screener url with screener type and its destination folder
-    config_file = "data_config.json"
-    data = get_data(config_file) 
+    data_dir = Path(__file__).parent
+    config_file = f"{data_dir}/data_config.json"
+    ic(config_file)
+    # Download screeners csvs
+    screener_csvs = list()
+    screener_output_file = f"{data_dir}/downloaded_csvs.json"
+    screener_data = dict()
+    data = get_data(config_file)
     ic(data)
     # screener_url = "https://chartink.com/screener/high-volume-on-sma-20-crossover"
     for screener in data:
         # screener_url = "https://chartink.com/screener/stocks-trending-above-10-ema-for-a-month"
         # destination_folder = f"sample_screener_name/{datetime.today().strftime('%Y.%m.%d')}.csv"
         screener_url = data[screener]['url']
-        destination_folder = data[screener]['folder']
+        destination_folder = f"{data_dir}/{data[screener]['folder']}"
         Path(destination_folder).mkdir(parents=True,
                                        exist_ok=True)
-        destination_file = f"{destination_folder}/{datetime.today().strftime('%Y.%m.%d')}.csv"
+        destination_file = (f"{destination_folder}/"
+                            f"{datetime.today().strftime('%Y.%m.%d')}.csv")
         download_screener(screener_url)
         latest_file = get_latest_download()
         ic(latest_file)
         fetched_file = move(latest_file,destination_file)
         ic(fetched_file)
+        screener_csvs.append(fetched_file)
+    screener_data['csvs'] = screener_csvs
+    with open(screener_output_file, 'w') as fd:
+       json.dump(screener_data, fd)
