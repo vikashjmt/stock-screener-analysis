@@ -5,5 +5,17 @@
 "all_emas_in_daily_weekly_monthly_trending": {
     "url": "https://chartink.com/screener/all-emas-in-all-candles-trending",
     "folder": "all_emas_in_daily_weekly_monthly_trending"
+},
+"weekly_first_time_10_21_50_200": {
+    "url": "https://chartink.com/screener/weekly-10-21-50-200-first-time",
+    "folder": "weekly_first_time_10_21_50_200"
+},
+"crossed-200-ema-and-gone-bullish": {
+    "url": "https://chartink.com/screener/stocks-crossed-200-ema-and-gone-bullish",
+    "folder": "crossed-200-ema-and-gone-bullish"
+},
+"bullish-stocks-respecting-10ema": {
+    "url": "https://chartink.com/screener/bullish-stocks-respecting-10ema",
+    "folder": "bullish-stocks-respecting-10ema"
 }
 }
