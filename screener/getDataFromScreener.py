@@ -5,7 +5,9 @@ import sys
 import requests_cache
 import yfinance as yf
 import pandas as pd
+import numpy as np
 
+from numpy import nan
 from icecream import ic
 from time import sleep
 from itertools import islice
@@ -19,13 +21,13 @@ session = requests_cache.CachedSession('yfinance.cache',
                                        expire_after=86400)  # Cache expiration: 1 day
 session.headers['User-agent'] = 'vicky-program/2.0'
 
-def get_price_change_percentage(ticker_symbol, start_date):
-   # Fetch historical data
-    tickers = yf.Tickers(ticker_symbol,
-                         session=session)
-    stock = tickers.tickers.get(ticker_symbol)
+def get_price_change_percentage(ticker_symbol, start_date, tickers):
     # Fetch historical data
-    historical_data = stock.history(period="max")
+    # tickers = yf.Tickers(ticker_symbol,
+    #                      session=session)
+    # ic(stock)
+    # Fetch historical data
+    historical_data = tickers[ticker_symbol]
     # start_date = '-'.join(val for val in start_date.split('-')[::-1])
     specific_date_close = historical_data.loc[start_date]["Close"]
     # Ensure data exists
@@ -37,8 +39,7 @@ def get_price_change_percentage(ticker_symbol, start_date):
 
     # Calculate the percentage change
     change_percentage = ((current_price - start_price) / start_price) * 100
-
-    return round(change_percentage, 2)
+    return float(round(change_percentage, 2))
 
 def get_all_stock_details(input_file):
     with open(input_file) as csv_file:
@@ -86,7 +87,7 @@ def get_appearance_count(stocks_data, date_details, current_date):
                 difference = relativedelta(current_date_obj,
                                            last_found_date_obj)
                 if difference.days > 20:
-                    print("There is a difference of a week.")
+                    print("There is a difference of a month.")
                     count = 1
         stocks_count_details[stock] = count
     # stocks_count_details[stock] = count
@@ -138,6 +139,37 @@ def input_args():
                         default=0)
     return parser.parse_args()
 
+def sort_based_on_change_percent(data):
+    # high_percent_stocks = {}
+    sorted_dict = dict(
+        sorted(data.items(), key=lambda item: item[1], reverse=True))
+    print(sorted_dict)
+    return sorted_dict
+
+def get_stocks_price_data(stocks_data, start_date, end_date):
+    '''
+    stocks_price_data = {}
+    tickers = yf.Tickers(' '.join(f'{stock}.NS' for stock in stocks_data),
+                         session=session)
+    for stock in stocks_data:
+        stock = tickers.tickers.get(f'{stock}.NS')
+        historical_data = stock.history(period="max")
+        stocks_price_data[f'{stock}.NS'] = historical_data
+    return stocks_price_data
+    '''
+    # Join stock symbols with ".NS" and fetch all data in one request
+    tickers = ' '.join(f'{stock}.NS' for stock in stocks_data)
+    # Fetch historical data for all stocks at once
+    historical_data = yf.download(tickers, session=session, group_by="ticker",
+                                  start=start_date, end=end_date)
+    # Process the data into a dictionary
+    stocks_price_data = {}
+    for stock in stocks_data:
+        stock_ticker = f'{stock}.NS'
+        if stock_ticker in historical_data:
+            stocks_price_data[stock_ticker] = historical_data[stock_ticker]
+
+    return stocks_price_data
 
 if __name__ == "__main__":
     args = input_args()
@@ -158,11 +190,21 @@ if __name__ == "__main__":
         stocks_data, date_details = get_all_stock_details(screener_file)
         # ic(date_details)
         # ic(stocks_data)
+        list_of_date = list(date_details.keys())
+        ic(list_of_date)
+        # start_date = list_of_date[0]
+        start_date = '-'.join(val for val in list_of_date[0].split('-')[::-1])
+        # end_date = list_of_date[-1]
+        end_date = '-'.join(val for val in list_of_date[-1].split('-')[::-1])
+        tickers = get_stocks_price_data(stocks_data.keys(), start_date,
+                                        end_date)
+        stock_price_data = {}
+        # ic(tickers)
         # ic(date_details.keys())
         # ic(list(date_details.values())[:3])
-        sorted_date_details = sorted(date_details.items(),
-                                     key=lambda x: datetime.strptime(x[0],
-                                     '%d-%m-%Y'))
+        # sorted_date_details = sorted(date_details.items(),
+        #                             key=lambda x: datetime.strptime(x[0],
+        #                             '%d-%m-%Y'))
         # ic(type(sorted_date_details))
         # ic(sorted_date_details)
         # ic(stocks_data)
@@ -191,18 +233,27 @@ if __name__ == "__main__":
                 # sleep(2)
                 try:
                     change_percent = get_price_change_percentage(f'{stock}.NS',
-                                                             date_format)
+                                                             date_format,
+                                                                 tickers)
+                    if np.isnan(change_percent):
+                        print('Change_percent is nan')
+                        change_percent = -500
                 except KeyError as err:
                     print(f'Got {err} for {stock}')
                     change_percent = -1000
+                if not stock_price_data.get(stock):
+                    stock_price_data[stock] = change_percent
                 print('\tChange % Since:', change_percent)
-
+        ic(stock_price_data)
+        high_percent_change_stocks = sort_based_on_change_percent(stock_price_data)
         # Sort more trending stocks
         # TODO :Get value of top from user, currently 10
+        '''
         high_trending_stocks = sort_based_on_appearance_count(stocks_data,
                                                              sorted_date_details,
                                                              top=100)
         print('\nhigh_trending_stocks :', high_trending_stocks)
+        '''
         # for stock in high_trending_stocks:
         #     print(f'\t{construct_urls(stock)}')
         #
