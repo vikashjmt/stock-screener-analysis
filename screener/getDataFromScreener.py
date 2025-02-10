@@ -7,7 +7,6 @@ import yfinance as yf
 import pandas as pd
 import numpy as np
 
-from numpy import nan
 from icecream import ic
 from time import sleep
 from itertools import islice
@@ -68,9 +67,9 @@ def get_all_stock_details(input_file):
 
 def get_appearance_count(stocks_data, date_details, current_date):
     stocks_count_details = {}
-    ic(index)
+    # ic(index)
     current_date = list_of_date[index]
-    ic(current_date)
+    # ic(current_date)
     for stock in stocks_data:
         count = 0
         if current_date in stocks_data[stock]:
@@ -87,7 +86,7 @@ def get_appearance_count(stocks_data, date_details, current_date):
                 difference = relativedelta(current_date_obj,
                                            last_found_date_obj)
                 if difference.days > 20:
-                    print("There is a difference of a month.")
+                    ic("There is a difference of a month.")
                     count = 1
         stocks_count_details[stock] = count
     # stocks_count_details[stock] = count
@@ -143,7 +142,6 @@ def sort_based_on_change_percent(data):
     # high_percent_stocks = {}
     sorted_dict = dict(
         sorted(data.items(), key=lambda item: item[1], reverse=True))
-    print(sorted_dict)
     return sorted_dict
 
 def get_stocks_price_data(stocks_data, start_date, end_date):
@@ -191,11 +189,13 @@ if __name__ == "__main__":
         # ic(date_details)
         # ic(stocks_data)
         list_of_date = list(date_details.keys())
-        ic(list_of_date)
+        # ic(list_of_date)
         # start_date = list_of_date[0]
         start_date = '-'.join(val for val in list_of_date[0].split('-')[::-1])
+        # ic(start_date)
         # end_date = list_of_date[-1]
         end_date = '-'.join(val for val in list_of_date[-1].split('-')[::-1])
+        # ic(end_date)
         tickers = get_stocks_price_data(stocks_data.keys(), start_date,
                                         end_date)
         stock_price_data = {}
@@ -209,15 +209,17 @@ if __name__ == "__main__":
         # ic(sorted_date_details)
         # ic(stocks_data)
         # ic(sorted_date_details)
+        total_days = len(date_details)
         if not history_days:
-            history_days = len(date_details)
+            history_days = total_days
         # ic(history_days)
         list_of_date = list(date_details.keys())
-        for index in range(1, history_days-1):
+        for index in range(total_days-history_days, total_days):
             # date = list_of_date[index]
             # ic(date)
-            ic(index)
+            # ic(index)
             current_date = list_of_date[index]
+            # ic(current_date)
 
             count_details = get_appearance_count(stocks_data,
                                                  date_details,
@@ -226,7 +228,8 @@ if __name__ == "__main__":
             new_stocks = get_new_stocks(
                 count_details)
             date_format = '-'.join(val for val in current_date.split('-')[::-1])
-            print(f'Newly found stocks {
+            if new_stocks:
+                print(f'Newly found stocks {total_days -
                   index} days ago on {current_date}: {new_stocks}')
             for stock in new_stocks:
                 print(f'\t{construct_urls(stock)}')
@@ -244,8 +247,9 @@ if __name__ == "__main__":
                 if not stock_price_data.get(stock):
                     stock_price_data[stock] = change_percent
                 print('\tChange % Since:', change_percent)
-        ic(stock_price_data)
+        # ic(stock_price_data)
         high_percent_change_stocks = sort_based_on_change_percent(stock_price_data)
+        print('Higher % stocks:', high_percent_change_stocks)
         # Sort more trending stocks
         # TODO :Get value of top from user, currently 10
         '''
