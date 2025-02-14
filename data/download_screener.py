@@ -53,12 +53,12 @@ if __name__ == "__main__":
                                        exist_ok=True)
         destination_file = (f"{destination_folder}/"
                             f"{datetime.today().strftime('%Y.%m.%d')}.csv")
-        download_screener(screener_url)
-        latest_file = get_latest_download()
-        ic(latest_file)
-        fetched_file = move(latest_file,destination_file)
-        ic(fetched_file)
-        screener_csvs.append(fetched_file)
-    screener_data['csvs'] = screener_csvs
-    with open(screener_output_file, 'w') as fd:
-       json.dump(screener_data, fd)
+        if not Path(destination_file).exists():
+            download_screener(screener_url)
+            latest_file = get_latest_download()
+            fetched_file = move(latest_file,destination_file)
+            screener_csvs.append(fetched_file)
+            screener_data['csvs'] = screener_csvs
+            # Add the downloaded files to the csv
+            with open(screener_output_file, 'w') as fd:
+               json.dump(screener_data, fd)

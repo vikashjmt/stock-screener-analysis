@@ -86,7 +86,7 @@ def get_appearance_count(stocks_data, date_details, current_date):
                 difference = relativedelta(current_date_obj,
                                            last_found_date_obj)
                 if difference.days > 20:
-                    ic("There is a difference of a month.")
+                    # ic("There is a difference of a month.")
                     count = 1
         stocks_count_details[stock] = count
     # stocks_count_details[stock] = count
@@ -183,8 +183,8 @@ if __name__ == "__main__":
     else:
         print('Provide valid input csv files')
         sys.exit(1)
-    for screener_file in csv_files:
-        print(f'\n------screener file: {screener_file} ---------\n')
+    for index, screener_file in enumerate(csv_files):
+        print(f'\n{index+1}) Screener file: {screener_file}\n')
         stocks_data, date_details = get_all_stock_details(screener_file)
         # ic(date_details)
         # ic(stocks_data)
@@ -229,27 +229,30 @@ if __name__ == "__main__":
                 count_details)
             date_format = '-'.join(val for val in current_date.split('-')[::-1])
             if new_stocks:
-                print(f'Newly found stocks {total_days -
-                  index} days ago on {current_date}: {new_stocks}')
-            for stock in new_stocks:
-                print(f'\t{construct_urls(stock)}')
+                print(f'\nNewly found stocks {total_days -
+                  index} days ago on {current_date}:')
+            for index, stock in enumerate(new_stocks):
+                print(f'\t{index + 1}. {stock}:')
+                print(f'\t\tURL: {construct_urls(stock)}')
                 # sleep(2)
                 try:
                     change_percent = get_price_change_percentage(f'{stock}.NS',
                                                              date_format,
                                                                  tickers)
                     if np.isnan(change_percent):
-                        print('Change_percent is nan')
+                        print('\t\tChange_percent is nan')
                         change_percent = -500
                 except KeyError as err:
-                    print(f'Got {err} for {stock}')
+                    print(f'\t\tGot {err} for {stock}')
                     change_percent = -1000
                 if not stock_price_data.get(stock):
                     stock_price_data[stock] = change_percent
-                print('\tChange % Since:', change_percent)
+                print('\t\tChange % Since:', change_percent)
         # ic(stock_price_data)
         high_percent_change_stocks = sort_based_on_change_percent(stock_price_data)
-        print('Higher % stocks:', high_percent_change_stocks)
+        print('Higher % stocks:')
+        for stock, change in high_percent_change_stocks.items():
+            print(f'\t- {stock}: {change}%')
         # Sort more trending stocks
         # TODO :Get value of top from user, currently 10
         '''
