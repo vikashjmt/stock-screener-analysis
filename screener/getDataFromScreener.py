@@ -10,7 +10,7 @@ import numpy as np
 from icecream import ic
 from time import sleep
 from itertools import islice
-from datetime import datetime
+from datetime import datetime, timedelta
 from dateutil.relativedelta import relativedelta
 
 # input_file = "data/StocksTrendingAbove10emaForMonth260524.csv"
@@ -20,25 +20,32 @@ session = requests_cache.CachedSession('yfinance.cache',
                                        expire_after=86400)  # Cache expiration: 1 day
 session.headers['User-agent'] = 'vicky-program/2.0'
 
+
 def get_price_change_percentage(ticker_symbol, start_date, tickers):
     # Fetch historical data
     # tickers = yf.Tickers(ticker_symbol,
     #                      session=session)
-    # ic(stock)
     # Fetch historical data
     historical_data = tickers[ticker_symbol]
     # start_date = '-'.join(val for val in start_date.split('-')[::-1])
-    specific_date_close = historical_data.loc[start_date]["Close"]
+    try:
+        specific_date_close = historical_data.loc[start_date]["Close"]
+    except KeyError:
+        specific_date_close = historical_data['Close'].iloc[-1]
     # Ensure data exists
     if not specific_date_close:
         return f"No data available for {ticker_symbol} since {start_date}"
+    elif np.isnan(specific_date_close):
+        start_date = update_date_if_market_holiday(start_date)
+        specific_date_close = historical_data.loc[start_date]["Close"]
     # Get the starting and current prices as scalars
     start_price = round(specific_date_close, 2)  # This gives the first value
-    current_price = historical_data["Close"].iloc[-1] # Get the latest date
+    current_price = historical_data["Close"].iloc[-1]  # Get the latest date
 
     # Calculate the percentage change
     change_percentage = ((current_price - start_price) / start_price) * 100
     return float(round(change_percentage, 2))
+
 
 def get_all_stock_details(input_file):
     with open(input_file) as csv_file:
@@ -81,7 +88,8 @@ def get_appearance_count(stocks_data, date_details, current_date):
                 last_found_date = stocks_data[stock][date_index-1]
                 # Convert from string to datetime format
                 date_format = "%d-%m-%Y"
-                last_found_date_obj =datetime.strptime(last_found_date, date_format)
+                last_found_date_obj = datetime.strptime(
+                    last_found_date, date_format)
                 current_date_obj = datetime.strptime(current_date, date_format)
                 difference = relativedelta(current_date_obj,
                                            last_found_date_obj)
@@ -116,6 +124,7 @@ def sort_based_on_appearance_count(data, sorted_dates, top=10):
             high_trending_stocks[stock] = count
     return high_trending_stocks
 
+
 '''
 def create_urls(stocks):
     if isinstance(stocks, list):
@@ -123,6 +132,7 @@ def create_urls(stocks):
     elif isinstance(stocks, dict):
         return construct_urls(stocks.keys())
 '''
+
 
 def construct_urls(stock):
     return (f"https://chartink.com/stocks/{stock.lower()}.html")
@@ -138,11 +148,33 @@ def input_args():
                         default=0)
     return parser.parse_args()
 
+
 def sort_based_on_change_percent(data):
     # high_percent_stocks = {}
     sorted_dict = dict(
         sorted(data.items(), key=lambda item: item[1], reverse=True))
     return sorted_dict
+
+# Define market holidays (weekends or specific holidays)
+
+
+def update_date_if_market_holiday(date_str):
+    """
+    Checks if a given date is a market holiday (weekend or predefined holiday).
+    """
+    date_obj = datetime.strptime(date_str, "%Y-%m-%d")
+    # Weekends (Saturday, Sunday)
+    # Add predefined market holidays (example: New Year's Day, Independence Day, etc.)
+    market_holidays = {
+
+        # Add other holidays here...
+    }
+    if (date_obj.date() in market_holidays
+            or date_obj.weekday() in (5, 6)):
+        date_obj = date_obj - timedelta(days=2)
+        return date_obj.strftime('%Y-%m-%d')
+    else:
+        return date_str
 
 def get_stocks_price_data(stocks_data, start_date, end_date):
     '''
@@ -160,6 +192,11 @@ def get_stocks_price_data(stocks_data, start_date, end_date):
     # Fetch historical data for all stocks at once
     historical_data = yf.download(tickers, session=session, group_by="ticker",
                                   start=start_date, end=end_date)
+    historical_data.to_csv('historical_data.csv')
+    downloaded_stocks = list(historical_data.columns.levels[0])
+    exit(0)
+
+    # print("Failed Downloads:", failed_tickers)
     # Process the data into a dictionary
     stocks_price_data = {}
     for stock in stocks_data:
@@ -168,6 +205,7 @@ def get_stocks_price_data(stocks_data, start_date, end_date):
             stocks_price_data[stock_ticker] = historical_data[stock_ticker]
 
     return stocks_price_data
+
 
 if __name__ == "__main__":
     args = input_args()
@@ -199,16 +237,6 @@ if __name__ == "__main__":
         tickers = get_stocks_price_data(stocks_data.keys(), start_date,
                                         end_date)
         stock_price_data = {}
-        # ic(tickers)
-        # ic(date_details.keys())
-        # ic(list(date_details.values())[:3])
-        # sorted_date_details = sorted(date_details.items(),
-        #                             key=lambda x: datetime.strptime(x[0],
-        #                             '%d-%m-%Y'))
-        # ic(type(sorted_date_details))
-        # ic(sorted_date_details)
-        # ic(stocks_data)
-        # ic(sorted_date_details)
         total_days = len(date_details)
         if not history_days:
             history_days = total_days
@@ -219,37 +247,41 @@ if __name__ == "__main__":
             # ic(date)
             # ic(index)
             current_date = list_of_date[index]
-            # ic(current_date)
-
+            # TODO : Optimize it later
+            # Calling twice to avoid rare case of Friday to be holiday
+            # current_date = update_date_if_market_holiday(current_date)
+            ic(current_date)
             count_details = get_appearance_count(stocks_data,
                                                  date_details,
                                                  current_date)
             # ic(count_details)
             new_stocks = get_new_stocks(
                 count_details)
-            date_format = '-'.join(val for val in current_date.split('-')[::-1])
+            date_format = '-'.join(val for val in current_date.split('-')
+                                   [::-1])
             if new_stocks:
-                print(f'\nNewly found stocks {total_days -
-                  index} days ago on {current_date}:')
+                print(
+                    f'\n{total_days - index} interval ago on {current_date}, new stocks found:')
             for index, stock in enumerate(new_stocks):
-                print(f'\t{index + 1}. {stock}:')
-                print(f'\t\tURL: {construct_urls(stock)}')
+                print(f'    {index + 1}. {stock}:')
+                print(f'\tURL: {construct_urls(stock)}')
                 # sleep(2)
                 try:
                     change_percent = get_price_change_percentage(f'{stock}.NS',
-                                                             date_format,
+                                                                 date_format,
                                                                  tickers)
                     if np.isnan(change_percent):
-                        print('\t\tChange_percent is nan')
+                        # print('\t\tChange_percent is nan')
                         change_percent = -500
                 except KeyError as err:
-                    print(f'\t\tGot {err} for {stock}')
+                    print(f'\tGot {err} for {stock}')
                     change_percent = -1000
                 if not stock_price_data.get(stock):
                     stock_price_data[stock] = change_percent
-                print('\t\tChange % Since:', change_percent)
+                print('\tChange % Since:', change_percent)
         # ic(stock_price_data)
-        high_percent_change_stocks = sort_based_on_change_percent(stock_price_data)
+        high_percent_change_stocks = sort_based_on_change_percent(
+            stock_price_data)
         print('Higher % stocks:')
         for stock, change in high_percent_change_stocks.items():
             print(f'\t- {stock}: {change}%')
