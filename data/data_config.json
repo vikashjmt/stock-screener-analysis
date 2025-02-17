@@ -17,5 +17,17 @@
 "bullish-stocks-respecting-10ema": {
     "url": "https://chartink.com/screener/bullish-stocks-respecting-10ema",
     "folder": "bullish-stocks-respecting-10ema"
+},
+"monthly_candle_crossed_200ema_and_close_greater_than_52_weeks_high": {
+    "url": "https://chartink.com/screener/monthly-candle-crossed-200-ema-and-close-is-greater-than-52-weeks-high",
+    "folder": "monthly_candle_crossed_200ema_and_close_greater_than_52_weeks_high"
+},
+"monthly_candle_crossed_200ema": {
+    "url": "https://chartink.com/screener/monthly-candle-crossed-200-ema",
+    "folder": "monthly_candle_crossed_200ema"
+},
+"Multi_Year_top_breakout_current_month": {
+    "url": "https://chartink.com/screener/copy-multi-year-top-break-out-current-month-141",
+    "folder": "multi_Year_top_breakout_current_month"
 }
 }
