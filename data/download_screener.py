@@ -40,7 +40,12 @@ if __name__ == "__main__":
     # Download screeners csvs
     screener_csvs = list()
     screener_output_file = f"{data_dir}/downloaded_csvs.json"
-    screener_data = dict()
+    # Get old downloaded csv data
+    old_screener_data = dict()
+    if Path(screener_output_file).exists():
+        with open(screener_output_file) as fd:
+            old_screener_data = json.load(fd)
+    screener_downloaded = dict()
     data = get_data(config_file)
     ic(data)
     # screener_url = "https://chartink.com/screener/high-volume-on-sma-20-crossover"
@@ -53,12 +58,15 @@ if __name__ == "__main__":
                                        exist_ok=True)
         destination_file = (f"{destination_folder}/"
                             f"{datetime.today().strftime('%Y.%m.%d')}.csv")
-        if not Path(destination_file).exists():
+        if not old_screener_data.get(destination_file):
             download_screener(screener_url)
             latest_file = get_latest_download()
             fetched_file = move(latest_file,destination_file)
-            screener_csvs.append(fetched_file)
-            screener_data['csvs'] = screener_csvs
-            # Add the downloaded files to the csv
-            with open(screener_output_file, 'w') as fd:
-               json.dump(screener_data, fd)
+        else:
+            fetched_file = destination_file
+        screener_csvs.append(fetched_file)
+        screener_downloaded['csvs'] = screener_csvs
+
+    # Add the downloaded files to the csv
+    with open(screener_output_file, 'w') as fd:
+       json.dump(screener_downloaded, fd)
