@@ -1,0 +1,50 @@
+name: Run Stock Screener Analysis
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 10 * * 1-5'
+
+jobs:
+  run-python:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Run Market Breadth Script
+        run: |
+          rm Report/latest
+          report_file="Report/market_breadth_`date +'%Y-%m-%d_%H:%M'`.txt"
+          # python fetch_breadth_data.py --history-days 15 >$report_file
+          # Download latest screeners
+          python3 data/download_screener.py
+          # Analyse the latest screeners and save result in a file
+          python3 screener/getDataFromScreener.py --input-csvs-file data/downloaded_csvs.json --history-days 11 >> "$report_file"
+          cp $report_file Report/latest
+
+      - name: Commit and Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git add Report
+          git commit -m "Auto-generated report at `date +'%Y-%m-%d_%H:%M'`" || echo "No changes to commit"
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
