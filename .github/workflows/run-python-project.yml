@@ -38,7 +38,7 @@ jobs:
           # Download latest screeners
           python3 data/download_screener.py
           # Analyse the latest screeners and save result in a file
-          python3 screener/getDataFromScreener.py --input-csvs-file data/downloaded_csvs.json --history-days 11 >> "$report_file"
+          # python3 screener/getDataFromScreener.py --input-csvs-file data/downloaded_csvs.json --history-days 11 >> "$report_file"
           cp $report_file Report/latest
 
       - name: Commit and Push Changes
@@ -47,4 +47,4 @@ jobs:
         run: |
           git add Report
           git commit -m "Auto-generated report at `date +'%Y-%m-%d_%H:%M'`" || echo "No changes to commit"
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+          git push origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
