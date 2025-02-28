@@ -5,7 +5,7 @@ on:
   pull_request:
   workflow_dispatch:
   schedule:
-    - cron: '45 10 * * 5'
+    - cron: '45 10 * * 1-5'
 
 jobs:
   run-python:
@@ -34,12 +34,10 @@ jobs:
         run: |
           rm Report/latest
           report_file="Report/market_breadth_`date +'%Y-%m-%d_%H:%M'`.txt"
-          echo "testing">$report_file
-          # python fetch_breadth_data.py --history-days 15 >$report_file
           # Download latest screeners
-          # python3 data/download_screener.py
+          python3 data/download_screener.py
           # Analyse the latest screeners and save result in a file
-          # python3 screener/getDataFromScreener.py --input-csvs-file data/downloaded_csvs.json --history-days 11 >> "$report_file"
+          python3 screener/getDataFromScreener.py --input-csvs-file data/downloaded_csvs.json --history-days 11 >> "$report_file"
           cp $report_file Report/latest
 
       - name: Commit and Push Changes
