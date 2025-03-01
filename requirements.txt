@@ -6,4 +6,4 @@ pandas_ta==0.3.14b0
 python_dateutil==2.9.0.post0
 requests_cache==1.2.1
 selenium==4.29.0
-yfinance==0.2.51
+yfinance==0.2.54
