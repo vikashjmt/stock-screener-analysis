@@ -194,7 +194,6 @@ def get_stocks_price_data(stocks_data, start_date, end_date):
                                   start=start_date, end=end_date)
     historical_data.to_csv('historical_data.csv')
     downloaded_stocks = list(historical_data.columns.levels[0])
-    exit(0)
 
     # print("Failed Downloads:", failed_tickers)
     # Process the data into a dictionary
