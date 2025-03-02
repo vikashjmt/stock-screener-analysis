@@ -1,14 +1,16 @@
 import csv
 import json
 import argparse
+import os
 import sys
+import time
+import pytz
 import requests_cache
 import yfinance as yf
 import pandas as pd
 import numpy as np
 
 from icecream import ic
-from time import sleep
 from itertools import islice
 from datetime import datetime, timedelta
 from dateutil.relativedelta import relativedelta
@@ -19,6 +21,9 @@ from dateutil.relativedelta import relativedelta
 session = requests_cache.CachedSession('yfinance.cache',
                                        expire_after=86400)  # Cache expiration: 1 day
 session.headers['User-agent'] = 'vicky-program/2.0'
+os.environ['TZ'] = 'Asia/Kolkata'
+time.tzset()  # Apply the timezone change in Linux (used by GitHub Actions)
+pytz.timezone("Asia/Kolkata")
 
 
 def get_price_change_percentage(ticker_symbol, start_date, tickers):
@@ -245,7 +250,6 @@ if __name__ == "__main__":
             history_days = total_days
         # ic(history_days)
         list_of_date = list(date_details.keys())
-        ic(list_of_date)
         for index in range(total_days-history_days, total_days):
             # date = list_of_date[index]
             # ic(date)
@@ -255,7 +259,6 @@ if __name__ == "__main__":
             # Calling twice to avoid rare case of Friday to be holiday
             # current_date = update_date_if_market_holiday(current_date)
             ic(current_date)
-            exit(1)
             count_details = get_appearance_count(stocks_data,
                                                  date_details,
                                                  current_date)
@@ -270,7 +273,7 @@ if __name__ == "__main__":
             for index, stock in enumerate(new_stocks):
                 print(f'    {index + 1}. {stock}:')
                 print(f'\tURL: {construct_urls(stock)}')
-                # sleep(2)
+                # time.sleep(2)
                 try:
                     change_percent = get_price_change_percentage(f'{stock}.NS',
                                                                  date_format,
