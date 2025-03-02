@@ -206,12 +206,7 @@ def safe_yf_download(tickers, session, start_date, end_date, max_retries=2, retr
             session.headers["User-Agent"] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
             historical_data = yf.download(tickers, session=session, group_by="ticker",
                                           start=start_date, end=end_date, threads=False)
-
-            if not historical_data.empty:
-                return historical_data
-            print(f"{tickers}: No data found")
-            return None
-
+            return historical_data
         except (requests.exceptions.HTTPError, ValueError) as e:
             print(f"Error for {tickers}: {e}")
             attempt += 1
@@ -239,7 +234,8 @@ def get_stocks_price_data(stocks_data, start_date, end_date):
     # Fetch historical data for all stocks at once
     historical_data = safe_yf_download(tickers, session,
                                        start_date, end_date)
-    if not historical_data:
+    if historical_data.empty:
+        print(f'No data found for tickers {tickers}')
         return stocks_price_data
     historical_data.to_csv('historical_data.csv')
     downloaded_stocks = list(historical_data.columns.levels[0])
