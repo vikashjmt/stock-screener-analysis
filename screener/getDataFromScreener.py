@@ -31,16 +31,23 @@ def get_price_change_percentage(ticker_symbol, start_date, tickers):
     # tickers = yf.Tickers(ticker_symbol,
     #                      session=session)
     # Fetch historical data
+    # Convert start_date to pandas datetime
+    start_date = pd.to_datetime(start_date)
     historical_data = tickers[ticker_symbol]
+    # Convert DataFrame index to datetime if not already
+    historical_data.index = pd.to_datetime(historical_data.index)
     # start_date = '-'.join(val for val in start_date.split('-')[::-1])
     try:
         specific_date_close = historical_data.loc[start_date]["Close"]
     except KeyError:
-        specific_date_close = historical_data['Close'].iloc[-1]
-    # Ensure data exists
-    if not specific_date_close:
-        return f"No data available for {ticker_symbol} since {start_date}"
-    elif np.isnan(specific_date_close):
+        print(f"Date {start_date} not found in data, using the last available close price.")
+        if not historical_data.empty:
+            #specific_date_close = historical_data['Close'].iloc[-1]
+            specific_date_close = historical_data.loc[historical_data.index.asof(start_date), "Close"]
+        else:
+            print("Historical data is empty.")
+            return -1000
+    if np.isnan(specific_date_close):
         start_date = update_date_if_market_holiday(start_date)
         specific_date_close = historical_data.loc[start_date]["Close"]
     # Get the starting and current prices as scalars
