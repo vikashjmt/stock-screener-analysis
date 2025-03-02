@@ -245,6 +245,7 @@ if __name__ == "__main__":
             history_days = total_days
         # ic(history_days)
         list_of_date = list(date_details.keys())
+        ic(list_of_date)
         for index in range(total_days-history_days, total_days):
             # date = list_of_date[index]
             # ic(date)
@@ -254,6 +255,7 @@ if __name__ == "__main__":
             # Calling twice to avoid rare case of Friday to be holiday
             # current_date = update_date_if_market_holiday(current_date)
             ic(current_date)
+            exit(1)
             count_details = get_appearance_count(stocks_data,
                                                  date_details,
                                                  current_date)
