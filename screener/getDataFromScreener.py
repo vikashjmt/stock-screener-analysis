@@ -32,24 +32,24 @@ def get_price_change_percentage(ticker_symbol, start_date, tickers):
     #                      session=session)
     # Fetch historical data
     # Convert start_date to pandas datetime
-    start_date = pd.to_datetime(start_date)
+    start_date_pd = pd.to_datetime(start_date)
     historical_data = tickers[ticker_symbol]
     # Convert DataFrame index to datetime if not already
     historical_data.index = pd.to_datetime(historical_data.index)
     # start_date = '-'.join(val for val in start_date.split('-')[::-1])
     try:
-        specific_date_close = historical_data.loc[start_date]["Close"]
+        specific_date_close = historical_data.loc[start_date_pd]["Close"]
     except KeyError:
         print(f"Date {start_date} not found in data, using the last available close price.")
         if not historical_data.empty:
             #specific_date_close = historical_data['Close'].iloc[-1]
-            specific_date_close = historical_data.loc[historical_data.index.asof(start_date), "Close"]
+            specific_date_close = historical_data.loc[historical_data.index.asof(start_date_pd), "Close"]
         else:
             print("Historical data is empty.")
             return -1000
     if np.isnan(specific_date_close):
-        start_date = update_date_if_market_holiday(start_date)
-        specific_date_close = historical_data.loc[start_date]["Close"]
+        start_date_pd = update_date_if_market_holiday(start_date)
+        specific_date_close = historical_data.loc[start_date_pd]["Close"]
     # Get the starting and current prices as scalars
     start_price = round(specific_date_close, 2)  # This gives the first value
     current_price = historical_data["Close"].iloc[-1]  # Get the latest date
