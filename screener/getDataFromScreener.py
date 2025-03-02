@@ -34,7 +34,7 @@ def get_price_change_percentage(ticker_symbol, start_date, tickers):
     # Convert start_date to pandas datetime
     start_date_pd = pd.to_datetime(start_date)
     historical_data = tickers.get(ticker_symbol)
-    if not historical_data:
+    if historical_data.empty:
         return -1500
     # Convert DataFrame index to datetime if not already
     historical_data.index = pd.to_datetime(historical_data.index)
