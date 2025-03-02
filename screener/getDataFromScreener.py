@@ -33,7 +33,9 @@ def get_price_change_percentage(ticker_symbol, start_date, tickers):
     # Fetch historical data
     # Convert start_date to pandas datetime
     start_date_pd = pd.to_datetime(start_date)
-    historical_data = tickers[ticker_symbol]
+    historical_data = tickers.get(ticker_symbol)
+    if not historical_data:
+        return -1500
     # Convert DataFrame index to datetime if not already
     historical_data.index = pd.to_datetime(historical_data.index)
     # start_date = '-'.join(val for val in start_date.split('-')[::-1])
@@ -231,17 +233,19 @@ def get_stocks_price_data(stocks_data, start_date, end_date):
         stocks_price_data[f'{stock}.NS'] = historical_data
     return stocks_price_data
     '''
+    stocks_price_data = {}
     # Join stock symbols with ".NS" and fetch all data in one request
     tickers = ' '.join(f'{stock}.NS' for stock in stocks_data)
     # Fetch historical data for all stocks at once
     historical_data = safe_yf_download(tickers, session,
                                        start_date, end_date)
+    if not historical_data:
+        return stocks_price_data
     historical_data.to_csv('historical_data.csv')
     downloaded_stocks = list(historical_data.columns.levels[0])
 
     # print("Failed Downloads:", failed_tickers)
     # Process the data into a dictionary
-    stocks_price_data = {}
     for stock in stocks_data:
         stock_ticker = f'{stock}.NS'
         if stock_ticker in historical_data:
@@ -266,6 +270,9 @@ if __name__ == "__main__":
         sys.exit(1)
     for index, screener_file in enumerate(csv_files):
         print(f'\n{index+1}) Screener file: {screener_file}\n')
+        if index > 0:
+            print('Sleeping for 30 secs')
+            time.sleep(30)
         stocks_data, date_details = get_all_stock_details(screener_file)
         # ic(date_details)
         # ic(stocks_data)
