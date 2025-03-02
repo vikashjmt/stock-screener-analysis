@@ -1,0 +1,17 @@
+{"above_10ema_for_a_month": {
+    "url": "https://chartink.com/screener/stocks-trending-above-10-ema-for-a-month",
+    "folder": "above_10ema_for_a_month"
+},
+"all_emas_in_daily_weekly_monthly_trending": {
+    "url": "https://chartink.com/screener/all-emas-in-all-candles-trending",
+    "folder": "all_emas_in_daily_weekly_monthly_trending"
+},
+"crossed-200-ema-and-gone-bullish": {
+    "url": "https://chartink.com/screener/stocks-crossed-200-ema-and-gone-bullish",
+    "folder": "crossed-200-ema-and-gone-bullish"
+},
+"bullish-stocks-respecting-10ema": {
+    "url": "https://chartink.com/screener/bullish-stocks-respecting-10ema",
+    "folder": "bullish-stocks-respecting-10ema"
+}
+}

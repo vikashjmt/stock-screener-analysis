@@ -40,13 +40,15 @@ def get_price_change_percentage(ticker_symbol, start_date, tickers):
     try:
         specific_date_close = historical_data.loc[start_date_pd]["Close"]
     except KeyError:
-        print(f"Date {start_date} not found in data, using the last available close price.")
+        print(f"\tDate {
+              start_date} not found in data, using the last available close price.")
         if not historical_data.empty:
-            #specific_date_close = historical_data['Close'].iloc[-1]
-            specific_date_close = historical_data.loc[historical_data.index.asof(start_date_pd), "Close"]
+            # specific_date_close = historical_data['Close'].iloc[-1]
+            specific_date_close = historical_data.loc[historical_data.index.asof(
+                start_date_pd), "Close"]
         else:
-            print("Historical data is empty.")
-            return -1000
+            print("\tHistorical data is empty.")
+            return -1100
     if np.isnan(specific_date_close):
         start_date_pd = update_date_if_market_holiday(start_date)
         specific_date_close = historical_data.loc[start_date_pd]["Close"]
@@ -105,7 +107,8 @@ def get_appearance_count(stocks_data, date_details, current_date):
                                                             date_format)
                 except:
                     date_format = "%d-%m-%Y"
-                    last_found_date_obj = datetime.strptime(last_found_date.strip(), date_format)
+                    last_found_date_obj = datetime.strptime(
+                        last_found_date.strip(), date_format)
                 current_date_obj = datetime.strptime(current_date, date_format)
                 difference = relativedelta(current_date_obj,
                                            last_found_date_obj)
@@ -192,6 +195,31 @@ def update_date_if_market_holiday(date_str):
     else:
         return date_str
 
+
+def safe_yf_download(tickers, session, start_date, end_date, max_retries=2, retry_delay=3):
+    attempt = 0
+    while attempt < max_retries:
+        try:
+            # Custom User-Agent
+            session.headers["User-Agent"] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+            historical_data = yf.download(tickers, session=session, group_by="ticker",
+                                          start=start_date, end=end_date, threads=False)
+
+            if not historical_data.empty:
+                return historical_data
+            print(f"{tickers}: No data found")
+            return None
+
+        except (requests.exceptions.HTTPError, ValueError) as e:
+            print(f"Error for {tickers}: {e}")
+            attempt += 1
+            print(f"Retrying {tickers}... Attempt {attempt}/{max_retries}")
+            time.sleep(retry_delay)  # Wait before retrying
+
+    print(f"Failed after {max_retries} attempts: {tickers}")
+    return None
+
+
 def get_stocks_price_data(stocks_data, start_date, end_date):
     '''
     stocks_price_data = {}
@@ -206,8 +234,8 @@ def get_stocks_price_data(stocks_data, start_date, end_date):
     # Join stock symbols with ".NS" and fetch all data in one request
     tickers = ' '.join(f'{stock}.NS' for stock in stocks_data)
     # Fetch historical data for all stocks at once
-    historical_data = yf.download(tickers, session=session, group_by="ticker",
-                                  start=start_date, end=end_date)
+    historical_data = safe_yf_download(tickers, session,
+                                       start_date, end_date)
     historical_data.to_csv('historical_data.csv')
     downloaded_stocks = list(historical_data.columns.levels[0])
 
@@ -297,7 +325,7 @@ if __name__ == "__main__":
         # ic(stock_price_data)
         high_percent_change_stocks = sort_based_on_change_percent(
             stock_price_data)
-        print('Higher % stocks:')
+        print('\nHigher % Stocks:')
         for stock, change in high_percent_change_stocks.items():
             print(f'\t- {stock}: {change}%')
         # Sort more trending stocks

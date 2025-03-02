@@ -1,4 +1,5 @@
 import json
+import sys
 
 from time import sleep
 from selenium.webdriver.common.by import By
@@ -44,7 +45,7 @@ def get_data(config_file):
 if __name__ == "__main__":
     # Map screener url with screener type and its destination folder
     data_dir = Path(__file__).parent
-    config_file = f"{data_dir}/data_config.json"
+    config_file = sys.argv[1]
     # Download screeners csvs
     screener_csvs = list()
     screener_output_file = f"{data_dir}/downloaded_csvs.json"
