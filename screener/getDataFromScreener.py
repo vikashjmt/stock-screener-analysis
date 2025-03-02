@@ -87,9 +87,12 @@ def get_appearance_count(stocks_data, date_details, current_date):
             else:
                 last_found_date = stocks_data[stock][date_index-1]
                 # Convert from string to datetime format
-                date_format = "%d-%m-%Y"
-                last_found_date_obj = datetime.strptime(
-                    last_found_date, date_format)
+                # date_format = "%d-%m-%Y"
+                try:
+                    last_found_date_obj = datetime.strptime(last_found_date.strip(),
+                                                            "%d-%m-%Y %I:%M %p")
+                except:
+                    last_found_date_obj = datetime.strptime(last_found_date.strip(), "%d-%m-%Y")
                 current_date_obj = datetime.strptime(current_date, date_format)
                 difference = relativedelta(current_date_obj,
                                            last_found_date_obj)
