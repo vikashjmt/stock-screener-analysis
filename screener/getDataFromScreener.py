@@ -34,7 +34,7 @@ def get_price_change_percentage(ticker_symbol, start_date, tickers):
     # Convert start_date to pandas datetime
     start_date_pd = pd.to_datetime(start_date)
     historical_data = tickers.get(ticker_symbol)
-    if historical_data.empty:
+    if historical_data is None:
         return -1500
     # Convert DataFrame index to datetime if not already
     historical_data.index = pd.to_datetime(historical_data.index)
@@ -198,7 +198,7 @@ def update_date_if_market_holiday(date_str):
         return date_str
 
 
-def safe_yf_download(tickers, session, start_date, end_date, max_retries=2, retry_delay=3):
+def safe_yf_download(tickers, session, start_date, end_date, max_retries=3, retry_delay=7):
     attempt = 0
     while attempt < max_retries:
         try:
@@ -214,7 +214,7 @@ def safe_yf_download(tickers, session, start_date, end_date, max_retries=2, retr
             time.sleep(retry_delay)  # Wait before retrying
 
     print(f"Failed after {max_retries} attempts: {tickers}")
-    return None
+    return historical_data
 
 
 def get_stocks_price_data(stocks_data, start_date, end_date):
