@@ -1,0 +1,140 @@
+
+1) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/above_10ema_for_a_month/2025.03.03.csv
+
+YF.download() has changed argument auto_adjust default to True
+
+10 interval ago on 17-02-2025, new stocks found:
+    1. ASTRAZEN:
+	URL: https://chartink.com/stocks/astrazen.html
+	Change % Since: -4.41
+    2. AXISCADES:
+	URL: https://chartink.com/stocks/axiscades.html
+	Change % Since: 4.05
+
+6 interval ago on 21-02-2025, new stocks found:
+    1. REDINGTON:
+	URL: https://chartink.com/stocks/redington.html
+	Change % Since: -10.81
+
+1 interval ago on 03-03-2025, new stocks found:
+    1. KRN:
+	URL: https://chartink.com/stocks/krn.html
+	Date 2025-03-03 not found in data, using the last available close price.
+	Change % Since: -0.0
+
+Higher % Stocks:
+	- AXISCADES: 4.05%
+	- KRN: -0.0%
+	- ASTRAZEN: -4.41%
+	- REDINGTON: -10.81%
+
+2) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/all_emas_in_daily_weekly_monthly_trending/2025.03.03.csv
+
+Sleeping for 30 secs
+
+11 interval ago on 14-02-2025, new stocks found:
+    1. TCPLPACK:
+	URL: https://chartink.com/stocks/tcplpack.html
+	Change % Since: 12.17
+
+10 interval ago on 17-02-2025, new stocks found:
+    1. AGARWALEYE:
+	URL: https://chartink.com/stocks/agarwaleye.html
+	Change % Since: -5.58
+
+3 interval ago on 27-02-2025, new stocks found:
+    1. CHOLAFIN:
+	URL: https://chartink.com/stocks/cholafin.html
+	Change % Since: -2.63
+    2. MEDANTA:
+	URL: https://chartink.com/stocks/medanta.html
+	Change % Since: -3.65
+
+Higher % Stocks:
+	- TCPLPACK: 12.17%
+	- CHOLAFIN: -2.63%
+	- MEDANTA: -3.65%
+	- AGARWALEYE: -5.58%
+
+3) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/crossed-200-ema-and-gone-bullish/2025.03.03.csv
+
+Sleeping for 30 secs
+
+11 interval ago on 31-01-2025, new stocks found:
+    1. SUNDARMFIN:
+	URL: https://chartink.com/stocks/sundarmfin.html
+	Change % Since: -500
+
+10 interval ago on 03-02-2025, new stocks found:
+    1. MANAPPURAM:
+	URL: https://chartink.com/stocks/manappuram.html
+	Change % Since: 5.21
+
+9 interval ago on 04-02-2025, new stocks found:
+    1. CANTABIL:
+	URL: https://chartink.com/stocks/cantabil.html
+	Change % Since: -15.26
+
+6 interval ago on 07-02-2025, new stocks found:
+    1. NACLIND:
+	URL: https://chartink.com/stocks/naclind.html
+	Change % Since: -13.61
+
+5 interval ago on 12-02-2025, new stocks found:
+    1. SBICARD:
+	URL: https://chartink.com/stocks/sbicard.html
+	Change % Since: -500
+
+4 interval ago on 17-02-2025, new stocks found:
+    1. KSCL:
+	URL: https://chartink.com/stocks/kscl.html
+	Change % Since: 5.27
+
+3 interval ago on 18-02-2025, new stocks found:
+    1. VISHNU:
+	URL: https://chartink.com/stocks/vishnu.html
+	Change % Since: -4.24
+    2. MPSLTD:
+	URL: https://chartink.com/stocks/mpsltd.html
+	Change % Since: -11.09
+
+1 interval ago on 27-02-2025, new stocks found:
+    1. SHREECEM:
+	URL: https://chartink.com/stocks/shreecem.html
+	Date 2025-02-27 not found in data, using the last available close price.
+	Change % Since: -0.0
+
+Higher % Stocks:
+	- KSCL: 5.27%
+	- MANAPPURAM: 5.21%
+	- SHREECEM: -0.0%
+	- VISHNU: -4.24%
+	- MPSLTD: -11.09%
+	- NACLIND: -13.61%
+	- CANTABIL: -15.26%
+	- SUNDARMFIN: -500%
+	- SBICARD: -500%
+
+4) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/bullish-stocks-respecting-10ema/2025.03.03.csv
+
+Sleeping for 30 secs
+
+3 interval ago on 27-02-2025, new stocks found:
+    1. ABBOTINDIA:
+	URL: https://chartink.com/stocks/abbotindia.html
+	Change % Since: 1.44
+    2. ASHOKLEY:
+	URL: https://chartink.com/stocks/ashokley.html
+	Change % Since: -5.54
+    3. KRN:
+	URL: https://chartink.com/stocks/krn.html
+	Change % Since: -500
+    4. MEDANTA:
+	URL: https://chartink.com/stocks/medanta.html
+	Change % Since: -3.65
+
+Higher % Stocks:
+	- ABBOTINDIA: 1.44%
+	- MEDANTA: -3.65%
+	- ASHOKLEY: -5.54%
+	- KRN: -500%
