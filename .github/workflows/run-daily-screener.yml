@@ -36,6 +36,9 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Run Stock Screener Script
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
         run: |
           rm Report/latest
           report_file="Report/market_breadth_`date +'%Y-%m-%d_%H:%M'`.txt"
@@ -43,6 +46,8 @@ jobs:
           python3 data/download_screener.py data/daily_screener_config.json
           # Analyse the latest screeners and save result in a file
           python3 screener/getDataFromScreener.py --input-csvs-file data/downloaded_csvs.json --history-days 11 >> "$report_file"
+          # Send Telegram Message
+          python3 send_telegram.py $report_file
           cp $report_file Report/latest
 
       - name: Commit and Push Changes
