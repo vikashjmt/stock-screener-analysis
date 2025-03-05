@@ -1,0 +1,160 @@
+
+1) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/above_10ema_for_a_month/2025.03.05.csv
+
+YF.download() has changed argument auto_adjust default to True
+
+8 interval ago on 21-02-2025, new stocks found:
+    1. REDINGTON:
+	URL: https://chartink.com/stocks/redington.html
+	Change % Since: -9.13
+
+3 interval ago on 03-03-2025, new stocks found:
+    1. KRN:
+	URL: https://chartink.com/stocks/krn.html
+	Change % Since: 5.66
+
+Higher % Stocks:
+	- KRN: 5.66%
+	- REDINGTON: -9.13%
+
+2) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/all_emas_in_daily_weekly_monthly_trending/2025.03.05.csv
+
+Sleeping for 30 secs
+
+5 interval ago on 27-02-2025, new stocks found:
+    1. CHOLAFIN:
+	URL: https://chartink.com/stocks/cholafin.html
+	Change % Since: 0.76
+    2. MEDANTA:
+	URL: https://chartink.com/stocks/medanta.html
+	Change % Since: 1.39
+
+2 interval ago on 04-03-2025, new stocks found:
+    1. SHAILY:
+	URL: https://chartink.com/stocks/shaily.html
+	Change % Since: 0.0
+
+1 interval ago on 05-03-2025, new stocks found:
+    1. PGEL:
+	URL: https://chartink.com/stocks/pgel.html
+	Date 2025-03-05 not found in data, using the last available close price.
+	Change % Since: 0.0
+    2. BLUESTARCO:
+	URL: https://chartink.com/stocks/bluestarco.html
+	Date 2025-03-05 not found in data, using the last available close price.
+	Change % Since: -0.0
+
+Higher % Stocks:
+	- MEDANTA: 1.39%
+	- CHOLAFIN: 0.76%
+	- SHAILY: 0.0%
+	- PGEL: 0.0%
+	- BLUESTARCO: -0.0%
+
+3) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/crossed-200-ema-and-gone-bullish/2025.03.05.csv
+
+Sleeping for 30 secs
+
+11 interval ago on 04-02-2025, new stocks found:
+    1. CANTABIL:
+	URL: https://chartink.com/stocks/cantabil.html
+	Change % Since: -23.66
+
+8 interval ago on 07-02-2025, new stocks found:
+    1. NACLIND:
+	URL: https://chartink.com/stocks/naclind.html
+	Change % Since: -0.54
+
+7 interval ago on 12-02-2025, new stocks found:
+    1. SBICARD:
+	URL: https://chartink.com/stocks/sbicard.html
+	Change % Since: 2.54
+
+6 interval ago on 17-02-2025, new stocks found:
+    1. KSCL:
+	URL: https://chartink.com/stocks/kscl.html
+	Change % Since: 4.23
+
+5 interval ago on 18-02-2025, new stocks found:
+    1. VISHNU:
+	URL: https://chartink.com/stocks/vishnu.html
+	Change % Since: -11.55
+    2. MPSLTD:
+	URL: https://chartink.com/stocks/mpsltd.html
+	Change % Since: -1.66
+
+3 interval ago on 27-02-2025, new stocks found:
+    1. SHREECEM:
+	URL: https://chartink.com/stocks/shreecem.html
+	Change % Since: -3.33
+
+2 interval ago on 04-03-2025, new stocks found:
+    1. MBAPL:
+	URL: https://chartink.com/stocks/mbapl.html
+	Change % Since: -0.0
+
+Higher % Stocks:
+	- KSCL: 4.23%
+	- SBICARD: 2.54%
+	- MBAPL: -0.0%
+	- NACLIND: -0.54%
+	- MPSLTD: -1.66%
+	- SHREECEM: -3.33%
+	- VISHNU: -11.55%
+	- CANTABIL: -23.66%
+
+4) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/bullish-stocks-respecting-10ema/2025.03.05.csv
+
+Sleeping for 30 secs
+
+5 interval ago on 27-02-2025, new stocks found:
+    1. ABBOTINDIA:
+	URL: https://chartink.com/stocks/abbotindia.html
+	Change % Since: 5.26
+    2. ASHOKLEY:
+	URL: https://chartink.com/stocks/ashokley.html
+	Change % Since: -8.21
+    3. KRN:
+	URL: https://chartink.com/stocks/krn.html
+	Change % Since: 0.99
+    4. MEDANTA:
+	URL: https://chartink.com/stocks/medanta.html
+	Change % Since: 1.39
+
+2 interval ago on 04-03-2025, new stocks found:
+    1. BLUEJET:
+	URL: https://chartink.com/stocks/bluejet.html
+	Change % Since: 0.0
+    2. ANANDRATHI:
+	URL: https://chartink.com/stocks/anandrathi.html
+	Change % Since: 0.0
+
+1 interval ago on 05-03-2025, new stocks found:
+    1. CARTRADE:
+	URL: https://chartink.com/stocks/cartrade.html
+	Date 2025-03-05 not found in data, using the last available close price.
+	Change % Since: 0.0
+    2. AMIORG:
+	URL: https://chartink.com/stocks/amiorg.html
+	Date 2025-03-05 not found in data, using the last available close price.
+	Change % Since: -0.0
+    3. SHAILY:
+	URL: https://chartink.com/stocks/shaily.html
+	Date 2025-03-05 not found in data, using the last available close price.
+	Change % Since: 0.0
+    4. HCG:
+	URL: https://chartink.com/stocks/hcg.html
+	Date 2025-03-05 not found in data, using the last available close price.
+	Change % Since: -0.0
+
+Higher % Stocks:
+	- ABBOTINDIA: 5.26%
+	- MEDANTA: 1.39%
+	- KRN: 0.99%
+	- BLUEJET: 0.0%
+	- ANANDRATHI: 0.0%
+	- CARTRADE: 0.0%
+	- AMIORG: -0.0%
+	- SHAILY: 0.0%
+	- HCG: -0.0%
+	- ASHOKLEY: -8.21%
