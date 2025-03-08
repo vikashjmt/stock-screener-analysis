@@ -1,0 +1,17 @@
+{"weekly_first_time_10_21_50_200": {
+    "url": "https://chartink.com/screener/weekly-10-21-50-200-first-time",
+    "folder": "weekly_first_time_10_21_50_200"
+},
+"monthly_candle_crossed_200ema_and_close_greater_than_52_weeks_high": {
+    "url": "https://chartink.com/screener/monthly-candle-crossed-200-ema-and-close-is-greater-than-52-weeks-high",
+    "folder": "monthly_candle_crossed_200ema_and_close_greater_than_52_weeks_high"
+},
+"monthly_candle_crossed_200ema": {
+    "url": "https://chartink.com/screener/monthly-candle-crossed-200-ema",
+    "folder": "monthly_candle_crossed_200ema"
+},
+"Multi_Year_top_breakout_current_month": {
+    "url": "https://chartink.com/screener/copy-multi-year-top-break-out-current-month-141",
+    "folder": "multi_Year_top_breakout_current_month"
+}
+}
