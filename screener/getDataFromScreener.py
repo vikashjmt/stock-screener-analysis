@@ -35,7 +35,11 @@ def get_price_change_percentage(ticker_symbol, start_date, tickers):
     start_date_pd = pd.to_datetime(start_date)
     historical_data = tickers.get(ticker_symbol)
     if historical_data is None:
-        return -1500
+        historical_data = safe_yf_download(ticker_symbol, session,
+                                           start_date, max_retries=2,
+                                           retry_delay=3)
+        if historical_data is None:
+            return -1500
     # Convert DataFrame index to datetime if not already
     historical_data.index = pd.to_datetime(historical_data.index)
     # start_date = '-'.join(val for val in start_date.split('-')[::-1])
@@ -198,14 +202,14 @@ def update_date_if_market_holiday(date_str):
         return date_str
 
 
-def safe_yf_download(tickers, session, start_date, end_date, max_retries=4, retry_delay=15):
+def safe_yf_download(tickers, session, start_date, max_retries=1, retry_delay=5):
     attempt = 0
     while attempt < max_retries:
         try:
             # Custom User-Agent
             session.headers["User-Agent"] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
             historical_data = yf.download(tickers, session=session, group_by="ticker",
-                                          start=start_date, end=end_date, threads=False)
+                                          start=start_date, threads=False)
             return historical_data
         except (requests.exceptions.HTTPError, ValueError) as e:
             print(f"Error for {tickers}: {e}")
@@ -233,7 +237,7 @@ def get_stocks_price_data(stocks_data, start_date, end_date):
     tickers = ' '.join(f'{stock}.NS' for stock in stocks_data)
     # Fetch historical data for all stocks at once
     historical_data = safe_yf_download(tickers, session,
-                                       start_date, end_date)
+                                       start_date)
     if historical_data.empty:
         print(f'No data found for tickers {tickers}')
         return stocks_price_data
@@ -267,8 +271,8 @@ if __name__ == "__main__":
     for index, screener_file in enumerate(csv_files):
         print(f'\n{index+1}) Screener file: {screener_file}\n')
         if index > 0:
-            ic('Sleeping for 45 secs')
-            time.sleep(45)
+            ic('Sleeping for 30 secs')
+            time.sleep(3)
         stocks_data, date_details = get_all_stock_details(screener_file)
         # ic(date_details)
         # ic(stocks_data)
