@@ -267,7 +267,7 @@ if __name__ == "__main__":
     for index, screener_file in enumerate(csv_files):
         print(f'\n{index+1}) Screener file: {screener_file}\n')
         if index > 0:
-            print('Sleeping for 30 secs')
+            ic('Sleeping for 30 secs')
             time.sleep(30)
         stocks_data, date_details = get_all_stock_details(screener_file)
         # ic(date_details)
