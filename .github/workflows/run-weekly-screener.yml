@@ -1,11 +1,9 @@
-name: Run Daily Stock Screener Analysis
+name: Run Weekly Stock Screener Analysis
 
 on:
-  # push:
-  pull_request:
   workflow_dispatch:
   schedule:
-    - cron: '45 10 * * 1-5'
+    - cron: '45 11 * * 5'
 
 jobs:
   run-python:
@@ -40,15 +38,15 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
         run: |
-          rm Report/latest
+          rm Report/latest_weekly
           report_file="Report/market_breadth_`date +'%Y-%m-%d_%H:%M'`.txt"
           # Download latest screeners
-          python3 data/download_screener.py data/daily_screener_config.json
+          python3 data/download_screener.py data/weekly_monthly_screener_config.json
           # Analyse the latest screeners and save result in a file
           python3 screener/getDataFromScreener.py --input-csvs-file data/downloaded_csvs.json --history-days 11 >> "$report_file"
           # Send Telegram Message
           python3 send_telegram.py $report_file
-          cp $report_file Report/latest
+          cp $report_file Report/latest_weekly
 
       - name: Commit and Push Changes
         env:
