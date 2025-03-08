@@ -198,7 +198,7 @@ def update_date_if_market_holiday(date_str):
         return date_str
 
 
-def safe_yf_download(tickers, session, start_date, end_date, max_retries=3, retry_delay=7):
+def safe_yf_download(tickers, session, start_date, end_date, max_retries=4, retry_delay=15):
     attempt = 0
     while attempt < max_retries:
         try:
@@ -267,8 +267,8 @@ if __name__ == "__main__":
     for index, screener_file in enumerate(csv_files):
         print(f'\n{index+1}) Screener file: {screener_file}\n')
         if index > 0:
-            ic('Sleeping for 30 secs')
-            time.sleep(30)
+            ic('Sleeping for 45 secs')
+            time.sleep(45)
         stocks_data, date_details = get_all_stock_details(screener_file)
         # ic(date_details)
         # ic(stocks_data)
