@@ -14,6 +14,7 @@ from icecream import ic
 from itertools import islice
 from datetime import datetime, timedelta
 from dateutil.relativedelta import relativedelta
+from random import randint
 
 # input_file = "data/StocksTrendingAbove10emaForMonth260524.csv"
 # input_file = "../data/sample_screener_name/2024.06.08.csv"
@@ -198,7 +199,7 @@ def update_date_if_market_holiday(date_str):
         return date_str
 
 
-def safe_yf_download(tickers, session, start_date, end_date, max_retries=4, retry_delay=15):
+def safe_yf_download(tickers, session, start_date, end_date, max_retries=6, retry_delay=randint(15,45)):
     attempt = 0
     while attempt < max_retries:
         try:
@@ -219,14 +220,6 @@ def safe_yf_download(tickers, session, start_date, end_date, max_retries=4, retr
 
 def get_stocks_price_data(stocks_data, start_date, end_date):
     '''
-    stocks_price_data = {}
-    tickers = yf.Tickers(' '.join(f'{stock}.NS' for stock in stocks_data),
-                         session=session)
-    for stock in stocks_data:
-        stock = tickers.tickers.get(f'{stock}.NS')
-        historical_data = stock.history(period="max")
-        stocks_price_data[f'{stock}.NS'] = historical_data
-    return stocks_price_data
     '''
     stocks_price_data = {}
     # Join stock symbols with ".NS" and fetch all data in one request
@@ -249,6 +242,11 @@ def get_stocks_price_data(stocks_data, start_date, end_date):
 
     return stocks_price_data
 
+def get_stocks_in_history_data(date_details, history_dates):
+    return {stock
+            for history_date in history_dates
+            for stock in date_details[history_date]}
+
 
 if __name__ == "__main__":
     args = input_args()
@@ -267,12 +265,19 @@ if __name__ == "__main__":
     for index, screener_file in enumerate(csv_files):
         print(f'\n{index+1}) Screener file: {screener_file}\n')
         if index > 0:
-            ic('Sleeping for 45 secs')
-            time.sleep(45)
+            ic('Sleeping for 15 secs')
+            time.sleep(15)
         stocks_data, date_details = get_all_stock_details(screener_file)
-        # ic(date_details)
         # ic(stocks_data)
+        stock_price_data = {}
+        total_days = len(date_details)
+        if not history_days:
+            history_days = total_days
         list_of_date = list(date_details.keys())
+        history_dates = list_of_date[-history_days:]
+        # Get stocks found in history days
+        stocks_in_history_days = get_stocks_in_history_data(date_details,
+                                                            history_dates)
         # ic(list_of_date)
         # start_date = list_of_date[0]
         start_date = '-'.join(val for val in list_of_date[0].split('-')[::-1])
@@ -280,12 +285,9 @@ if __name__ == "__main__":
         # end_date = list_of_date[-1]
         end_date = '-'.join(val for val in list_of_date[-1].split('-')[::-1])
         # ic(end_date)
-        tickers = get_stocks_price_data(stocks_data.keys(), start_date,
+        # ic(stocks_in_history_days)
+        tickers = get_stocks_price_data(stocks_in_history_days, start_date,
                                         end_date)
-        stock_price_data = {}
-        total_days = len(date_details)
-        if not history_days:
-            history_days = total_days
         # ic(history_days)
         list_of_date = list(date_details.keys())
         for index in range(total_days-history_days, total_days):
