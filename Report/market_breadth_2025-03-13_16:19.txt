@@ -1,5 +1,5 @@
 
-1) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/above_10ema_for_a_month/2025.03.14.csv
+1) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/above_10ema_for_a_month/2025.03.13.csv
 
 YF.download() has changed argument auto_adjust default to True
 
@@ -11,7 +11,7 @@ YF.download() has changed argument auto_adjust default to True
 Higher % Stocks:
 	- KRN: 9.06%
 
-2) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/all_emas_in_daily_weekly_monthly_trending/2025.03.14.csv
+2) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/all_emas_in_daily_weekly_monthly_trending/2025.03.13.csv
 
 
 11 interval ago on 27-02-2025, new stocks found:
@@ -84,7 +84,7 @@ Higher % Stocks:
 	- SDBL: -2.13%
 	- BLUESTARCO: -3.97%
 
-3) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/crossed-200-ema-and-gone-bullish/2025.03.14.csv
+3) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/crossed-200-ema-and-gone-bullish/2025.03.13.csv
 
 
 11 interval ago on 12-02-2025, new stocks found:
@@ -136,7 +136,7 @@ Higher % Stocks:
 	- MEDANTA: -3.36%
 	- MPSLTD: -6.5%
 
-4) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/bullish-stocks-respecting-10ema/2025.03.14.csv
+4) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/bullish-stocks-respecting-10ema/2025.03.13.csv
 
 
 11 interval ago on 27-02-2025, new stocks found:
