@@ -13,5 +13,33 @@
 "bullish-stocks-respecting-10ema": {
     "url": "https://chartink.com/screener/bullish-stocks-respecting-10ema",
     "folder": "bullish-stocks-respecting-10ema"
-}
+},
+"price-crossed-above-10-ema-and-10-21-50-150-200-sequence": {
+    "url": "https://chartink.com/screener/price-crossed-above-10-ema-and-10-21-50-150-200-sequence-12",
+    "folder": "price-crossed-above-10-ema-and-10-21-50-150-200-sequence-12"
+},
+"stocks-cross-10-ema-20-days-ago-and-continuing-above-it": {
+    "url": "https://chartink.com/screener/stocks-cross-10-ema-20-days-ago-and-continuing-above-it",
+    "folder": "stocks-cross-10-ema-20-days-ago-and-continuing-above-it"
+},
+"highest-price-in-last-3-months-and-bullish-character": {
+    "url": "https://chartink.com/screener/highest-price-in-last-3-months-and-bullish-character",
+    "folder": "highest-price-in-last-3-months-and-bullish-character"
+},
+"stocks-above-10-21-50-200-first-time-in-a-month": {
+    "url": "https://chartink.com/screener/stocks-above-10-21-50-200-first-time-in-a-month",
+    "folder": "stocks-above-10-21-50-200-first-time-in-a-month"
+},
+"copy-peak-obv-52weeks-high": {
+    "url": "https://chartink.com/screener/copy-peak-obv-52weeks-high-79",
+    "folder": "copy-peak-obv-52weeks-high-79"
+},
+"high-obv-reversal-stocks": {
+    "url": "https://chartink.com/screener/high-obv-reversal-stocks-2",
+    "folder": "high-obv-reversal-stocks"
+    },
+"highest-volume-in-last-3-years": {
+    "url": "https://chartink.com/screener/high-volume-in-last-3-years",
+    "folder": "highest-volume-in-last-3-years"
+    }
 }

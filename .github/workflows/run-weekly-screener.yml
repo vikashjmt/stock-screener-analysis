@@ -39,7 +39,7 @@ jobs:
           CHAT_ID: ${{ secrets.CHAT_ID }}
         run: |
           rm Report/latest_weekly
-          report_file="Report/market_breadth_`date +'%Y-%m-%d_%H:%M'`.txt"
+          report_file="Report/weekly_screeners_`date +'%Y-%m-%d_%H:%M'`.txt"
           # Download latest screeners
           python3 data/download_screener.py data/weekly_monthly_screener_config.json
           # Analyse the latest screeners and save result in a file

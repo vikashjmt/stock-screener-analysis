@@ -13,5 +13,9 @@
 "Multi_Year_top_breakout_current_month": {
     "url": "https://chartink.com/screener/copy-multi-year-top-break-out-current-month-141",
     "folder": "multi_Year_top_breakout_current_month"
-}
+},
+"stocks-consolidating-above-10wema": {
+    "url": "https://chartink.com/screener/stocks-consolidating-above-10wema",
+    "folder": "stocks-consolidating-above-10wema"
+  }
 }
