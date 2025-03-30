@@ -1,0 +1,1502 @@
+
+1) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/above_10ema_for_a_month/2025.03.24.csv
+
+YF.download() has changed argument auto_adjust default to True
+
+24 interval ago on 17-02-2025, new stocks found:
+    1. ASTRAZEN:
+	URL: https://chartink.com/stocks/astrazen.html
+	Change % Since: 21.45
+    2. AXISCADES:
+	URL: https://chartink.com/stocks/axiscades.html
+	Change % Since: 40.6
+
+20 interval ago on 21-02-2025, new stocks found:
+    1. REDINGTON:
+	URL: https://chartink.com/stocks/redington.html
+	Change % Since: -0.53
+
+15 interval ago on 03-03-2025, new stocks found:
+    1. KRN:
+	URL: https://chartink.com/stocks/krn.html
+	Change % Since: 5.45
+
+8 interval ago on 12-03-2025, new stocks found:
+    1. MPSLTD:
+	URL: https://chartink.com/stocks/mpsltd.html
+	Change % Since: 10.71
+
+3 interval ago on 20-03-2025, new stocks found:
+    1. TAJGVK:
+	URL: https://chartink.com/stocks/tajgvk.html
+	Change % Since: 0.35
+
+2 interval ago on 21-03-2025, new stocks found:
+    1. AXISCADES:
+	URL: https://chartink.com/stocks/axiscades.html
+	Change % Since: 0.0
+
+1 interval ago on 24-03-2025, new stocks found:
+    1. CAMLINFINE:
+	URL: https://chartink.com/stocks/camlinfine.html
+	Date 2025-03-24 not found in data, using the last available close price.
+	Change % Since: 0.0
+
+Higher % Stocks:
+	- AXISCADES: 40.6%
+	- ASTRAZEN: 21.45%
+	- MPSLTD: 10.71%
+	- KRN: 5.45%
+	- TAJGVK: 0.35%
+	- CAMLINFINE: 0.0%
+	- REDINGTON: -0.53%
+
+2) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/all_emas_in_daily_weekly_monthly_trending/2025.03.24.csv
+
+
+25 interval ago on 14-02-2025, new stocks found:
+    1. TCPLPACK:
+	URL: https://chartink.com/stocks/tcplpack.html
+	Change % Since: 31.48
+
+24 interval ago on 17-02-2025, new stocks found:
+    1. AGARWALEYE:
+	URL: https://chartink.com/stocks/agarwaleye.html
+	Change % Since: 4.76
+
+17 interval ago on 27-02-2025, new stocks found:
+    1. CHOLAFIN:
+	URL: https://chartink.com/stocks/cholafin.html
+	Change % Since: 6.94
+    2. MEDANTA:
+	URL: https://chartink.com/stocks/medanta.html
+	Change % Since: 6.03
+
+14 interval ago on 04-03-2025, new stocks found:
+    1. SHAILY:
+	URL: https://chartink.com/stocks/shaily.html
+	Change % Since: 9.99
+
+13 interval ago on 05-03-2025, new stocks found:
+    1. PGEL:
+	URL: https://chartink.com/stocks/pgel.html
+	Change % Since: 11.67
+    2. BLUESTARCO:
+	URL: https://chartink.com/stocks/bluestarco.html
+	Change % Since: 1.01
+
+12 interval ago on 06-03-2025, new stocks found:
+    1. HCG:
+	URL: https://chartink.com/stocks/hcg.html
+	Change % Since: 2.47
+    2. ASTRAZEN:
+	URL: https://chartink.com/stocks/astrazen.html
+	Change % Since: 13.98
+    3. NAVINFLUOR:
+	URL: https://chartink.com/stocks/navinfluor.html
+	Change % Since: 3.06
+
+11 interval ago on 07-03-2025, new stocks found:
+    1. SDBL:
+	URL: https://chartink.com/stocks/sdbl.html
+	Change % Since: 5.12
+
+10 interval ago on 10-03-2025, new stocks found:
+    1. GUJTHEM:
+	URL: https://chartink.com/stocks/gujthem.html
+	Change % Since: 2.31
+
+9 interval ago on 11-03-2025, new stocks found:
+    1. WELCORP:
+	URL: https://chartink.com/stocks/welcorp.html
+	Change % Since: 7.72
+    2. VIMTALABS:
+	URL: https://chartink.com/stocks/vimtalabs.html
+	Change % Since: 10.92
+
+8 interval ago on 12-03-2025, new stocks found:
+    1. DOMS:
+	URL: https://chartink.com/stocks/doms.html
+	Change % Since: 5.92
+
+6 interval ago on 17-03-2025, new stocks found:
+    1. MUTHOOTFIN:
+	URL: https://chartink.com/stocks/muthootfin.html
+	Change % Since: 2.9
+
+5 interval ago on 18-03-2025, new stocks found:
+    1. CHOLAHLDNG:
+	URL: https://chartink.com/stocks/cholahldng.html
+	Change % Since: 8.3
+
+3 interval ago on 20-03-2025, new stocks found:
+    1. BAJAJHLDNG:
+	URL: https://chartink.com/stocks/bajajhldng.html
+	Change % Since: 2.29
+
+1 interval ago on 24-03-2025, new stocks found:
+    1. KDDL:
+	URL: https://chartink.com/stocks/kddl.html
+	Date 2025-03-24 not found in data, using the last available close price.
+	Change % Since: 0.0
+    2. GALLANTT:
+	URL: https://chartink.com/stocks/gallantt.html
+	Date 2025-03-24 not found in data, using the last available close price.
+	Change % Since: -0.0
+    3. INDHOTEL:
+	URL: https://chartink.com/stocks/indhotel.html
+	Date 2025-03-24 not found in data, using the last available close price.
+	Change % Since: 0.0
+    4. STARCEMENT:
+	URL: https://chartink.com/stocks/starcement.html
+	Date 2025-03-24 not found in data, using the last available close price.
+	Change % Since: 0.0
+    5. APOLLO:
+	URL: https://chartink.com/stocks/apollo.html
+	Date 2025-03-24 not found in data, using the last available close price.
+	Change % Since: 0.0
+    6. CAMLINFINE:
+	URL: https://chartink.com/stocks/camlinfine.html
+	Date 2025-03-24 not found in data, using the last available close price.
+	Change % Since: 0.0
+
+Higher % Stocks:
+	- TCPLPACK: 31.48%
+	- ASTRAZEN: 13.98%
+	- PGEL: 11.67%
+	- VIMTALABS: 10.92%
+	- SHAILY: 9.99%
+	- CHOLAHLDNG: 8.3%
+	- WELCORP: 7.72%
+	- CHOLAFIN: 6.94%
+	- MEDANTA: 6.03%
+	- DOMS: 5.92%
+	- SDBL: 5.12%
+	- AGARWALEYE: 4.76%
+	- NAVINFLUOR: 3.06%
+	- MUTHOOTFIN: 2.9%
+	- HCG: 2.47%
+	- GUJTHEM: 2.31%
+	- BAJAJHLDNG: 2.29%
+	- BLUESTARCO: 1.01%
+	- KDDL: 0.0%
+	- GALLANTT: -0.0%
+	- INDHOTEL: 0.0%
+	- STARCEMENT: 0.0%
+	- APOLLO: 0.0%
+	- CAMLINFINE: 0.0%
+
+3) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/crossed-200-ema-and-gone-bullish/2025.03.24.csv
+
+
+25 interval ago on 28-01-2025, new stocks found:
+    1. JKCEMENT:
+	URL: https://chartink.com/stocks/jkcement.html
+	Change % Since: -0.18
+
+24 interval ago on 29-01-2025, new stocks found:
+    1. NAVINFLUOR:
+	URL: https://chartink.com/stocks/navinfluor.html
+	Change % Since: 13.54
+
+22 interval ago on 31-01-2025, new stocks found:
+    1. SUNDARMFIN:
+	URL: https://chartink.com/stocks/sundarmfin.html
+	Change % Since: 6.92
+
+21 interval ago on 03-02-2025, new stocks found:
+    1. MANAPPURAM:
+	URL: https://chartink.com/stocks/manappuram.html
+	Change % Since: 20.21
+
+20 interval ago on 04-02-2025, new stocks found:
+    1. CANTABIL:
+	URL: https://chartink.com/stocks/cantabil.html
+	Change % Since: -14.66
+
+17 interval ago on 07-02-2025, new stocks found:
+    1. NACLIND:
+	URL: https://chartink.com/stocks/naclind.html
+	Change % Since: 45.64
+
+16 interval ago on 12-02-2025, new stocks found:
+    1. SBICARD:
+	URL: https://chartink.com/stocks/sbicard.html
+	Change % Since: 5.35
+
+15 interval ago on 17-02-2025, new stocks found:
+    1. KSCL:
+	URL: https://chartink.com/stocks/kscl.html
+	Change % Since: 30.44
+
+14 interval ago on 18-02-2025, new stocks found:
+    1. VISHNU:
+	URL: https://chartink.com/stocks/vishnu.html
+	Change % Since: -0.73
+    2. MPSLTD:
+	URL: https://chartink.com/stocks/mpsltd.html
+	Change % Since: 3.51
+
+11 interval ago on 04-03-2025, new stocks found:
+    1. MBAPL:
+	URL: https://chartink.com/stocks/mbapl.html
+	Change % Since: -4.6
+
+9 interval ago on 06-03-2025, new stocks found:
+    1. ROHLTD:
+	URL: https://chartink.com/stocks/rohltd.html
+	Change % Since: 8.37
+
+7 interval ago on 10-03-2025, new stocks found:
+    1. MEDANTA:
+	URL: https://chartink.com/stocks/medanta.html
+	Change % Since: 4.65
+
+6 interval ago on 13-03-2025, new stocks found:
+    1. GODFRYPHLP:
+	URL: https://chartink.com/stocks/godfryphlp.html
+	Change % Since: 9.65
+
+5 interval ago on 17-03-2025, new stocks found:
+    1. UPL:
+	URL: https://chartink.com/stocks/upl.html
+	Change % Since: 5.22
+
+4 interval ago on 19-03-2025, new stocks found:
+    1. CHOLAHLDNG:
+	URL: https://chartink.com/stocks/cholahldng.html
+	Change % Since: 3.27
+
+2 interval ago on 21-03-2025, new stocks found:
+    1. AAVAS:
+	URL: https://chartink.com/stocks/aavas.html
+	Change % Since: 0.0
+
+1 interval ago on 24-03-2025, new stocks found:
+    1. SDBL:
+	URL: https://chartink.com/stocks/sdbl.html
+	Date 2025-03-24 not found in data, using the last available close price.
+	Change % Since: -0.0
+    2. INDIASHLTR:
+	URL: https://chartink.com/stocks/indiashltr.html
+	Date 2025-03-24 not found in data, using the last available close price.
+	Change % Since: 0.0
+    3. GULFOILLUB:
+	URL: https://chartink.com/stocks/gulfoillub.html
+	Date 2025-03-24 not found in data, using the last available close price.
+	Change % Since: -0.0
+
+Higher % Stocks:
+	- NACLIND: 45.64%
+	- KSCL: 30.44%
+	- MANAPPURAM: 20.21%
+	- NAVINFLUOR: 13.54%
+	- GODFRYPHLP: 9.65%
+	- ROHLTD: 8.37%
+	- SUNDARMFIN: 6.92%
+	- SBICARD: 5.35%
+	- UPL: 5.22%
+	- MEDANTA: 4.65%
+	- MPSLTD: 3.51%
+	- CHOLAHLDNG: 3.27%
+	- AAVAS: 0.0%
+	- SDBL: -0.0%
+	- INDIASHLTR: 0.0%
+	- GULFOILLUB: -0.0%
+	- JKCEMENT: -0.18%
+	- VISHNU: -0.73%
+	- MBAPL: -4.6%
+	- CANTABIL: -14.66%
+
+4) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/bullish-stocks-respecting-10ema/2025.03.24.csv
+
+
+17 interval ago on 27-02-2025, new stocks found:
+    1. ASHOKLEY:
+	URL: https://chartink.com/stocks/ashokley.html
+	Change % Since: -6.47
+    2. ABBOTINDIA:
+	URL: https://chartink.com/stocks/abbotindia.html
+	Change % Since: 1.1
+    3. KRN:
+	URL: https://chartink.com/stocks/krn.html
+	Change % Since: 0.79
+    4. MEDANTA:
+	URL: https://chartink.com/stocks/medanta.html
+	Change % Since: 6.03
+
+14 interval ago on 04-03-2025, new stocks found:
+    1. BLUEJET:
+	URL: https://chartink.com/stocks/bluejet.html
+	Change % Since: 15.18
+    2. ANANDRATHI:
+	URL: https://chartink.com/stocks/anandrathi.html
+	Change % Since: -12.5
+
+13 interval ago on 05-03-2025, new stocks found:
+    1. CARTRADE:
+	URL: https://chartink.com/stocks/cartrade.html
+	Change % Since: 16.24
+    2. SHAILY:
+	URL: https://chartink.com/stocks/shaily.html
+	Change % Since: 4.94
+    3. HCG:
+	URL: https://chartink.com/stocks/hcg.html
+	Change % Since: 2.77
+    4. AMIORG:
+	URL: https://chartink.com/stocks/amiorg.html
+	Change % Since: 0.78
+
+12 interval ago on 06-03-2025, new stocks found:
+    1. SARDAEN:
+	URL: https://chartink.com/stocks/sardaen.html
+	Change % Since: 14.64
+
+11 interval ago on 07-03-2025, new stocks found:
+    1. GUJTHEM:
+	URL: https://chartink.com/stocks/gujthem.html
+	Change % Since: -0.44
+    2. AJAXENGG:
+	URL: https://chartink.com/stocks/ajaxengg.html
+	Change % Since: -0.16
+
+6 interval ago on 17-03-2025, new stocks found:
+    1. VISHNU:
+	URL: https://chartink.com/stocks/vishnu.html
+	Change % Since: 1.43
+    2. WELCORP:
+	URL: https://chartink.com/stocks/welcorp.html
+	Change % Since: 8.82
+
+5 interval ago on 18-03-2025, new stocks found:
+    1. GULFOILLUB:
+	URL: https://chartink.com/stocks/gulfoillub.html
+	Change % Since: 4.1
+    2. UPL:
+	URL: https://chartink.com/stocks/upl.html
+	Change % Since: 5.22
+
+4 interval ago on 19-03-2025, new stocks found:
+    1. JASH:
+	URL: https://chartink.com/stocks/jash.html
+	Change % Since: 1.84
+    2. FORCEMOT:
+	URL: https://chartink.com/stocks/forcemot.html
+	Change % Since: 6.68
+
+3 interval ago on 20-03-2025, new stocks found:
+    1. STYRENIX:
+	URL: https://chartink.com/stocks/styrenix.html
+	Change % Since: -0.44
+    2. AGARWALEYE:
+	URL: https://chartink.com/stocks/agarwaleye.html
+	Change % Since: 2.54
+
+2 interval ago on 21-03-2025, new stocks found:
+    1. SBICARD:
+	URL: https://chartink.com/stocks/sbicard.html
+	Change % Since: 0.0
+
+Higher % Stocks:
+	- CARTRADE: 16.24%
+	- BLUEJET: 15.18%
+	- SARDAEN: 14.64%
+	- WELCORP: 8.82%
+	- FORCEMOT: 6.68%
+	- MEDANTA: 6.03%
+	- UPL: 5.22%
+	- SHAILY: 4.94%
+	- GULFOILLUB: 4.1%
+	- HCG: 2.77%
+	- AGARWALEYE: 2.54%
+	- JASH: 1.84%
+	- VISHNU: 1.43%
+	- ABBOTINDIA: 1.1%
+	- KRN: 0.79%
+	- AMIORG: 0.78%
+	- SBICARD: 0.0%
+	- AJAXENGG: -0.16%
+	- GUJTHEM: -0.44%
+	- STYRENIX: -0.44%
+	- ASHOKLEY: -6.47%
+	- ANANDRATHI: -12.5%
+
+5) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/price-crossed-above-10-ema-and-10-21-50-150-200-sequence-12/2025.03.24.csv
+
+
+24 interval ago on 02-01-2025, new stocks found:
+    1. NAUKRI:
+	URL: https://chartink.com/stocks/naukri.html
+	Change % Since: -22.85
+    2. UTIAMC:
+	URL: https://chartink.com/stocks/utiamc.html
+	Change % Since: -28.96
+    3. LEMONTREE:
+	URL: https://chartink.com/stocks/lemontree.html
+	Change % Since: -13.2
+    4. POLYCAB:
+	URL: https://chartink.com/stocks/polycab.html
+	Change % Since: -31.22
+
+23 interval ago on 03-01-2025, new stocks found:
+    1. BLS:
+	URL: https://chartink.com/stocks/bls.html
+	Change % Since: -28.47
+    2. GHCL:
+	URL: https://chartink.com/stocks/ghcl.html
+	Change % Since: -17.67
+    3. EIHOTEL:
+	URL: https://chartink.com/stocks/eihotel.html
+	Change % Since: -15.97
+    4. TI:
+	URL: https://chartink.com/stocks/ti.html
+	Change % Since: -46.64
+    5. PRAJIND:
+	URL: https://chartink.com/stocks/prajind.html
+	Change % Since: -34.03
+
+22 interval ago on 06-01-2025, new stocks found:
+    1. PAGEIND:
+	URL: https://chartink.com/stocks/pageind.html
+	Change % Since: -12.32
+
+21 interval ago on 07-01-2025, new stocks found:
+    1. SHAILY:
+	URL: https://chartink.com/stocks/shaily.html
+	Change % Since: 18.2
+
+19 interval ago on 10-01-2025, new stocks found:
+    1. GENESYS:
+	URL: https://chartink.com/stocks/genesys.html
+	Change % Since: -26.91
+
+18 interval ago on 17-01-2025, new stocks found:
+    1. PATANJALI:
+	URL: https://chartink.com/stocks/patanjali.html
+	Change % Since: -5.68
+    2. BIOCON:
+	URL: https://chartink.com/stocks/biocon.html
+	Change % Since: -13.36
+    3. PGIL:
+	URL: https://chartink.com/stocks/pgil.html
+	Change % Since: -19.01
+
+17 interval ago on 20-01-2025, new stocks found:
+    1. REDINGTON:
+	URL: https://chartink.com/stocks/redington.html
+	Change % Since: 2.44
+
+16 interval ago on 21-01-2025, new stocks found:
+    1. GANESHHOUC:
+	URL: https://chartink.com/stocks/ganeshhouc.html
+	Change % Since: -24.81
+
+15 interval ago on 23-01-2025, new stocks found:
+    1. GRANULES:
+	URL: https://chartink.com/stocks/granules.html
+	Change % Since: -16.55
+
+14 interval ago on 24-01-2025, new stocks found:
+    1. MUTHOOTFIN:
+	URL: https://chartink.com/stocks/muthootfin.html
+	Change % Since: 9.26
+
+13 interval ago on 31-01-2025, new stocks found:
+    1. MANAPPURAM:
+	URL: https://chartink.com/stocks/manappuram.html
+	Change % Since: 11.49
+
+12 interval ago on 01-02-2025, new stocks found:
+    1. JLHL:
+	URL: https://chartink.com/stocks/jlhl.html
+	Change % Since: 2.04
+    2. SWARAJENG:
+	URL: https://chartink.com/stocks/swarajeng.html
+	Change % Since: 13.05
+    3. AVANTIFEED:
+	URL: https://chartink.com/stocks/avantifeed.html
+	Change % Since: 27.99
+    4. BLUEJET:
+	URL: https://chartink.com/stocks/bluejet.html
+	Change % Since: 22.32
+    5. V2RETAIL:
+	URL: https://chartink.com/stocks/v2retail.html
+	Change % Since: -15.5
+
+11 interval ago on 04-02-2025, new stocks found:
+    1. WEL:
+	URL: https://chartink.com/stocks/wel.html
+	Change % Since: -3.1
+
+10 interval ago on 07-02-2025, new stocks found:
+    1. JKCEMENT:
+	URL: https://chartink.com/stocks/jkcement.html
+	Change % Since: -4.49
+
+9 interval ago on 17-02-2025, new stocks found:
+    1. SBICARD:
+	URL: https://chartink.com/stocks/sbicard.html
+	Change % Since: 0.74
+
+8 interval ago on 20-02-2025, new stocks found:
+    1. UPL:
+	URL: https://chartink.com/stocks/upl.html
+	Change % Since: -0.06
+
+7 interval ago on 21-02-2025, new stocks found:
+    1. NH:
+	URL: https://chartink.com/stocks/nh.html
+	Change % Since: 20.69
+
+6 interval ago on 24-02-2025, new stocks found:
+    1. MANAPPURAM:
+	URL: https://chartink.com/stocks/manappuram.html
+	Change % Since: 6.6
+    2. MBAPL:
+	URL: https://chartink.com/stocks/mbapl.html
+	Change % Since: -6.87
+
+5 interval ago on 06-03-2025, new stocks found:
+    1. MEDANTA:
+	URL: https://chartink.com/stocks/medanta.html
+	Change % Since: -1.07
+
+4 interval ago on 10-03-2025, new stocks found:
+    1. CHAMBLFERT:
+	URL: https://chartink.com/stocks/chamblfert.html
+	Change % Since: 0.96
+    2. AAVAS:
+	URL: https://chartink.com/stocks/aavas.html
+	Change % Since: 12.99
+
+2 interval ago on 20-03-2025, new stocks found:
+    1. SHRIRAMFIN:
+	URL: https://chartink.com/stocks/shriramfin.html
+	Change % Since: 0.0
+
+1 interval ago on 21-03-2025, new stocks found:
+    1. CHOLAHLDNG:
+	URL: https://chartink.com/stocks/cholahldng.html
+	Date 2025-03-21 not found in data, using the last available close price.
+	Change % Since: -0.0
+    2. GODREJAGRO:
+	URL: https://chartink.com/stocks/godrejagro.html
+	Date 2025-03-21 not found in data, using the last available close price.
+	Change % Since: 0.0
+
+Higher % Stocks:
+	- AVANTIFEED: 27.99%
+	- BLUEJET: 22.32%
+	- NH: 20.69%
+	- SHAILY: 18.2%
+	- SWARAJENG: 13.05%
+	- AAVAS: 12.99%
+	- MANAPPURAM: 11.49%
+	- MUTHOOTFIN: 9.26%
+	- REDINGTON: 2.44%
+	- JLHL: 2.04%
+	- CHAMBLFERT: 0.96%
+	- SBICARD: 0.74%
+	- SHRIRAMFIN: 0.0%
+	- CHOLAHLDNG: -0.0%
+	- GODREJAGRO: 0.0%
+	- UPL: -0.06%
+	- MEDANTA: -1.07%
+	- WEL: -3.1%
+	- JKCEMENT: -4.49%
+	- PATANJALI: -5.68%
+	- MBAPL: -6.87%
+	- PAGEIND: -12.32%
+	- LEMONTREE: -13.2%
+	- BIOCON: -13.36%
+	- V2RETAIL: -15.5%
+	- EIHOTEL: -15.97%
+	- GRANULES: -16.55%
+	- GHCL: -17.67%
+	- PGIL: -19.01%
+	- NAUKRI: -22.85%
+	- GANESHHOUC: -24.81%
+	- GENESYS: -26.91%
+	- BLS: -28.47%
+	- UTIAMC: -28.96%
+	- POLYCAB: -31.22%
+	- PRAJIND: -34.03%
+	- TI: -46.64%
+
+6) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-cross-10-ema-20-days-ago-and-continuing-above-it/2025.03.24.csv
+
+
+25 interval ago on 03-02-2025, new stocks found:
+    1. BAJAJHCARE:
+	URL: https://chartink.com/stocks/bajajhcare.html
+	Change % Since: 5.71
+
+22 interval ago on 10-02-2025, new stocks found:
+    1. V2RETAIL:
+	URL: https://chartink.com/stocks/v2retail.html
+	Change % Since: -12.33
+    2. BLUEJET:
+	URL: https://chartink.com/stocks/bluejet.html
+	Change % Since: 11.87
+
+21 interval ago on 11-02-2025, new stocks found:
+    1. ZENSARTECH:
+	URL: https://chartink.com/stocks/zensartech.html
+	Change % Since: -24.73
+    2. LTTS:
+	URL: https://chartink.com/stocks/ltts.html
+	Change % Since: -11.54
+
+19 interval ago on 13-02-2025, new stocks found:
+    1. JINDRILL:
+	URL: https://chartink.com/stocks/jindrill.html
+	Change % Since: 4.71
+
+18 interval ago on 14-02-2025, new stocks found:
+    1. SHAILY:
+	URL: https://chartink.com/stocks/shaily.html
+	Change % Since: 14.81
+    2. KSCL:
+	URL: https://chartink.com/stocks/kscl.html
+	Change % Since: 35.61
+    3. CANTABIL:
+	URL: https://chartink.com/stocks/cantabil.html
+	Change % Since: 1.45
+
+13 interval ago on 25-02-2025, new stocks found:
+    1. CHAMBLFERT:
+	URL: https://chartink.com/stocks/chamblfert.html
+	Change % Since: 5.82
+    2. MEDANTA:
+	URL: https://chartink.com/stocks/medanta.html
+	Change % Since: 4.39
+
+12 interval ago on 27-02-2025, new stocks found:
+    1. CAMLINFINE:
+	URL: https://chartink.com/stocks/camlinfine.html
+	Change % Since: 17.45
+
+10 interval ago on 03-03-2025, new stocks found:
+    1. TAJGVK:
+	URL: https://chartink.com/stocks/tajgvk.html
+	Change % Since: 13.57
+
+7 interval ago on 06-03-2025, new stocks found:
+    1. ABBOTINDIA:
+	URL: https://chartink.com/stocks/abbotindia.html
+	Change % Since: -2.23
+    2. REDINGTON:
+	URL: https://chartink.com/stocks/redington.html
+	Change % Since: 1.16
+
+5 interval ago on 17-03-2025, new stocks found:
+    1. SARDAEN:
+	URL: https://chartink.com/stocks/sardaen.html
+	Change % Since: 1.43
+    2. SRF:
+	URL: https://chartink.com/stocks/srf.html
+	Change % Since: 0.43
+    3. MBAPL:
+	URL: https://chartink.com/stocks/mbapl.html
+	Change % Since: -5.66
+    4. AXISCADES:
+	URL: https://chartink.com/stocks/axiscades.html
+	Change % Since: 10.53
+
+2 interval ago on 21-03-2025, new stocks found:
+    1. BLUEJET:
+	URL: https://chartink.com/stocks/bluejet.html
+	Change % Since: 0.0
+
+Higher % Stocks:
+	- KSCL: 35.61%
+	- CAMLINFINE: 17.45%
+	- SHAILY: 14.81%
+	- TAJGVK: 13.57%
+	- BLUEJET: 11.87%
+	- AXISCADES: 10.53%
+	- CHAMBLFERT: 5.82%
+	- BAJAJHCARE: 5.71%
+	- JINDRILL: 4.71%
+	- MEDANTA: 4.39%
+	- CANTABIL: 1.45%
+	- SARDAEN: 1.43%
+	- REDINGTON: 1.16%
+	- SRF: 0.43%
+	- ABBOTINDIA: -2.23%
+	- MBAPL: -5.66%
+	- LTTS: -11.54%
+	- V2RETAIL: -12.33%
+	- ZENSARTECH: -24.73%
+
+7) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-price-in-last-3-months-and-bullish-character/2025.03.24.csv
+
+
+25 interval ago on 05-02-2025, new stocks found:
+    1. YASHO:
+	URL: https://chartink.com/stocks/yasho.html
+	Change % Since: -23.86
+
+24 interval ago on 07-02-2025, new stocks found:
+    1. WEL:
+	URL: https://chartink.com/stocks/wel.html
+	Change % Since: -12.95
+    2. CHAMBLFERT:
+	URL: https://chartink.com/stocks/chamblfert.html
+	Change % Since: 7.43
+    3. MANAPPURAM:
+	URL: https://chartink.com/stocks/manappuram.html
+	Change % Since: 12.78
+
+23 interval ago on 12-02-2025, new stocks found:
+    1. VIMTALABS:
+	URL: https://chartink.com/stocks/vimtalabs.html
+	Change % Since: 2.02
+
+19 interval ago on 20-02-2025, new stocks found:
+    1. MBAPL:
+	URL: https://chartink.com/stocks/mbapl.html
+	Change % Since: -7.74
+
+17 interval ago on 25-02-2025, new stocks found:
+    1. KSCL:
+	URL: https://chartink.com/stocks/kscl.html
+	Change % Since: 23.91
+
+15 interval ago on 03-03-2025, new stocks found:
+    1. INDIASHLTR:
+	URL: https://chartink.com/stocks/indiashltr.html
+	Change % Since: 4.94
+
+12 interval ago on 06-03-2025, new stocks found:
+    1. MEDANTA:
+	URL: https://chartink.com/stocks/medanta.html
+	Change % Since: 0.97
+
+11 interval ago on 07-03-2025, new stocks found:
+    1. SDBL:
+	URL: https://chartink.com/stocks/sdbl.html
+	Change % Since: 5.12
+
+10 interval ago on 10-03-2025, new stocks found:
+    1. AAVAS:
+	URL: https://chartink.com/stocks/aavas.html
+	Change % Since: 13.05
+
+9 interval ago on 11-03-2025, new stocks found:
+    1. VADILALIND:
+	URL: https://chartink.com/stocks/vadilalind.html
+	Change % Since: 5.91
+
+8 interval ago on 12-03-2025, new stocks found:
+    1. NACLIND:
+	URL: https://chartink.com/stocks/naclind.html
+	Change % Since: 27.75
+
+6 interval ago on 17-03-2025, new stocks found:
+    1. ROHLTD:
+	URL: https://chartink.com/stocks/rohltd.html
+	Change % Since: 2.95
+
+4 interval ago on 19-03-2025, new stocks found:
+    1. SHRIRAMFIN:
+	URL: https://chartink.com/stocks/shriramfin.html
+	Change % Since: 1.32
+    2. GLAXO:
+	URL: https://chartink.com/stocks/glaxo.html
+	Change % Since: 3.43
+
+2 interval ago on 21-03-2025, new stocks found:
+    1. SUNDARMFIN:
+	URL: https://chartink.com/stocks/sundarmfin.html
+	Change % Since: -0.0
+    2. CHAMBLFERT:
+	URL: https://chartink.com/stocks/chamblfert.html
+	Change % Since: -0.0
+    3. FORCEMOT:
+	URL: https://chartink.com/stocks/forcemot.html
+	Change % Since: -0.0
+
+Higher % Stocks:
+	- NACLIND: 27.75%
+	- KSCL: 23.91%
+	- AAVAS: 13.05%
+	- MANAPPURAM: 12.78%
+	- CHAMBLFERT: 7.43%
+	- VADILALIND: 5.91%
+	- SDBL: 5.12%
+	- INDIASHLTR: 4.94%
+	- GLAXO: 3.43%
+	- ROHLTD: 2.95%
+	- VIMTALABS: 2.02%
+	- SHRIRAMFIN: 1.32%
+	- MEDANTA: 0.97%
+	- SUNDARMFIN: -0.0%
+	- FORCEMOT: -0.0%
+	- MBAPL: -7.74%
+	- WEL: -12.95%
+	- YASHO: -23.86%
+
+8) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-above-10-21-50-200-first-time-in-a-month/2025.03.24.csv
+
+
+25 interval ago on 07-02-2025, new stocks found:
+    1. CENTURYPLY:
+	URL: https://chartink.com/stocks/centuryply.html
+	Change % Since: -16.05
+
+24 interval ago on 10-02-2025, new stocks found:
+    1. METROBRAND:
+	URL: https://chartink.com/stocks/metrobrand.html
+	Change % Since: -12.81
+    2. KSCL:
+	URL: https://chartink.com/stocks/kscl.html
+	Change % Since: 33.21
+
+23 interval ago on 11-02-2025, new stocks found:
+    1. BLACKBUCK:
+	URL: https://chartink.com/stocks/blackbuck.html
+	Change % Since: -15.89
+    2. VENTIVE:
+	URL: https://chartink.com/stocks/ventive.html
+	Change % Since: 18.36
+    3. NAVINFLUOR:
+	URL: https://chartink.com/stocks/navinfluor.html
+	Change % Since: 4.48
+
+22 interval ago on 12-02-2025, new stocks found:
+    1. SAREGAMA:
+	URL: https://chartink.com/stocks/saregama.html
+	Change % Since: -1.53
+    2. GREENLAM:
+	URL: https://chartink.com/stocks/greenlam.html
+	Change % Since: 0.34
+    3. CAMLINFINE:
+	URL: https://chartink.com/stocks/camlinfine.html
+	Change % Since: 23.59
+
+21 interval ago on 13-02-2025, new stocks found:
+    1. GABRIEL:
+	URL: https://chartink.com/stocks/gabriel.html
+	Change % Since: 18.11
+    2. MBAPL:
+	URL: https://chartink.com/stocks/mbapl.html
+	Change % Since: -1.9
+
+20 interval ago on 17-02-2025, new stocks found:
+    1. AGARWALEYE:
+	URL: https://chartink.com/stocks/agarwaleye.html
+	Change % Since: 4.76
+
+19 interval ago on 19-02-2025, new stocks found:
+    1. UPL:
+	URL: https://chartink.com/stocks/upl.html
+	Change % Since: 1.35
+
+18 interval ago on 20-02-2025, new stocks found:
+    1. SBICARD:
+	URL: https://chartink.com/stocks/sbicard.html
+	Change % Since: 1.21
+
+16 interval ago on 25-02-2025, new stocks found:
+    1. GODFRYPHLP:
+	URL: https://chartink.com/stocks/godfryphlp.html
+	Change % Since: 10.73
+
+14 interval ago on 03-03-2025, new stocks found:
+    1. SUVENPHAR:
+	URL: https://chartink.com/stocks/suvenphar.html
+	Change % Since: 6.24
+
+12 interval ago on 05-03-2025, new stocks found:
+    1. MEDANTA:
+	URL: https://chartink.com/stocks/medanta.html
+	Change % Since: 5.82
+
+9 interval ago on 11-03-2025, new stocks found:
+    1. GUJTHEM:
+	URL: https://chartink.com/stocks/gujthem.html
+	Change % Since: 2.73
+
+8 interval ago on 12-03-2025, new stocks found:
+    1. ASTRAZEN:
+	URL: https://chartink.com/stocks/astrazen.html
+	Change % Since: 10.43
+    2. GODREJAGRO:
+	URL: https://chartink.com/stocks/godrejagro.html
+	Change % Since: 4.73
+
+7 interval ago on 13-03-2025, new stocks found:
+    1. CHOLAHLDNG:
+	URL: https://chartink.com/stocks/cholahldng.html
+	Change % Since: 6.17
+    2. SDBL:
+	URL: https://chartink.com/stocks/sdbl.html
+	Change % Since: 2.3
+
+6 interval ago on 17-03-2025, new stocks found:
+    1. SHRIRAMFIN:
+	URL: https://chartink.com/stocks/shriramfin.html
+	Change % Since: 8.59
+
+5 interval ago on 18-03-2025, new stocks found:
+    1. VADILALIND:
+	URL: https://chartink.com/stocks/vadilalind.html
+	Change % Since: 7.35
+
+3 interval ago on 20-03-2025, new stocks found:
+    1. SUNDARMFIN:
+	URL: https://chartink.com/stocks/sundarmfin.html
+	Change % Since: 1.47
+    2. GLAXO:
+	URL: https://chartink.com/stocks/glaxo.html
+	Change % Since: 2.63
+    3. CASTROLIND:
+	URL: https://chartink.com/stocks/castrolind.html
+	Change % Since: 0.5
+
+2 interval ago on 21-03-2025, new stocks found:
+    1. MAZDOCK:
+	URL: https://chartink.com/stocks/mazdock.html
+	Change % Since: -0.0
+
+1 interval ago on 24-03-2025, new stocks found:
+    1. GULFOILLUB:
+	URL: https://chartink.com/stocks/gulfoillub.html
+	Date 2025-03-24 not found in data, using the last available close price.
+	Change % Since: -0.0
+
+Higher % Stocks:
+	- KSCL: 33.21%
+	- CAMLINFINE: 23.59%
+	- VENTIVE: 18.36%
+	- GABRIEL: 18.11%
+	- GODFRYPHLP: 10.73%
+	- ASTRAZEN: 10.43%
+	- SHRIRAMFIN: 8.59%
+	- VADILALIND: 7.35%
+	- SUVENPHAR: 6.24%
+	- CHOLAHLDNG: 6.17%
+	- MEDANTA: 5.82%
+	- AGARWALEYE: 4.76%
+	- GODREJAGRO: 4.73%
+	- NAVINFLUOR: 4.48%
+	- GUJTHEM: 2.73%
+	- GLAXO: 2.63%
+	- SDBL: 2.3%
+	- SUNDARMFIN: 1.47%
+	- UPL: 1.35%
+	- SBICARD: 1.21%
+	- CASTROLIND: 0.5%
+	- GREENLAM: 0.34%
+	- MAZDOCK: -0.0%
+	- GULFOILLUB: -0.0%
+	- SAREGAMA: -1.53%
+	- MBAPL: -1.9%
+	- METROBRAND: -12.81%
+	- BLACKBUCK: -15.89%
+	- CENTURYPLY: -16.05%
+
+9) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/copy-peak-obv-52weeks-high-79/2025.03.24.csv
+
+
+25 interval ago on 07-02-2025, new stocks found:
+    1. INDOTHAI:
+	URL: https://chartink.com/stocks/indothai.html
+	Change % Since: -0.98
+
+19 interval ago on 19-02-2025, new stocks found:
+    1. BAJAJHCARE:
+	URL: https://chartink.com/stocks/bajajhcare.html
+	Change % Since: 2.82
+
+18 interval ago on 20-02-2025, new stocks found:
+    1. MBAPL:
+	URL: https://chartink.com/stocks/mbapl.html
+	Change % Since: -7.74
+
+17 interval ago on 21-02-2025, new stocks found:
+    1. DECCANCE:
+	URL: https://chartink.com/stocks/deccance.html
+	Change % Since: -7.61
+
+16 interval ago on 25-02-2025, new stocks found:
+    1. NH:
+	URL: https://chartink.com/stocks/nh.html
+	Change % Since: 13.53
+
+13 interval ago on 05-03-2025, new stocks found:
+    1. SHAILY:
+	URL: https://chartink.com/stocks/shaily.html
+	Change % Since: 4.94
+    2. REDINGTON:
+	URL: https://chartink.com/stocks/redington.html
+	Change % Since: 1.29
+
+12 interval ago on 06-03-2025, new stocks found:
+    1. JSWHL:
+	URL: https://chartink.com/stocks/jswhl.html
+	Change % Since: 19.88
+    2. AXISCADES:
+	URL: https://chartink.com/stocks/axiscades.html
+	Change % Since: 23.51
+
+11 interval ago on 07-03-2025, new stocks found:
+    1. SRF:
+	URL: https://chartink.com/stocks/srf.html
+	Change % Since: 3.03
+    2. KAMATHOTEL:
+	URL: https://chartink.com/stocks/kamathotel.html
+	Change % Since: 8.21
+
+10 interval ago on 10-03-2025, new stocks found:
+    1. GRMOVER:
+	URL: https://chartink.com/stocks/grmover.html
+	Change % Since: 4.82
+
+9 interval ago on 11-03-2025, new stocks found:
+    1. VADILALIND:
+	URL: https://chartink.com/stocks/vadilalind.html
+	Change % Since: 5.91
+
+7 interval ago on 13-03-2025, new stocks found:
+    1. NACLIND:
+	URL: https://chartink.com/stocks/naclind.html
+	Change % Since: 10.05
+    2. AAVAS:
+	URL: https://chartink.com/stocks/aavas.html
+	Change % Since: 5.8
+
+6 interval ago on 17-03-2025, new stocks found:
+    1. INDIASHLTR:
+	URL: https://chartink.com/stocks/indiashltr.html
+	Change % Since: -2.37
+    2. ROHLTD:
+	URL: https://chartink.com/stocks/rohltd.html
+	Change % Since: 2.95
+
+5 interval ago on 18-03-2025, new stocks found:
+    1. KOTAKBANK:
+	URL: https://chartink.com/stocks/kotakbank.html
+	Change % Since: 4.31
+
+4 interval ago on 19-03-2025, new stocks found:
+    1. SHRIRAMFIN:
+	URL: https://chartink.com/stocks/shriramfin.html
+	Change % Since: 1.32
+    2. SWARAJENG:
+	URL: https://chartink.com/stocks/swarajeng.html
+	Change % Since: 0.17
+    3. TAJGVK:
+	URL: https://chartink.com/stocks/tajgvk.html
+	Change % Since: -0.24
+
+2 interval ago on 21-03-2025, new stocks found:
+    1. BAJAJHLDNG:
+	URL: https://chartink.com/stocks/bajajhldng.html
+	Change % Since: -0.0
+    2. MANAPPURAM:
+	URL: https://chartink.com/stocks/manappuram.html
+	Change % Since: 0.0
+    3. NAVINFLUOR:
+	URL: https://chartink.com/stocks/navinfluor.html
+	Change % Since: 0.0
+
+1 interval ago on 24-03-2025, new stocks found:
+    1. HIKAL:
+	URL: https://chartink.com/stocks/hikal.html
+	Date 2025-03-24 not found in data, using the last available close price.
+	Change % Since: 0.0
+    2. JLHL:
+	URL: https://chartink.com/stocks/jlhl.html
+	Date 2025-03-24 not found in data, using the last available close price.
+	Change % Since: 0.0
+    3. SHREECEM:
+	URL: https://chartink.com/stocks/shreecem.html
+	Date 2025-03-24 not found in data, using the last available close price.
+	Change % Since: 0.0
+    4. MAZDOCK:
+	URL: https://chartink.com/stocks/mazdock.html
+	Date 2025-03-24 not found in data, using the last available close price.
+	Change % Since: -0.0
+
+Higher % Stocks:
+	- AXISCADES: 23.51%
+	- JSWHL: 19.88%
+	- NH: 13.53%
+	- NACLIND: 10.05%
+	- KAMATHOTEL: 8.21%
+	- VADILALIND: 5.91%
+	- AAVAS: 5.8%
+	- SHAILY: 4.94%
+	- GRMOVER: 4.82%
+	- KOTAKBANK: 4.31%
+	- SRF: 3.03%
+	- ROHLTD: 2.95%
+	- BAJAJHCARE: 2.82%
+	- SHRIRAMFIN: 1.32%
+	- REDINGTON: 1.29%
+	- SWARAJENG: 0.17%
+	- BAJAJHLDNG: -0.0%
+	- MANAPPURAM: 0.0%
+	- NAVINFLUOR: 0.0%
+	- HIKAL: 0.0%
+	- JLHL: 0.0%
+	- SHREECEM: 0.0%
+	- MAZDOCK: -0.0%
+	- TAJGVK: -0.24%
+	- INDOTHAI: -0.98%
+	- INDIASHLTR: -2.37%
+	- DECCANCE: -7.61%
+	- MBAPL: -7.74%
+
+10) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/high-obv-reversal-stocks/2025.03.24.csv
+
+
+25 interval ago on 01-02-2025, new stocks found:
+    1. BIOCON:
+	URL: https://chartink.com/stocks/biocon.html
+	Change % Since: -10.04
+
+24 interval ago on 03-02-2025, new stocks found:
+    1. WELENT:
+	URL: https://chartink.com/stocks/welent.html
+	Change % Since: -26.15
+
+23 interval ago on 04-02-2025, new stocks found:
+    1. CYBERTECH:
+	URL: https://chartink.com/stocks/cybertech.html
+	Change % Since: -30.21
+    2. MEDPLUS:
+	URL: https://chartink.com/stocks/medplus.html
+	Change % Since: -8.93
+
+22 interval ago on 05-02-2025, new stocks found:
+    1. EIDPARRY:
+	URL: https://chartink.com/stocks/eidparry.html
+	Change % Since: -14.31
+    2. RADHIKAJWE:
+	URL: https://chartink.com/stocks/radhikajwe.html
+	Change % Since: -23.56
+    3. STARCEMENT:
+	URL: https://chartink.com/stocks/starcement.html
+	Change % Since: -4.61
+    4. ASKAUTOLTD:
+	URL: https://chartink.com/stocks/askautoltd.html
+	Change % Since: -5.27
+    5. COFORGE:
+	URL: https://chartink.com/stocks/coforge.html
+	Change % Since: -13.37
+
+21 interval ago on 06-02-2025, new stocks found:
+    1. TVSELECT:
+	URL: https://chartink.com/stocks/tvselect.html
+	Change % Since: -25.39
+    2. FSL:
+	URL: https://chartink.com/stocks/fsl.html
+	Change % Since: -19.95
+    3. RGL:
+	URL: https://chartink.com/stocks/rgl.html
+	Change % Since: -32.4
+    4. APOLLO:
+	URL: https://chartink.com/stocks/apollo.html
+	Change % Since: -12.28
+
+20 interval ago on 07-02-2025, new stocks found:
+    1. KIRLOSBROS:
+	URL: https://chartink.com/stocks/kirlosbros.html
+	Change % Since: -19.95
+    2. BIL:
+	URL: https://chartink.com/stocks/bil.html
+	Change % Since: -29.24
+
+19 interval ago on 10-02-2025, new stocks found:
+    1. GHCL:
+	URL: https://chartink.com/stocks/ghcl.html
+	Change % Since: -13.53
+    2. UBL:
+	URL: https://chartink.com/stocks/ubl.html
+	Change % Since: -8.3
+    3. JSWHL:
+	URL: https://chartink.com/stocks/jswhl.html
+	Change % Since: 21.29
+
+17 interval ago on 13-02-2025, new stocks found:
+    1. CRISIL:
+	URL: https://chartink.com/stocks/crisil.html
+	Change % Since: -13.76
+
+16 interval ago on 14-02-2025, new stocks found:
+    1. BHARTIHEXA:
+	URL: https://chartink.com/stocks/bhartihexa.html
+	Change % Since: -0.83
+
+13 interval ago on 19-02-2025, new stocks found:
+    1. ERIS:
+	URL: https://chartink.com/stocks/eris.html
+	Change % Since: -1.57
+    2. DEEPINDS:
+	URL: https://chartink.com/stocks/deepinds.html
+	Change % Since: -7.48
+    3. SRF:
+	URL: https://chartink.com/stocks/srf.html
+	Change % Since: 10.38
+    4. CHOICEIN:
+	URL: https://chartink.com/stocks/choicein.html
+	Change % Since: -2.22
+    5. PERSISTENT:
+	URL: https://chartink.com/stocks/persistent.html
+	Change % Since: -12.42
+
+12 interval ago on 20-02-2025, new stocks found:
+    1. SVLL:
+	URL: https://chartink.com/stocks/svll.html
+	Change % Since: -2.87
+    2. RPGLIFE:
+	URL: https://chartink.com/stocks/rpglife.html
+	Change % Since: -9.17
+    3. ESTER:
+	URL: https://chartink.com/stocks/ester.html
+	Change % Since: -19.98
+    4. KARURVYSYA:
+	URL: https://chartink.com/stocks/karurvysya.html
+	Change % Since: -9.68
+    5. COROMANDEL:
+	URL: https://chartink.com/stocks/coromandel.html
+	Change % Since: 8.49
+
+11 interval ago on 21-02-2025, new stocks found:
+    1. CAPLIPOINT:
+	URL: https://chartink.com/stocks/caplipoint.html
+	Change % Since: -8.89
+    2. DICIND:
+	URL: https://chartink.com/stocks/dicind.html
+	Change % Since: 1.57
+    3. DCAL:
+	URL: https://chartink.com/stocks/dcal.html
+	Change % Since: -4.02
+    4. GMRP&UI:
+	URL: https://chartink.com/stocks/gmrp&ui.html
+	Change % Since: -7.64
+    5. JLHL:
+	URL: https://chartink.com/stocks/jlhl.html
+	Change % Since: 2.46
+
+9 interval ago on 27-02-2025, new stocks found:
+    1. PARSVNATH:
+	URL: https://chartink.com/stocks/parsvnath.html
+	Change % Since: -5.91
+
+6 interval ago on 05-03-2025, new stocks found:
+    1. GHCL:
+	URL: https://chartink.com/stocks/ghcl.html
+	Change % Since: -6.0
+    2. AIIL:
+	URL: https://chartink.com/stocks/aiil.html
+	Change % Since: -1.54
+
+5 interval ago on 06-03-2025, new stocks found:
+    1. MEDICAMEQ:
+	URL: https://chartink.com/stocks/medicameq.html
+	Change % Since: -14.5
+    2. SUVENPHAR:
+	URL: https://chartink.com/stocks/suvenphar.html
+	Change % Since: -2.53
+    3. INDOTHAI:
+	URL: https://chartink.com/stocks/indothai.html
+	Change % Since: -1.49
+
+4 interval ago on 07-03-2025, new stocks found:
+    1. SIMPLEXINF:
+	URL: https://chartink.com/stocks/simplexinf.html
+	Change % Since: 6.15
+
+2 interval ago on 13-03-2025, new stocks found:
+    1. SHREEPUSHK:
+	URL: https://chartink.com/stocks/shreepushk.html
+	Change % Since: -3.79
+
+1 interval ago on 19-03-2025, new stocks found:
+    1. REDINGTON:
+	URL: https://chartink.com/stocks/redington.html
+	Date 2025-03-19 not found in data, using the last available close price.
+	Change % Since: -0.0
+
+Higher % Stocks:
+	- JSWHL: 21.29%
+	- SRF: 10.38%
+	- COROMANDEL: 8.49%
+	- SIMPLEXINF: 6.15%
+	- JLHL: 2.46%
+	- DICIND: 1.57%
+	- REDINGTON: -0.0%
+	- BHARTIHEXA: -0.83%
+	- INDOTHAI: -1.49%
+	- AIIL: -1.54%
+	- ERIS: -1.57%
+	- CHOICEIN: -2.22%
+	- SUVENPHAR: -2.53%
+	- SVLL: -2.87%
+	- SHREEPUSHK: -3.79%
+	- DCAL: -4.02%
+	- STARCEMENT: -4.61%
+	- ASKAUTOLTD: -5.27%
+	- PARSVNATH: -5.91%
+	- DEEPINDS: -7.48%
+	- GMRP&UI: -7.64%
+	- UBL: -8.3%
+	- CAPLIPOINT: -8.89%
+	- MEDPLUS: -8.93%
+	- RPGLIFE: -9.17%
+	- KARURVYSYA: -9.68%
+	- BIOCON: -10.04%
+	- APOLLO: -12.28%
+	- PERSISTENT: -12.42%
+	- COFORGE: -13.37%
+	- GHCL: -13.53%
+	- CRISIL: -13.76%
+	- EIDPARRY: -14.31%
+	- MEDICAMEQ: -14.5%
+	- FSL: -19.95%
+	- KIRLOSBROS: -19.95%
+	- ESTER: -19.98%
+	- RADHIKAJWE: -23.56%
+	- TVSELECT: -25.39%
+	- WELENT: -26.15%
+	- BIL: -29.24%
+	- CYBERTECH: -30.21%
+	- RGL: -32.4%
+
+11) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-volume-in-last-3-years/2025.03.24.csv
+
+
+25 interval ago on 15-01-2025, new stocks found:
+    1. VTL:
+	URL: https://chartink.com/stocks/vtl.html
+	Change % Since: -16.59
+
+24 interval ago on 17-01-2025, new stocks found:
+    1. BLS:
+	URL: https://chartink.com/stocks/bls.html
+	Change % Since: -20.81
+
+23 interval ago on 24-01-2025, new stocks found:
+    1. CGCL:
+	URL: https://chartink.com/stocks/cgcl.html
+	Change % Since: -16.88
+    2. CYIENT:
+	URL: https://chartink.com/stocks/cyient.html
+	Change % Since: -2.09
+
+22 interval ago on 27-01-2025, new stocks found:
+    1. LAURUSLABS:
+	URL: https://chartink.com/stocks/lauruslabs.html
+	Change % Since: 14.32
+
+19 interval ago on 06-02-2025, new stocks found:
+    1. GLAXO:
+	URL: https://chartink.com/stocks/glaxo.html
+	Change % Since: 29.86
+
+18 interval ago on 14-02-2025, new stocks found:
+    1. GODFRYPHLP:
+	URL: https://chartink.com/stocks/godfryphlp.html
+	Change % Since: 4.32
+
+15 interval ago on 21-02-2025, new stocks found:
+    1. GODREJIND:
+	URL: https://chartink.com/stocks/godrejind.html
+	Change % Since: 6.62
+
+14 interval ago on 24-02-2025, new stocks found:
+    1. PFIZER:
+	URL: https://chartink.com/stocks/pfizer.html
+	Change % Since: -1.8
+
+13 interval ago on 27-02-2025, new stocks found:
+    1. KEI:
+	URL: https://chartink.com/stocks/kei.html
+	Change % Since: -3.63
+
+12 interval ago on 28-02-2025, new stocks found:
+    1. KSB:
+	URL: https://chartink.com/stocks/ksb.html
+	Change % Since: 16.77
+
+11 interval ago on 03-03-2025, new stocks found:
+    1. NH:
+	URL: https://chartink.com/stocks/nh.html
+	Change % Since: 2.98
+
+10 interval ago on 07-03-2025, new stocks found:
+    1. KPIL:
+	URL: https://chartink.com/stocks/kpil.html
+	Change % Since: 4.55
+
+9 interval ago on 10-03-2025, new stocks found:
+    1. SUNDRMFAST:
+	URL: https://chartink.com/stocks/sundrmfast.html
+	Change % Since: -1.41
+
+8 interval ago on 11-03-2025, new stocks found:
+    1. CHENNPETRO:
+	URL: https://chartink.com/stocks/chennpetro.html
+	Change % Since: 14.77
+    2. INDUSINDBK:
+	URL: https://chartink.com/stocks/indusindbk.html
+	Change % Since: 4.72
+
+7 interval ago on 12-03-2025, new stocks found:
+    1. NACLIND:
+	URL: https://chartink.com/stocks/naclind.html
+	Change % Since: 27.75
+
+6 interval ago on 13-03-2025, new stocks found:
+    1. CARYSIL:
+	URL: https://chartink.com/stocks/carysil.html
+	Change % Since: 8.64
+
+5 interval ago on 17-03-2025, new stocks found:
+    1. ELGIEQUIP:
+	URL: https://chartink.com/stocks/elgiequip.html
+	Change % Since: -2.23
+
+4 interval ago on 19-03-2025, new stocks found:
+    1. MAHLIFE:
+	URL: https://chartink.com/stocks/mahlife.html
+	Change % Since: 3.63
+
+2 interval ago on 21-03-2025, new stocks found:
+    1. MANAPPURAM:
+	URL: https://chartink.com/stocks/manappuram.html
+	Change % Since: 0.0
+
+1 interval ago on 24-03-2025, new stocks found:
+    1. FINCABLES:
+	URL: https://chartink.com/stocks/fincables.html
+	Date 2025-03-24 not found in data, using the last available close price.
+	Change % Since: 0.0
+
+Higher % Stocks:
+	- GLAXO: 29.86%
+	- NACLIND: 27.75%
+	- KSB: 16.77%
+	- CHENNPETRO: 14.77%
+	- LAURUSLABS: 14.32%
+	- CARYSIL: 8.64%
+	- GODREJIND: 6.62%
+	- INDUSINDBK: 4.72%
+	- KPIL: 4.55%
+	- GODFRYPHLP: 4.32%
+	- MAHLIFE: 3.63%
+	- NH: 2.98%
+	- MANAPPURAM: 0.0%
+	- FINCABLES: 0.0%
+	- SUNDRMFAST: -1.41%
+	- PFIZER: -1.8%
+	- CYIENT: -2.09%
+	- ELGIEQUIP: -2.23%
+	- KEI: -3.63%
+	- VTL: -16.59%
+	- CGCL: -16.88%
+	- BLS: -20.81%
