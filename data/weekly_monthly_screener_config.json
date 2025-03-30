@@ -17,5 +17,9 @@
 "stocks-consolidating-above-10wema": {
     "url": "https://chartink.com/screener/stocks-consolidating-above-10wema",
     "folder": "stocks-consolidating-above-10wema"
-  }
+  },
+"earning-surprises": {
+	"url": "https://chartink.com/screener/earning-surprises-based-on-sandip-biswas",
+	"folder": "earning-suprises"
+}
 }
