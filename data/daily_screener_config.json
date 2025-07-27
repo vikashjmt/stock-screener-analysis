@@ -2,6 +2,10 @@
     "url": "https://chartink.com/screener/stocks-trending-above-10-ema-for-a-month",
     "folder": "above_10ema_for_a_month"
 },
+"most-of-the-days-above-10-ema": {
+    "url": "https://chartink.com/screener/most-of-the-days-above-10-ema",
+    "folder": "most-of-the-days-above-10-ema"
+},
 "all_emas_in_daily_weekly_monthly_trending": {
     "url": "https://chartink.com/screener/all-emas-in-all-candles-trending",
     "folder": "all_emas_in_daily_weekly_monthly_trending"
@@ -41,5 +45,17 @@
 "highest-volume-in-last-3-years": {
     "url": "https://chartink.com/screener/high-volume-in-last-3-years",
     "folder": "highest-volume-in-last-3-years"
-    }
+    },
+"10-ema-crossed-after-getting-support-from-50-ema": {
+   "url": "https://chartink.com/screener/10-ema-crossed-after-getting-support-from-50-ema",
+   "folder": "10-ema-crossed-after-getting-support-from-50-ema"
+},
+"3-months-high-crossed-today": {
+    "url": "https://chartink.com/screener/3-months-high-crossed-today",
+    "folder": "3-months-high-crossed-today"
+},
+"trending-10-21-50-200": {
+    "url": "https://chartink.com/screener/trending-10-21-50-200",
+    "folder": "trending-10-21-50-200"
+}
 }

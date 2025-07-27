@@ -6,7 +6,7 @@ import sys
 import time
 import pytz
 import requests_cache
-import yfinance as yf
+# import yfinance as yf
 import pandas as pd
 import numpy as np
 
@@ -199,7 +199,7 @@ def update_date_if_market_holiday(date_str):
         return date_str
 
 
-def safe_yf_download(tickers, session, start_date, end_date, max_retries=6, retry_delay=randint(15,45)):
+def safe_yf_download(tickers, session, start_date, end_date, max_retries=6, retry_delay=randint(15, 45)):
     attempt = 0
     while attempt < max_retries:
         try:
@@ -241,6 +241,7 @@ def get_stocks_price_data(stocks_data, start_date, end_date):
             stocks_price_data[stock_ticker] = historical_data[stock_ticker]
 
     return stocks_price_data
+
 
 def get_stocks_in_history_data(date_details, history_dates):
     return {stock
@@ -286,33 +287,33 @@ if __name__ == "__main__":
         end_date = '-'.join(val for val in list_of_date[-1].split('-')[::-1])
         # ic(end_date)
         # ic(stocks_in_history_days)
-        tickers = get_stocks_price_data(stocks_in_history_days, start_date,
-                                        end_date)
-        # ic(history_days)
+        # tickers = get_stocks_price_data(stocks_in_history_days, start_date,
+        #   end_date)
+                # ic(history_days)
         list_of_date = list(date_details.keys())
         for index in range(total_days-history_days, total_days):
             # date = list_of_date[index]
             # ic(date)
             # ic(index)
-            current_date = list_of_date[index]
+            current_date= list_of_date[index]
             # TODO : Optimize it later
             # Calling twice to avoid rare case of Friday to be holiday
             # current_date = update_date_if_market_holiday(current_date)
             ic(current_date)
-            count_details = get_appearance_count(stocks_data,
-                                                 date_details,
+            count_details= get_appearance_count(stocks_data,
+                                                date_details,
                                                  current_date)
-            # ic(count_details)
+                                                 # ic(count_details)
             new_stocks = get_new_stocks(
                 count_details)
-            date_format = '-'.join(val for val in current_date.split('-')
-                                   [::-1])
+            date_format = '-'.join(val for val in current_date.split('-')[
+                                                                    ::-1])
             if new_stocks:
-                print(
-                    f'\n{total_days - index} interval ago on {current_date}, new stocks found:')
-            for index, stock in enumerate(new_stocks):
-                print(f'    {index + 1}. {stock}:')
-                print(f'\tURL: {construct_urls(stock)}')
+                print(f'\n{total_days - index} interval ago on {current_date}, new stocks found:')
+                for index, stock in enumerate(new_stocks):
+                    print(f'    {index + 1}. {stock}:')
+                    print(f'\tURL: {construct_urls(stock)}')
+                    '''
                 # time.sleep(2)
                 try:
                     change_percent = get_price_change_percentage(f'{stock}.NS',
@@ -336,11 +337,12 @@ if __name__ == "__main__":
         # Sort more trending stocks
         # TODO :Get value of top from user, currently 10
         '''
+                    '''
         high_trending_stocks = sort_based_on_appearance_count(stocks_data,
                                                              sorted_date_details,
                                                              top=100)
         print('\nhigh_trending_stocks :', high_trending_stocks)
         '''
-        # for stock in high_trending_stocks:
-        #     print(f'\t{construct_urls(stock)}')
-        #
+                    # for stock in high_trending_stocks:
+                    #     print(f'\t{construct_urls(stock)}')
+                    #
