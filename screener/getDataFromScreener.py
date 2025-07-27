@@ -312,7 +312,7 @@ if __name__ == "__main__":
                 print(f'\n{total_days - index} interval ago on {current_date}, new stocks found:')
                 for index, stock in enumerate(new_stocks):
                     print(f'    {index + 1}. {stock}:')
-                    print(f'\tURL: {construct_urls(stock)}')
+                    # print(f'\tURL: {construct_urls(stock)}')
                     '''
                 # time.sleep(2)
                 try:

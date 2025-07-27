@@ -45,7 +45,7 @@ jobs:
           # Download latest screeners
           python3 data/download_screener.py data/daily_screener_config.json
           # Analyse the latest screeners and save result in a file
-          python3 screener/getDataFromScreener.py --input-csvs-file data/downloaded_csvs.json --history-days 5 >> "$report_file"
+          python3 screener/getDataFromScreener.py --input-csvs-file data/downloaded_csvs.json --history-days 1 >> "$report_file"
           # Send Telegram Message
           python3 send_telegram.py $report_file
           cp $report_file Report/latest
