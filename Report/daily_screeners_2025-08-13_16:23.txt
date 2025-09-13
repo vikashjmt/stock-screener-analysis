@@ -1,0 +1,130 @@
+
+1) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/above_10ema_for_a_month/2025.08.13.csv
+
+
+1 interval ago on 13-08-2025, new stocks found:
+    1. RBLBANK:
+
+2) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/most-of-the-days-above-10-ema/2025.08.13.csv
+
+
+3) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/all_emas_in_daily_weekly_monthly_trending/2025.08.13.csv
+
+
+1 interval ago on 13-08-2025, new stocks found:
+    1. WINDLAS:
+    2. POONAWALLA:
+
+4) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/crossed-200-ema-and-gone-bullish/2025.08.13.csv
+
+
+1 interval ago on 13-08-2025, new stocks found:
+    1. RUSTOMJEE:
+
+5) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/bullish-stocks-respecting-10ema/2025.08.13.csv
+
+
+1 interval ago on 13-08-2025, new stocks found:
+    1. CAPLIPOINT:
+    2. SUNDARMHLD:
+    3. NYKAA:
+    4. DELHIVERY:
+    5. JSLL:
+    6. ACMESOLAR:
+    7. ANTHEM:
+
+6) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/price-crossed-above-10-ema-and-10-21-50-150-200-sequence-12/2025.08.13.csv
+
+
+1 interval ago on 13-08-2025, new stocks found:
+    1. KRBL:
+    2. SAILIFE:
+
+7) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-cross-10-ema-20-days-ago-and-continuing-above-it/2025.08.13.csv
+
+
+1 interval ago on 12-08-2025, new stocks found:
+    1. HCG:
+
+8) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-price-in-last-3-months-and-bullish-character/2025.08.13.csv
+
+
+1 interval ago on 13-08-2025, new stocks found:
+    1. AGIIL:
+    2. JMFINANCIL:
+    3. EIHOTEL:
+    4. APOLLOHOSP:
+
+9) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-above-10-21-50-200-first-time-in-a-month/2025.08.13.csv
+
+
+1 interval ago on 13-08-2025, new stocks found:
+    1. ASIANENE:
+    2. ARVINDFASN:
+
+10) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/copy-peak-obv-52weeks-high-79/2025.08.13.csv
+
+
+1 interval ago on 13-08-2025, new stocks found:
+    1. HBLENGINE:
+    2. TVSMOTOR:
+    3. CRAFTSMAN:
+
+11) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/high-obv-reversal-stocks/2025.08.13.csv
+
+
+1 interval ago on 13-08-2025, new stocks found:
+    1. INDRAMEDCO:
+    2. SHARDACROP:
+    3. VIJAYA:
+    4. TARIL:
+    5. TATVA:
+    6. NCLIND:
+    7. SCI:
+    8. GMDCLTD:
+    9. BOMDYEING:
+    10. PATANJALI:
+    11. GMMPFAUDLR:
+    12. VERANDA:
+    13. LLOYDSME:
+    14. BUTTERFLY:
+    15. AARTIDRUGS:
+    16. CAPITALSFB:
+    17. PNBGILTS:
+    18. FIEMIND:
+    19. EMAMIREAL:
+    20. VSSL:
+    21. SOLARA:
+    22. SUMICHEM:
+    23. GLAND:
+    24. EPIGRAL:
+
+12) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-volume-in-last-3-years/2025.08.13.csv
+
+
+1 interval ago on 13-08-2025, new stocks found:
+    1. JMFINANCIL:
+
+13) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/10-ema-crossed-after-getting-support-from-50-ema/2025.08.13.csv
+
+
+1 interval ago on 13-08-2025, new stocks found:
+    1. JMFINANCIL:
+    2. UNIPARTS:
+    3. TVSSCS:
+    4. HONASA:
+    5. GOKULAGRO:
+    6. CREDITACC:
+
+14) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/3-months-high-crossed-today/2025.08.13.csv
+
+
+1 interval ago on 11-08-2025, new stocks found:
+    1. HBLENGINE:
+    2. GEPIL:
+
+15) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/trending-10-21-50-200/2025.08.13.csv
+
+
+1 interval ago on 13-08-2025 3:15 pm, new stocks found:
+    1. GOPAL:

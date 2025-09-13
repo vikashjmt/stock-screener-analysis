@@ -1,0 +1,94 @@
+
+1) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/above_10ema_for_a_month/2025.07.29.csv
+
+
+1 interval ago on 29-07-2025, new stocks found:
+    1. FMGOETZE:
+    2. SAMHI:
+
+2) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/most-of-the-days-above-10-ema/2025.07.29.csv
+
+
+3) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/all_emas_in_daily_weekly_monthly_trending/2025.07.29.csv
+
+
+4) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/crossed-200-ema-and-gone-bullish/2025.07.29.csv
+
+
+1 interval ago on 29-07-2025, new stocks found:
+    1. NAVNETEDUL:
+    2. GODAVARIB:
+    3. KALYANKJIL:
+
+5) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/bullish-stocks-respecting-10ema/2025.07.29.csv
+
+
+1 interval ago on 29-07-2025, new stocks found:
+    1. THYROCARE:
+
+6) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/price-crossed-above-10-ema-and-10-21-50-150-200-sequence-12/2025.07.29.csv
+
+
+1 interval ago on 29-07-2025, new stocks found:
+    1. SENORES:
+    2. ZYDUSLIFE:
+    3. POCL:
+
+7) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-cross-10-ema-20-days-ago-and-continuing-above-it/2025.07.29.csv
+
+
+8) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-price-in-last-3-months-and-bullish-character/2025.07.29.csv
+
+
+1 interval ago on 29-07-2025, new stocks found:
+    1. DHANUKA:
+    2. BOSCHLTD:
+    3. EXCELINDUS:
+    4. TATACHEM:
+    5. GUJTHEM:
+    6. MANINDS:
+    7. FLAIR:
+
+9) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-above-10-21-50-200-first-time-in-a-month/2025.07.29.csv
+
+
+1 interval ago on 29-07-2025, new stocks found:
+    1. BAYERCROP:
+    2. FDC:
+
+10) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/copy-peak-obv-52weeks-high-79/2025.07.29.csv
+
+
+1 interval ago on 29-07-2025, new stocks found:
+    1. AFFLE:
+    2. PRIVISCL:
+    3. DEEPAKFERT:
+
+11) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/high-obv-reversal-stocks/2025.07.29.csv
+
+
+1 interval ago on 29-07-2025, new stocks found:
+    1. GODFRYPHLP:
+    2. KRYSTAL:
+
+12) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-volume-in-last-3-years/2025.07.29.csv
+
+
+1 interval ago on 29-07-2025, new stocks found:
+    1. BELRISE:
+
+13) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/10-ema-crossed-after-getting-support-from-50-ema/2025.07.29.csv
+
+
+1 interval ago on 28-07-2025, new stocks found:
+    1. DRREDDY:
+    2. GRAVITA:
+
+14) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/3-months-high-crossed-today/2025.07.29.csv
+
+
+1 interval ago on 29-07-2025, new stocks found:
+    1. TATACHEM:
+
+15) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/trending-10-21-50-200/2025.07.29.csv
+

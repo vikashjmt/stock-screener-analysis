@@ -1,0 +1,96 @@
+
+1) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/above_10ema_for_a_month/2025.09.02.csv
+
+
+2) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/most-of-the-days-above-10-ema/2025.09.02.csv
+
+
+3) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/all_emas_in_daily_weekly_monthly_trending/2025.09.02.csv
+
+
+1 interval ago on 02-09-2025, new stocks found:
+    1. ASHAPURMIN:
+    2. AMBER:
+    3. KEI:
+
+4) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/crossed-200-ema-and-gone-bullish/2025.09.02.csv
+
+
+1 interval ago on 02-09-2025, new stocks found:
+    1. ESCORTS:
+
+5) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/bullish-stocks-respecting-10ema/2025.09.02.csv
+
+
+1 interval ago on 02-09-2025, new stocks found:
+    1. AGIIL:
+    2. CCL:
+    3. ARVINDFASN:
+    4. 3MINDIA:
+    5. HINDWAREAP:
+
+6) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/price-crossed-above-10-ema-and-10-21-50-150-200-sequence-12/2025.09.02.csv
+
+
+1 interval ago on 29-08-2025, new stocks found:
+    1. ASIANENE:
+
+7) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-cross-10-ema-20-days-ago-and-continuing-above-it/2025.09.02.csv
+
+
+1 interval ago on 02-09-2025, new stocks found:
+    1. SMLISUZU:
+    2. CCL:
+
+8) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-price-in-last-3-months-and-bullish-character/2025.09.02.csv
+
+
+1 interval ago on 02-09-2025, new stocks found:
+    1. MRF:
+    2. JAICORPLTD:
+    3. BALMLAWRIE:
+    4. VIMTALABS:
+
+9) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-above-10-21-50-200-first-time-in-a-month/2025.09.02.csv
+
+
+10) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/copy-peak-obv-52weeks-high-79/2025.09.02.csv
+
+
+1 interval ago on 02-09-2025, new stocks found:
+    1. RBLBANK:
+
+11) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/high-obv-reversal-stocks/2025.09.02.csv
+
+
+1 interval ago on 02-09-2025, new stocks found:
+    1. WABAG:
+    2. SCHAEFFLER:
+    3. DMCC:
+    4. KALAMANDIR:
+
+12) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-volume-in-last-3-years/2025.09.02.csv
+
+
+1 interval ago on 02-09-2025, new stocks found:
+    1. JAYNECOIND:
+
+13) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/10-ema-crossed-after-getting-support-from-50-ema/2025.09.02.csv
+
+
+1 interval ago on 02-09-2025, new stocks found:
+    1. JINDALPOLY:
+    2. XPROINDIA:
+
+14) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/3-months-high-crossed-today/2025.09.02.csv
+
+
+1 interval ago on 02-09-2025, new stocks found:
+    1. HEROMOTOCO:
+    2. NATIONALUM:
+
+15) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/trending-10-21-50-200/2025.09.02.csv
+
+
+1 interval ago on 02-09-2025 3:15 pm, new stocks found:
+    1. DODLA:

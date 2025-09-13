@@ -1,0 +1,81 @@
+
+1) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/weekly_first_time_10_21_50_200/2025.08.22.csv
+
+
+2 interval ago on 11-08-2025, new stocks found:
+    1. METROPOLIS:
+    2. NLCINDIA:
+    3. SENORES:
+    4. INFOBEAN:
+
+1 interval ago on 18-08-2025, new stocks found:
+    1. KAJARIACER:
+    2. TEMBO:
+    3. KEI:
+    4. GRMOVER:
+    5. INNOVANA:
+
+2) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/monthly_candle_crossed_200ema_and_close_greater_than_52_weeks_high/2025.08.22.csv
+
+
+2 interval ago on 02-06-2025, new stocks found:
+    1. SAMHI:
+    2. THYROCARE:
+
+1 interval ago on 01-07-2025, new stocks found:
+    1. FMGOETZE:
+    2. IXIGO:
+    3. ABDL:
+    4. PARAGMILK:
+    5. SHANKARA:
+
+3) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/monthly_candle_crossed_200ema/2025.08.22.csv
+
+
+2 interval ago on 01-07-2025, new stocks found:
+    1. SHK:
+    2. THYROCARE:
+    3. ARKADE:
+    4. LLOYDSENT:
+    5. SAMHI:
+    6. VMM:
+    7. SANATHAN:
+    8. REPCOHOME:
+    9. RPEL:
+
+1 interval ago on 01-08-2025, new stocks found:
+    1. NAVKARCORP:
+    2. YASHO:
+    3. DCAL:
+    4. EIEL:
+    5. MEDIASSIST:
+    6. UDAICEMENT:
+    7. GODIGIT:
+    8. IXIGO:
+    9. ABDL:
+    10. WAAREEENER:
+    11. TRANSRAILL:
+    12. QPOWER:
+
+4) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/multi_Year_top_breakout_current_month/2025.08.22.csv
+
+
+5) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-consolidating-above-10wema/2025.08.22.csv
+
+
+2 interval ago on 11-08-2025, new stocks found:
+    1. PVRINOX:
+    2. LALPATHLAB:
+    3. MEDANTA:
+
+6) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/earning-suprises/2025.08.22.csv
+
+
+2 interval ago on 01-04-2025, new stocks found:
+    1. KRISHANA:
+    2. GENUSPOWER:
+    3. EMBDL:
+
+1 interval ago on 01-07-2025, new stocks found:
+    1. DBREALTY:
+    2. NSLNISP:

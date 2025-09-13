@@ -1,0 +1,100 @@
+
+1) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/above_10ema_for_a_month/2025.08.08.csv
+
+
+1 interval ago on 08-08-2025, new stocks found:
+    1. ZOTA:
+    2. GODFRYPHLP:
+    3. INDIACEM:
+    4. DATAMATICS:
+    5. POCL:
+
+2) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/most-of-the-days-above-10-ema/2025.08.08.csv
+
+
+1 interval ago on 08-08-2025, new stocks found:
+    1. CUPID:
+
+3) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/all_emas_in_daily_weekly_monthly_trending/2025.08.08.csv
+
+
+4) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/crossed-200-ema-and-gone-bullish/2025.08.08.csv
+
+
+5) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/bullish-stocks-respecting-10ema/2025.08.08.csv
+
+
+1 interval ago on 08-08-2025, new stocks found:
+    1. KINGFA:
+
+6) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/price-crossed-above-10-ema-and-10-21-50-150-200-sequence-12/2025.08.08.csv
+
+
+1 interval ago on 08-08-2025, new stocks found:
+    1. GODFRYPHLP:
+    2. NAZARA:
+
+7) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-cross-10-ema-20-days-ago-and-continuing-above-it/2025.08.08.csv
+
+
+1 interval ago on 08-08-2025, new stocks found:
+    1. RAMCOIND:
+    2. ECLERX:
+
+8) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-price-in-last-3-months-and-bullish-character/2025.08.08.csv
+
+
+1 interval ago on 08-08-2025, new stocks found:
+    1. KRBL:
+
+9) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-above-10-21-50-200-first-time-in-a-month/2025.08.08.csv
+
+
+1 interval ago on 08-08-2025, new stocks found:
+    1. SARDAEN:
+    2. NAVNETEDUL:
+    3. PICCADIL:
+
+10) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/copy-peak-obv-52weeks-high-79/2025.08.08.csv
+
+
+1 interval ago on 08-08-2025, new stocks found:
+    1. INDIASHLTR:
+
+11) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/high-obv-reversal-stocks/2025.08.08.csv
+
+
+1 interval ago on 08-08-2025, new stocks found:
+    1. GLOBUSSPR:
+    2. SPMLINFRA:
+    3. FEDFINA:
+    4. KRYSTAL:
+    5. BOROSCI:
+    6. INDIAMART:
+
+12) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-volume-in-last-3-years/2025.08.08.csv
+
+
+1 interval ago on 08-08-2025, new stocks found:
+    1. BAJAJCON:
+    2. HIRECT:
+    3. KRBL:
+    4. DATAMATICS:
+
+13) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/10-ema-crossed-after-getting-support-from-50-ema/2025.08.08.csv
+
+
+1 interval ago on 08-08-2025, new stocks found:
+    1. CENTUM:
+
+14) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/3-months-high-crossed-today/2025.08.08.csv
+
+
+1 interval ago on 07-08-2025, new stocks found:
+    1. RAIN:
+
+15) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/trending-10-21-50-200/2025.08.08.csv
+
+
+1 interval ago on 08-08-2025 3:15 pm, new stocks found:
+    1. UEL:

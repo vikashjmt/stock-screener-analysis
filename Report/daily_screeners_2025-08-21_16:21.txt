@@ -1,0 +1,131 @@
+
+1) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/above_10ema_for_a_month/2025.08.21.csv
+
+
+1 interval ago on 21-08-2025, new stocks found:
+    1. TEGA:
+
+2) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/most-of-the-days-above-10-ema/2025.08.21.csv
+
+
+3) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/all_emas_in_daily_weekly_monthly_trending/2025.08.21.csv
+
+
+1 interval ago on 21-08-2025, new stocks found:
+    1. FSL:
+    2. EIEL:
+    3. RAMRAT:
+    4. STAR:
+    5. PRUDENT:
+    6. CGPOWER:
+    7. SHARDAMOTR:
+    8. MPHASIS:
+
+4) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/crossed-200-ema-and-gone-bullish/2025.08.21.csv
+
+
+1 interval ago on 21-08-2025, new stocks found:
+    1. PROSTARM:
+    2. MUKANDLTD:
+    3. SAURASHCEM:
+    4. PNBGILTS:
+
+5) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/bullish-stocks-respecting-10ema/2025.08.21.csv
+
+
+1 interval ago on 21-08-2025, new stocks found:
+    1. SANATHAN:
+    2. RAMCOIND:
+    3. SCI:
+    4. EVEREADY:
+    5. KIRLOSENG:
+
+6) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/price-crossed-above-10-ema-and-10-21-50-150-200-sequence-12/2025.08.21.csv
+
+
+1 interval ago on 21-08-2025, new stocks found:
+    1. PENIND:
+    2. CCL:
+
+7) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-cross-10-ema-20-days-ago-and-continuing-above-it/2025.08.21.csv
+
+
+1 interval ago on 21-08-2025, new stocks found:
+    1. MEDANTA:
+    2. GABRIEL:
+    3. BLACKBUCK:
+
+8) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-price-in-last-3-months-and-bullish-character/2025.08.21.csv
+
+
+1 interval ago on 21-08-2025, new stocks found:
+    1. NAVA:
+
+9) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-above-10-21-50-200-first-time-in-a-month/2025.08.21.csv
+
+
+1 interval ago on 21-08-2025, new stocks found:
+    1. RAINBOW:
+
+10) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/copy-peak-obv-52weeks-high-79/2025.08.21.csv
+
+
+1 interval ago on 21-08-2025, new stocks found:
+    1. NAVA:
+    2. RAMCOIND:
+    3. SBILIFE:
+
+11) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/high-obv-reversal-stocks/2025.08.21.csv
+
+
+1 interval ago on 21-08-2025, new stocks found:
+    1. DATAMATICS:
+    2. SAMHI:
+    3. KERNEX:
+
+12) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-volume-in-last-3-years/2025.08.21.csv
+
+
+1 interval ago on 21-08-2025, new stocks found:
+    1. BOMDYEING:
+
+13) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/10-ema-crossed-after-getting-support-from-50-ema/2025.08.21.csv
+
+
+1 interval ago on 21-08-2025, new stocks found:
+    1. SHARDAMOTR:
+    2. EXIDEIND:
+    3. ESABINDIA:
+    4. FOSECOIND:
+    5. RELIANCE:
+    6. UPL:
+    7. IKIO:
+    8. SURAJEST:
+    9. RAYMONDLSL:
+    10. IIFL:
+    11. BLKASHYAP:
+    12. PFS:
+    13. PARAGMILK:
+    14. DYCL:
+    15. SANSERA:
+    16. LATENTVIEW:
+
+14) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/3-months-high-crossed-today/2025.08.21.csv
+
+
+1 interval ago on 21-08-2025, new stocks found:
+    1. CIPLA:
+    2. JAICORPLTD:
+    3. LANDMARK:
+    4. SWIGGY:
+    5. PVRINOX:
+    6. KIOCL:
+
+15) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/trending-10-21-50-200/2025.08.21.csv
+
+
+1 interval ago on 21-08-2025 3:15 pm, new stocks found:
+    1. TVSHLTD:
+    2. SENCO:
+    3. FACT:
+    4. DCAL:

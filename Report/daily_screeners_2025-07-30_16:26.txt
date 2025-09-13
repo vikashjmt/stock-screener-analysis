@@ -1,0 +1,114 @@
+
+1) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/above_10ema_for_a_month/2025.07.30.csv
+
+
+1 interval ago on 30-07-2025, new stocks found:
+    1. SCHNEIDER:
+
+2) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/most-of-the-days-above-10-ema/2025.07.30.csv
+
+
+1 interval ago on 30-07-2025, new stocks found:
+    1. SIRCA:
+
+3) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/all_emas_in_daily_weekly_monthly_trending/2025.07.30.csv
+
+
+1 interval ago on 30-07-2025, new stocks found:
+    1. DRREDDY:
+
+4) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/crossed-200-ema-and-gone-bullish/2025.07.30.csv
+
+
+1 interval ago on 30-07-2025, new stocks found:
+    1. TATACOMM:
+    2. VIPIND:
+    3. APCOTEXIND:
+    4. DPABHUSHAN:
+    5. GALAXYSURF:
+
+5) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/bullish-stocks-respecting-10ema/2025.07.30.csv
+
+
+1 interval ago on 30-07-2025, new stocks found:
+    1. MPHASIS:
+    2. AFFLE:
+    3. TARIL:
+    4. POWERINDIA:
+    5. HEIDELBERG:
+    6. GOODLUCK:
+    7. EVEREADY:
+    8. AJANTPHARM:
+
+6) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/price-crossed-above-10-ema-and-10-21-50-150-200-sequence-12/2025.07.30.csv
+
+
+7) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-cross-10-ema-20-days-ago-and-continuing-above-it/2025.07.30.csv
+
+
+1 interval ago on 30-07-2025, new stocks found:
+    1. PRIVISCL:
+    2. DPABHUSHAN:
+
+8) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-price-in-last-3-months-and-bullish-character/2025.07.30.csv
+
+
+1 interval ago on 30-07-2025, new stocks found:
+    1. NAVINFLUOR:
+    2. GMMPFAUDLR:
+    3. SIRCA:
+    4. RAMCOIND:
+    5. SCHNEIDER:
+
+9) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-above-10-21-50-200-first-time-in-a-month/2025.07.30.csv
+
+
+1 interval ago on 30-07-2025, new stocks found:
+    1. SPIC:
+    2. CENTRUM:
+    3. RPSGVENT:
+    4. NATIONALUM:
+    5. SOBHA:
+
+10) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/copy-peak-obv-52weeks-high-79/2025.07.30.csv
+
+
+1 interval ago on 30-07-2025, new stocks found:
+    1. BLISSGVS:
+    2. ORICONENT:
+    3. VISHNU:
+    4. RAMCOIND:
+    5. ZUARI:
+
+11) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/high-obv-reversal-stocks/2025.07.30.csv
+
+
+1 interval ago on 30-07-2025, new stocks found:
+    1. DBL:
+    2. APLLTD:
+    3. CHENNPETRO:
+    4. ELIN:
+    5. MAZDA:
+    6. AHLUCONT:
+    7. VASCONEQ:
+    8. SMCGLOBAL:
+    9. GOKULAGRO:
+
+12) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-volume-in-last-3-years/2025.07.30.csv
+
+
+13) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/10-ema-crossed-after-getting-support-from-50-ema/2025.07.30.csv
+
+
+1 interval ago on 30-07-2025, new stocks found:
+    1. NPST:
+
+14) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/3-months-high-crossed-today/2025.07.30.csv
+
+
+1 interval ago on 30-07-2025, new stocks found:
+    1. GALAXYSURF:
+    2. SUMICHEM:
+
+15) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/trending-10-21-50-200/2025.07.30.csv
+

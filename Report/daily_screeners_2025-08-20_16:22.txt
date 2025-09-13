@@ -1,0 +1,150 @@
+
+1) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/above_10ema_for_a_month/2025.08.20.csv
+
+
+1 interval ago on 20-08-2025, new stocks found:
+    1. HUBTOWN:
+
+2) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/most-of-the-days-above-10-ema/2025.08.20.csv
+
+
+3) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/all_emas_in_daily_weekly_monthly_trending/2025.08.20.csv
+
+
+1 interval ago on 20-08-2025, new stocks found:
+    1. GODREJIND:
+    2. AJMERA:
+    3. TAJGVK:
+    4. LEMONTREE:
+    5. ITCHOTELS:
+    6. CANBK:
+    7. NEULANDLAB:
+    8. NATIONALUM:
+    9. SHANTIGEAR:
+    10. NRBBEARING:
+    11. EVEREADY:
+    12. CPPLUS:
+
+4) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/crossed-200-ema-and-gone-bullish/2025.08.20.csv
+
+
+1 interval ago on 20-08-2025, new stocks found:
+    1. AGI:
+
+5) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/bullish-stocks-respecting-10ema/2025.08.20.csv
+
+
+1 interval ago on 20-08-2025, new stocks found:
+    1. NESCO:
+    2. UPL:
+    3. MEDANTA:
+    4. 63MOONS:
+    5. PRUDENT:
+    6. BAJAJCON:
+    7. AJMERA:
+    8. USHAMART:
+    9. EPACK:
+    10. NATIONALUM:
+    11. RAMKY:
+
+6) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/price-crossed-above-10-ema-and-10-21-50-150-200-sequence-12/2025.08.20.csv
+
+
+1 interval ago on 20-08-2025, new stocks found:
+    1. ABCAPITAL:
+
+7) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-cross-10-ema-20-days-ago-and-continuing-above-it/2025.08.20.csv
+
+
+1 interval ago on 20-08-2025, new stocks found:
+    1. ASAHIINDIA:
+
+8) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-price-in-last-3-months-and-bullish-character/2025.08.20.csv
+
+
+1 interval ago on 20-08-2025, new stocks found:
+    1. MARICO:
+
+9) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-above-10-21-50-200-first-time-in-a-month/2025.08.20.csv
+
+
+1 interval ago on 20-08-2025, new stocks found:
+    1. SUNFLAG:
+    2. POLICYBZR:
+    3. POONAWALLA:
+    4. CREDITACC:
+
+10) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/copy-peak-obv-52weeks-high-79/2025.08.20.csv
+
+
+1 interval ago on 20-08-2025, new stocks found:
+    1. GODFRYPHLP:
+    2. SUNFLAG:
+    3. SPIC:
+    4. FOSECOIND:
+    5. MARICO:
+
+11) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/high-obv-reversal-stocks/2025.08.20.csv
+
+
+1 interval ago on 20-08-2025, new stocks found:
+    1. BANCOINDIA:
+    2. GODREJAGRO:
+    3. CASTROLIND:
+    4. LLOYDSENT:
+    5. JAYBARMARU:
+    6. MEDIASSIST:
+    7. OCCLLTD:
+    8. POCL:
+    9. BLKASHYAP:
+    10. HMVL:
+    11. SIS:
+    12. ARVINDFASN:
+    13. IPL:
+    14. PARAS:
+
+12) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-volume-in-last-3-years/2025.08.20.csv
+
+
+13) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/10-ema-crossed-after-getting-support-from-50-ema/2025.08.20.csv
+
+
+1 interval ago on 20-08-2025, new stocks found:
+    1. SPIC:
+    2. HAVELLS:
+    3. SAGCEM:
+    4. AMBUJACEM:
+    5. SYRMA:
+    6. SANGHIIND:
+    7. SUNDRMFAST:
+    8. BIKAJI:
+    9. DABUR:
+    10. MRF:
+    11. SPLPETRO:
+    12. USHAMART:
+    13. KEI:
+    14. SCI:
+    15. MUTHOOTMF:
+    16. RELAXO:
+    17. SUPRAJIT:
+    18. RML:
+    19. FIEMIND:
+    20. GREENPOWER:
+    21. SFL:
+    22. KCP:
+    23. ERIS:
+    24. DIXON:
+
+14) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/3-months-high-crossed-today/2025.08.20.csv
+
+
+1 interval ago on 20-08-2025, new stocks found:
+    1. UNIPARTS:
+    2. DEEPINDS:
+
+15) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/trending-10-21-50-200/2025.08.20.csv
+
+
+1 interval ago on 20-08-2025 3:15 pm, new stocks found:
+    1. TDPOWERSYS:
+    2. NYKAA:

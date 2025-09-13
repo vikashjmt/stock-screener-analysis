@@ -1,0 +1,140 @@
+
+1) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/above_10ema_for_a_month/2025.08.18.csv
+
+
+1 interval ago on 18-08-2025, new stocks found:
+    1. SHYAMMETL:
+    2. RALLIS:
+    3. SIRCA:
+    4. SUMICHEM:
+
+2) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/most-of-the-days-above-10-ema/2025.08.18.csv
+
+
+1 interval ago on 18-08-2025, new stocks found:
+    1. THYROCARE:
+
+3) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/all_emas_in_daily_weekly_monthly_trending/2025.08.18.csv
+
+
+1 interval ago on 18-08-2025, new stocks found:
+    1. KIMS:
+    2. CHALET:
+    3. MCX:
+    4. ENDURANCE:
+    5. ACI:
+    6. SENORES:
+    7. BHARATRAS:
+
+4) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/crossed-200-ema-and-gone-bullish/2025.08.18.csv
+
+
+1 interval ago on 18-08-2025, new stocks found:
+    1. GPIL:
+
+5) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/bullish-stocks-respecting-10ema/2025.08.18.csv
+
+
+1 interval ago on 18-08-2025, new stocks found:
+    1. KIMS:
+    2. AJAXENGG:
+    3. SUNDARMHLD:
+    4. LTF:
+    5. SANATHAN:
+    6. SJS:
+    7. IIFLCAPS:
+    8. EIEL:
+    9. ZFCVINDIA:
+    10. WABAG:
+    11. NETWEB:
+
+6) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/price-crossed-above-10-ema-and-10-21-50-150-200-sequence-12/2025.08.18.csv
+
+
+1 interval ago on 18-08-2025, new stocks found:
+    1. TFCILTD:
+    2. EMCURE:
+    3. JSL:
+    4. ZOTA:
+    5. APTUS:
+
+7) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-cross-10-ema-20-days-ago-and-continuing-above-it/2025.08.18.csv
+
+
+1 interval ago on 18-08-2025, new stocks found:
+    1. HIRECT:
+    2. SHARDACROP:
+
+8) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-price-in-last-3-months-and-bullish-character/2025.08.18.csv
+
+
+1 interval ago on 18-08-2025, new stocks found:
+    1. METROPOLIS:
+    2. LXCHEM:
+
+9) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-above-10-21-50-200-first-time-in-a-month/2025.08.18.csv
+
+
+1 interval ago on 18-08-2025, new stocks found:
+    1. JAYNECOIND:
+    2. SHANTIGOLD:
+
+10) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/copy-peak-obv-52weeks-high-79/2025.08.18.csv
+
+
+1 interval ago on 18-08-2025, new stocks found:
+    1. EICHERMOT:
+    2. TI:
+    3. INDIGO:
+    4. SPIC:
+    5. ASHOKLEY:
+    6. UDAICEMENT:
+    7. MARUTI:
+    8. ULTRACEMCO:
+    9. UNOMINDA:
+    10. NYKAA:
+
+11) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/high-obv-reversal-stocks/2025.08.18.csv
+
+
+1 interval ago on 18-08-2025, new stocks found:
+    1. MANAKCOAT:
+    2. TATAINVEST:
+    3. KSB:
+    4. VISAKAIND:
+    5. MUKANDLTD:
+    6. EIHAHOTELS:
+    7. SCHNEIDER:
+    8. MBAPL:
+    9. HOMEFIRST:
+    10. TEGA:
+
+12) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-volume-in-last-3-years/2025.08.18.csv
+
+
+13) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/10-ema-crossed-after-getting-support-from-50-ema/2025.08.18.csv
+
+
+1 interval ago on 18-08-2025, new stocks found:
+    1. NSLNISP:
+    2. CHEMPLASTS:
+    3. PFIZER:
+    4. EIHOTEL:
+    5. APOLLOHOSP:
+    6. PREMEXPLN:
+    7. STAR:
+    8. LTF:
+    9. IIFLCAPS:
+
+14) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/3-months-high-crossed-today/2025.08.18.csv
+
+
+1 interval ago on 18-08-2025, new stocks found:
+    1. JSL:
+    2. LXCHEM:
+
+15) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/trending-10-21-50-200/2025.08.18.csv
+
+
+1 interval ago on 18-08-2025 3:15 pm, new stocks found:
+    1. VSTTILLERS:
