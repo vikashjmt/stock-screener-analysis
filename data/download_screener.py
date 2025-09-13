@@ -21,7 +21,7 @@ def download_screener(url):
     driver.implicitly_wait(6)
     driver.get(url)
     sleep(6)
-    dom = driver.find_element(by=By.CSS_SELECTOR, value="a.btn-primary")
+    dom = driver.find_element(By.XPATH, "//div[contains(text(), 'Download csv')]")
     sleep(6)
     dom.click()
     sleep(4)
