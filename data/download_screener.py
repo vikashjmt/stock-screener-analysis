@@ -4,6 +4,8 @@ import sys
 from time import sleep
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
 from selenium import webdriver
 # from icecream import ic
 from pathlib import Path
@@ -18,12 +20,28 @@ options.add_argument("--disable-dev-shm-usage")
 
 def download_screener(url):
     driver = webdriver.Chrome(options=options)
+    wait = WebDriverWait(driver, 10)
     driver.implicitly_wait(6)
     driver.get(url)
     sleep(6)
-    dom = driver.find_element(By.XPATH, "//div[contains(text(), 'Download csv')]")
-    sleep(6)
-    dom.click()
+    download_buttons = wait.until(
+            EC.presence_of_all_elements_located(
+                (By.XPATH, "//button[contains(., 'Download')]")
+            )
+        )
+    download_btn = sorted(
+            [btn for btn in download_buttons if btn.is_displayed()],
+            key=lambda x: x.location['y']
+        )[-1]
+
+    driver.execute_script("arguments[0].click();", download_btn)
+
+    csv_option = wait.until(
+        EC.element_to_be_clickable(
+            (By.XPATH, "//*[contains(text(),' CSV')]")
+        )
+    )
+    csv_option.click()
     sleep(4)
     driver.quit()
 
