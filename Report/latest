@@ -1,105 +1,99 @@
 
-1) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/above_10ema_for_a_month/2026.10.13.csv
+1) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/above_10ema_for_a_month/2026.10.14.csv
 
 
-2) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/most-of-the-days-above-10-ema/2026.10.13.csv
+2) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/most-of-the-days-above-10-ema/2026.10.14.csv
 
 
-3) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/all_emas_in_daily_weekly_monthly_trending/2026.10.13.csv
+3) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/all_emas_in_daily_weekly_monthly_trending/2026.10.14.csv
 
 
-1 interval ago on 13-10-2026, new stocks found:
-    1. SHYAMMETL:
-    2. NEOGEN:
-    3. MODISONLTD:
-    4. CYIENTDLM:
+1 interval ago on 14-10-2026, new stocks found:
+    1. JGCHEM:
+    2. GPTINFRA:
+    3. STOVEKRAFT:
 
-4) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/crossed-200-ema-and-gone-bullish/2026.10.13.csv
-
-
-1 interval ago on 13-10-2026, new stocks found:
-    1. GESHIP:
-    2. CYIENT:
-
-5) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/bullish-stocks-respecting-10ema/2026.10.13.csv
+4) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/crossed-200-ema-and-gone-bullish/2026.10.14.csv
 
 
-1 interval ago on 13-10-2026, new stocks found:
-    1. MUFIN:
-    2. SGMART:
-    3. CYIENTDLM:
-    4. MEESHO:
-    5. CYIENT:
+1 interval ago on 14-10-2026, new stocks found:
+    1. MOTISONS:
 
-6) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/price-crossed-above-10-ema-and-10-21-50-150-200-sequence-12/2026.10.13.csv
+5) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/bullish-stocks-respecting-10ema/2026.10.14.csv
 
 
-7) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-cross-10-ema-20-days-ago-and-continuing-above-it/2026.10.13.csv
+1 interval ago on 14-10-2026, new stocks found:
+    1. PNB:
+    2. MAYURUNIQ:
+    3. PCJEWELLER:
+    4. AUGMONT:
+
+6) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/price-crossed-above-10-ema-and-10-21-50-150-200-sequence-12/2026.10.14.csv
 
 
-1 interval ago on 13-10-2026, new stocks found:
-    1. MOTILALOFS:
-    2. IBULLSLTD:
+1 interval ago on 14-10-2026, new stocks found:
+    1. TCPLPACK:
 
-8) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-price-in-last-3-months-and-bullish-character/2026.10.13.csv
-
-
-9) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-above-10-21-50-200-first-time-in-a-month/2026.10.13.csv
+7) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-cross-10-ema-20-days-ago-and-continuing-above-it/2026.10.14.csv
 
 
-10) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/copy-peak-obv-52weeks-high-79/2026.10.13.csv
+8) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-price-in-last-3-months-and-bullish-character/2026.10.14.csv
 
 
-1 interval ago on 13-10-2026, new stocks found:
-    1. TIPSMUSIC:
-    2. SHRINGARMS:
-
-11) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/high-obv-reversal-stocks/2026.10.13.csv
+9) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-above-10-21-50-200-first-time-in-a-month/2026.10.14.csv
 
 
-1 interval ago on 13-10-2026, new stocks found:
-    1. MSTCLTD:
-    2. GLAXO:
-    3. MARKSANS:
-    4. BRIGADE:
-    5. TEXRAIL:
-    6. UFLEX:
-    7. INDORAMA:
-    8. BOROLTD:
-    9. HERITGFOOD:
-    10. ZYDUSLIFE:
-    11. SUBEXLTD:
-    12. RML:
-    13. EMKAY:
-    14. OBEROIRLTY:
-    15. JTLIND:
-    16. SHRIPISTON:
-    17. TIRUPATIFL:
-    18. ACUTAAS:
-    19. JSWINFRA:
-    20. JYOTICNC:
-    21. SURAKSHA:
-    22. AEQUS:
+1 interval ago on 14-10-2026, new stocks found:
+    1. PAUSHAKLTD:
+    2. VMART:
 
-12) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-volume-in-last-3-years/2026.10.13.csv
+10) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/copy-peak-obv-52weeks-high-79/2026.10.14.csv
 
 
-13) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/10-ema-crossed-after-getting-support-from-50-ema/2026.10.13.csv
+1 interval ago on 14-10-2026, new stocks found:
+    1. WSTCSTPAPR:
+    2. RGL:
+    3. KROSS:
+
+11) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/high-obv-reversal-stocks/2026.10.14.csv
 
 
-1 interval ago on 13-10-2026, new stocks found:
-    1. GOODLUCK:
-    2. KSL:
-    3. CARTRADE:
+1 interval ago on 14-10-2026, new stocks found:
+    1. CENTUM:
+    2. EMCURE:
+    3. ALKYLAMINE:
+    4. TASTYBITE:
+    5. YUKEN:
+    6. BODALCHEM:
+    7. BALAMINES:
+    8. RPGLIFE:
+    9. SHIVALIK:
+    10. SUPRIYA:
+    11. AKUMS:
+    12. AJAXENGG:
+    13. URBANCO:
+    14. KSHINTL:
 
-14) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/3-months-high-crossed-today/2026.10.13.csv
+12) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-volume-in-last-3-years/2026.10.14.csv
+
+
+1 interval ago on 14-10-2026, new stocks found:
+    1. INDORAMA:
+
+13) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/10-ema-crossed-after-getting-support-from-50-ema/2026.10.14.csv
+
+
+1 interval ago on 14-10-2026, new stocks found:
+    1. PAYTM:
+    2. APCOTEXIND:
+    3. SPORTKING:
+    4. CRAFTSMAN:
+
+14) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/3-months-high-crossed-today/2026.10.14.csv
 
 
 1 interval ago on 13-10-2026, new stocks found:
     1. PERSISTENT:
 
-15) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/trending-10-21-50-200/2026.10.13.csv
+15) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/trending-10-21-50-200/2026.10.14.csv
 
-
-1 interval ago on 13-10-2026 3:15 pm, new stocks found:
-    1. TCPLPACK:
