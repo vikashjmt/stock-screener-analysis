@@ -1,18 +1,19 @@
 
-1) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/weekly_first_time_10_21_50_200/2026.10.09.csv
+1) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/weekly_first_time_10_21_50_200/2026.10.16.csv
 
 
-2 interval ago on 28-09-2026, new stocks found:
-    1. OMAXE:
-    2. KOPRAN:
-
-1 interval ago on 05-10-2026, new stocks found:
+2 interval ago on 05-10-2026, new stocks found:
     1. 3BBLACKBIO:
     2. GAYAPROJ:
     3. NAUKRI:
     4. PERSISTENT:
 
-2) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/monthly_candle_crossed_200ema_and_close_greater_than_52_weeks_high/2026.10.09.csv
+1 interval ago on 12-10-2026, new stocks found:
+    1. TATVA:
+    2. MOTISONS:
+    3. KROSS:
+
+2) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/monthly_candle_crossed_200ema_and_close_greater_than_52_weeks_high/2026.10.16.csv
 
 
 2 interval ago on 01-09-2026, new stocks found:
@@ -24,9 +25,10 @@
     6. AEGISVOPAK:
 
 1 interval ago on 01-10-2026, new stocks found:
-    1. SHANTIGOLD:
+    1. SAMBHV:
+    2. SHANTIGOLD:
 
-3) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/monthly_candle_crossed_200ema/2026.10.09.csv
+3) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/monthly_candle_crossed_200ema/2026.10.16.csv
 
 
 2 interval ago on 01-09-2026, new stocks found:
@@ -46,11 +48,15 @@
     6. CYIENTDLM:
     7. AEGISVOPAK:
 
-4) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/multi_Year_top_breakout_current_month/2026.10.09.csv
+4) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/multi_Year_top_breakout_current_month/2026.10.16.csv
 
 
-5) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-consolidating-above-10wema/2026.10.09.csv
+5) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-consolidating-above-10wema/2026.10.16.csv
 
 
-6) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/earning-suprises/2026.10.09.csv
+1 interval ago on 12-10-2026, new stocks found:
+    1. GESHIP:
+    2. CASTROLIND:
+
+6) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/earning-suprises/2026.10.16.csv
 
