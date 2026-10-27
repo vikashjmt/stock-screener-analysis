@@ -1,0 +1,79 @@
+
+1) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/above_10ema_for_a_month/2026.10.27.csv
+
+
+2) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/most-of-the-days-above-10-ema/2026.10.27.csv
+
+
+3) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/all_emas_in_daily_weekly_monthly_trending/2026.10.27.csv
+
+
+4) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/crossed-200-ema-and-gone-bullish/2026.10.27.csv
+
+
+5) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/bullish-stocks-respecting-10ema/2026.10.27.csv
+
+
+1 interval ago on 27-10-2026, new stocks found:
+    1. TECHM:
+    2. SYMBIOTEC:
+
+6) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/price-crossed-above-10-ema-and-10-21-50-150-200-sequence-12/2026.10.27.csv
+
+
+1 interval ago on 27-10-2026, new stocks found:
+    1. GCSL:
+
+7) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-cross-10-ema-20-days-ago-and-continuing-above-it/2026.10.27.csv
+
+
+8) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-price-in-last-3-months-and-bullish-character/2026.10.27.csv
+
+
+1 interval ago on 27-10-2026, new stocks found:
+    1. SONACOMS:
+    2. MPHASIS:
+
+9) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-above-10-21-50-200-first-time-in-a-month/2026.10.27.csv
+
+
+1 interval ago on 27-10-2026, new stocks found:
+    1. ACUTAAS:
+    2. ATHERENERG:
+
+10) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/copy-peak-obv-52weeks-high-79/2026.10.27.csv
+
+
+11) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/high-obv-reversal-stocks/2026.10.27.csv
+
+
+1 interval ago on 27-10-2026, new stocks found:
+    1. ROSSTECH:
+    2. ARIHANTCAP:
+    3. GREENPLY:
+    4. WHEELS:
+    5. TBOTEK:
+
+12) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-volume-in-last-3-years/2026.10.27.csv
+
+
+1 interval ago on 27-10-2026, new stocks found:
+    1. PCJEWELLER:
+
+13) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/10-ema-crossed-after-getting-support-from-50-ema/2026.10.27.csv
+
+
+1 interval ago on 27-10-2026, new stocks found:
+    1. MOREPENLAB:
+    2. WESTLIFE:
+    3. COFORGE:
+    4. KPL:
+
+14) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/3-months-high-crossed-today/2026.10.27.csv
+
+
+1 interval ago on 21-10-2026, new stocks found:
+    1. MPHASIS:
+
+15) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/trending-10-21-50-200/2026.10.27.csv
+
