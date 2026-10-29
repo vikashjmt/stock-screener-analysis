@@ -1,0 +1,96 @@
+
+1) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/above_10ema_for_a_month/2026.10.29.csv
+
+
+2) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/most-of-the-days-above-10-ema/2026.10.29.csv
+
+
+3) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/all_emas_in_daily_weekly_monthly_trending/2026.10.29.csv
+
+
+1 interval ago on 29-10-2026, new stocks found:
+    1. GESHIP:
+    2. SMSPHARMA:
+    3. THELEELA:
+    4. SATIN:
+
+4) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/crossed-200-ema-and-gone-bullish/2026.10.29.csv
+
+
+1 interval ago on 29-10-2026, new stocks found:
+    1. DELTACORP:
+
+5) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/bullish-stocks-respecting-10ema/2026.10.29.csv
+
+
+1 interval ago on 29-10-2026, new stocks found:
+    1. SPORTKING:
+    2. WESTLIFE:
+    3. BSOFT:
+
+6) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/price-crossed-above-10-ema-and-10-21-50-150-200-sequence-12/2026.10.29.csv
+
+
+1 interval ago on 29-10-2026, new stocks found:
+    1. SBC:
+    2. PERSISTENT:
+
+7) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-cross-10-ema-20-days-ago-and-continuing-above-it/2026.10.29.csv
+
+
+1 interval ago on 29-10-2026, new stocks found:
+    1. LOTUSDEV:
+
+8) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-price-in-last-3-months-and-bullish-character/2026.10.29.csv
+
+
+1 interval ago on 29-10-2026, new stocks found:
+    1. SGFIN:
+
+9) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-above-10-21-50-200-first-time-in-a-month/2026.10.29.csv
+
+
+1 interval ago on 29-10-2026, new stocks found:
+    1. PPLPHARMA:
+
+10) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/copy-peak-obv-52weeks-high-79/2026.10.29.csv
+
+
+1 interval ago on 29-10-2026, new stocks found:
+    1. SYRMA:
+
+11) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/high-obv-reversal-stocks/2026.10.29.csv
+
+
+1 interval ago on 29-10-2026, new stocks found:
+    1. IBULLSLTD:
+    2. KAYA:
+    3. TARSONS:
+    4. DBOL:
+
+12) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/highest-volume-in-last-3-years/2026.10.29.csv
+
+
+1 interval ago on 28-10-2026, new stocks found:
+    1. WHEELS:
+
+13) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/10-ema-crossed-after-getting-support-from-50-ema/2026.10.29.csv
+
+
+1 interval ago on 29-10-2026, new stocks found:
+    1. HUBTOWN:
+    2. AEROFLEX:
+    3. WIPRO:
+    4. TECHM:
+    5. SATIN:
+    6. MACPOWER:
+    7. GLAND:
+
+14) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/3-months-high-crossed-today/2026.10.29.csv
+
+
+1 interval ago on 28-10-2026, new stocks found:
+    1. PPLPHARMA:
+
+15) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/trending-10-21-50-200/2026.10.29.csv
+
