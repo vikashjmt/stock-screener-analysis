@@ -1,0 +1,54 @@
+
+1) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/weekly_first_time_10_21_50_200/2026.10.30.csv
+
+
+2 interval ago on 19-10-2026, new stocks found:
+    1. QUESS:
+    2. UNIMECH:
+
+1 interval ago on 26-10-2026, new stocks found:
+    1. CRISIL:
+    2. UTTAMSUGAR:
+
+2) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/monthly_candle_crossed_200ema_and_close_greater_than_52_weeks_high/2026.10.30.csv
+
+
+2 interval ago on 01-09-2026, new stocks found:
+    1. PCJEWELLER:
+    2. VARROC:
+    3. SPECTRUM:
+    4. PAYTM:
+    5. CYIENTDLM:
+    6. AEGISVOPAK:
+
+1 interval ago on 01-10-2026, new stocks found:
+    1. KROSS:
+    2. SHANTIGOLD:
+
+3) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/monthly_candle_crossed_200ema/2026.10.30.csv
+
+
+2 interval ago on 01-09-2026, new stocks found:
+    1. BETA:
+    2. DIFFNKG:
+    3. SETL:
+    4. BLUESTONE:
+    5. TATACAP:
+    6. SUDEEPPHRM:
+
+1 interval ago on 01-10-2026, new stocks found:
+    1. BODALCHEM:
+    2. ALGOQUANT:
+    3. VARROC:
+    4. SPECTRUM:
+    5. PAYTM:
+    6. CYIENTDLM:
+
+4) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/multi_Year_top_breakout_current_month/2026.10.30.csv
+
+
+5) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/stocks-consolidating-above-10wema/2026.10.30.csv
+
+
+6) Screener file: /home/runner/work/stock-screener-analysis/stock-screener-analysis/data/earning-suprises/2026.10.30.csv
+
